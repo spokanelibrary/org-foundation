@@ -9,7 +9,7 @@ Template Name: Payment Info
 
 	<div class="col-md-9">
 		<?php get_template_part('templates/page', 'header'); ?>
-		<?php get_template_part('templates/content', 'page'); ?>
+		
 
 		<div class="panel panel-default">
 			<div class="panel-body">
@@ -21,7 +21,7 @@ Template Name: Payment Info
 
 	<div class="col-md-3">
 		
-		Lorem.
+		<?php get_template_part('templates/content', 'page'); ?>
 
 	</div>
 
