@@ -26,7 +26,7 @@ Template Name: - Home Page
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Cras nec rutrum nisi. 
-          Vivamus eget suscipit purus, ut accumsan augue. Maecenas consequat mattis consequat.
+          Vivamus eget suscipit purus, ut accumsan augue.
         </p>
 
         <p>
