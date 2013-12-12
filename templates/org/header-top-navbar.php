@@ -46,7 +46,7 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="">
+    <div class="pull-right" style="padding-top:4px;">
       <ul class="nav">
         <li>
           <a href="#"><small>Spokane Public Library Website</small></a>
