@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Application (Full Width)
+Template Name: Payment Info
 */
 ?>
 
@@ -11,5 +11,9 @@ Template Name: Application (Full Width)
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 	</div>
+
+	<hr>
+
+	This is actually a payment form.
 
 </div>
