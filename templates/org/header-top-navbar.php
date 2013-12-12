@@ -48,10 +48,10 @@
     </div>
     <div class="pull-right" style="padding-top:20px;">
       <p>
-        <a class="btn btn-small btn-success" href="#">Spokane Public Library Website</a>
+        <a class="btn btn-sm btn-success" href="#">Spokane Public Library Website</a>
       </p>
       <p>
-        <a class="btn btn-small btn-success" href="#">Friends of the Spokane Public Library</a>
+        <a class="btn btn-sm btn-success" href="#">Friends of the Spokane Public Library</a>
       </p>
     </div>
   </div>
