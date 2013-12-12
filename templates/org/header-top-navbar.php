@@ -67,8 +67,8 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand hidden-md hidden-lg" href="<?php echo home_url(); ?>/">
-        <span class="logotype hidden-xs">SPL Foundation</span>
-        <span class="logotype hidden-sm"><?php bloginfo('name'); ?></span>
+        <span class="logotype hidden-sm">SPL Foundation</span>
+        <span class="logotype hidden-xs"><?php bloginfo('name'); ?></span>
       </a>
     </div>
     <nav class="collapse navbar-collapse" role="navigation">
