@@ -1,11 +1,4 @@
-<script>/*(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=289675684463099";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));*/</script>  
-<header class="navbar-common banner navbar navbar-fixed-top" role="navigation">
+<!--<header class="navbar-common banner navbar navbar-fixed-top" role="navigation">
   <ul class="nav nav-justified">
     <li>
       <a href="<?php echo home_url(); ?>/">
@@ -44,7 +37,7 @@
       </a>
     </li>
   </ul>
-</header><!-- /.navbar -->
+</header>--><!-- /.navbar -->
 
 <header class="navbar-masthead banner navbar navbar-inverse navbar-static-top visible-md visible-lg" role="banner">
   <div class="container">
@@ -53,47 +46,9 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-
-    <div id="spl-account-profile"></div>
-
-    <script id="spl-account-profile-tmpl" type="text/x-handlebars-template">
-      {{#if user.sessionToken}}
-      <div class="pull-right" id="spl-account-profile">
-        <div class="well well-sm" style="margin: 6px 0 0 0;  opacity:.9; border-left-width:5px;">
-            <i class="glyphicon glyphicon-user text-muted"></i>
-            <strong class="text-muted">{{user.firstName}}</strong>
-            <a href="/account/"><small><strong>My Account</strong></small></a>
-            <span class="text-muted">&nbsp;&nbsp;</span>
-            <span class="pull-right">
-              <i class="glyphicon glyphicon-log-out text-danger"></i>
-              <a href="/account/?logout" class="text-danger"><small><strong>Logout</strong></small></a>
-            </span>
-          <!--  
-            <br />
-        
-          {{#if user.holdRequests}}
-            {{#if user.holdRequests.ready}}
-            <a href="/account#holds" class="btn btn-sm btn-default">
-              Ready to pickup
-              <small class="badge">{{user.holdRequests.ready}}</small>
-            </a>
-            {{/if}}
-          {{/if}}
-          &nbsp;
-          {{#if user.itemsOut}}
-            {{#if user.itemsOut.overdue}}
-            <a href="/account#cko" class="btn btn-sm btn-default">
-              Overdue 
-              <small class="badge">{{user.itemsOut.overdue}}</small>
-            </a>
-            {{/if}}
-          {{/if}}
-          -->
-        </div>
-      </div>
-      {{/if}}
-    </script>
-
+    <div class="pull-right" style="padding-top:20px;">
+      Some Links &amp; Stuff
+    </div>
   </div>
 </header><!-- /.navbar -->
 
