@@ -9,7 +9,6 @@
   </div>
 </footer>
 
-<hr />
 
 <footer class="content-info container" role="contentinfo">
 	<div class="row">
