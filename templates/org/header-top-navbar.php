@@ -51,7 +51,7 @@
         <a class="btn btn-xs btn-block btn-default" href="http://www.spokanelibrary.org"><span class="text-success"><i class="glyphicon glyphicon-home"></i> Spokane Public Library Website</span></a>
       </p>
       <p>
-        <a class="btn btn-xs btn-block btn-default text-success" href="http://www.facebook.com/spokanelibrary"><i class="glyphicon glyphicon-thumbs-up"></i> Spokane Public Library on Facebook</a>
+        <a class="btn btn-xs btn-block btn-default" href="http://www.facebook.com/spokanelibrary"><span class="text-success"><i class="glyphicon glyphicon-thumbs-up"></i> Spokane Public Library on Facebook</span></a>
       </p>
     </div>
   </div>
