@@ -46,13 +46,13 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="padding-top:4px;">
-      <ul class="unstyled">
+    <div class="pull-right" style="padding-top:20px;">
+      <ul class="list unstyled">
         <li>
-          <a href="#"><small>Spokane Public Library Website</small></a>
+          <a class="btn-small btn-success" href="#">Spokane Public Library Website</a>
         </li>
         <li>
-          <a href="#"><small>Friends of the Spokane Public Library</small></a>
+          <a class="btn-small btn-success" href="#">Friends of the Spokane Public Library</a>
         </li>
       </ul>
     </div>
