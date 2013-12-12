@@ -11,6 +11,16 @@ Template Name: Archive (Posts)
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
+		<ul>
+		<?php
+			$args = array( 'numberposts' => '1' );
+			$recent_posts = wp_get_recent_posts( $args );
+			foreach( $recent_posts as $recent ){
+				echo '<li><a href="' . get_permalink($recent["ID"]) . '" title="Look '.esc_attr($recent["post_title"]).'" >' .   $recent["post_title"].'</a> </li> ';
+			}
+		?>
+		</ul>
+
 		<div class="panel panel-primary">
 			<div class="panel-heading">
 				News Archive
