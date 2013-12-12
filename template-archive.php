@@ -11,9 +11,9 @@ Template Name: Archive (Posts)
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
-		<div class="panel panel-default">
+		<div class="panel panel-primary">
 			<div class="panel-heading">
-				Archive
+				News Archive
 			</div>
 			<div class="panel-body">
 				<ul class="nav nav-pills nav-stacked">
