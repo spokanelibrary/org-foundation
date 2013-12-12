@@ -12,7 +12,7 @@ Template Name: Archive (Posts)
 		<?php get_template_part('templates/content', 'page'); ?>
 
 		<ul>
-			<?php wp_get_archives('type=monthly'); ?>
+			<?php wp_get_archives(); ?>
 		</ul>
 
 	</div>
