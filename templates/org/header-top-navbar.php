@@ -47,7 +47,11 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:20px;">
-      Some Links &amp; Stuff
+      <ul class="nav">
+        <li>
+          <a href="#">Spokane Public Library</a>
+        </li>
+      </ul>
     </div>
   </div>
 </header><!-- /.navbar -->
