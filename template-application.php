@@ -7,7 +7,7 @@ Template Name: Payment Info
 
 <div class="row">
 
-	<div class="col-sm-12">
+	<div class="col-sm-12 col-md-9">
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
