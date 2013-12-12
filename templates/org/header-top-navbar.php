@@ -46,12 +46,12 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width: 340px; padding-top:20px;">
+    <div class="pull-right" style="width: 320px; padding-top:20px;">
       <p>
-        <a class="btn btn-xs btn-block btn-success" href="#">Spokane Public Library Website</a>
+        <a class="btn btn-xs btn-block btn-success" href="#"><i class="glyphicon glyphicon-home"></i>Spokane Public Library Website</a>
       </p>
       <p>
-        <a class="btn btn-xs btn-block btn-success" href="#">Friends of the Spokane Public Library</a>
+        <a class="btn btn-xs btn-block btn-success" href="#"><i class="glyphicon glyphicon-thumbs-up"></i>Spokane Public Library on Facebook</a>
       </p>
     </div>
   </div>
