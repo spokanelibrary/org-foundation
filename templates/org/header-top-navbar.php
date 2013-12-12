@@ -47,7 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:4px;">
-      <ul class="nav">
+      <ul class="unstyled">
         <li>
           <a href="#"><small>Spokane Public Library Website</small></a>
         </li>
