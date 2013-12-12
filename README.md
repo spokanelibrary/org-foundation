@@ -1,4 +1,11 @@
-org-foundation
-==============
+org
+===
 
-Spokane Public Library Foundation Wordpress Theme - based on org/roots
+a wordpress theme for spokanelibrary.org
+
+see [BUILDME] (BUILDME.md)
+
+---
+
+it has roots: http://roots.io/
+
