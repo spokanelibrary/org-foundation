@@ -21,7 +21,8 @@ Template Name: Archive (Posts)
 			}
 		?>
 
-		<div class="panel panel-primary">
+
+		<div class="panel panel-primary" style="margin-top:20px;">
 			<div class="panel-heading">
 				News Archive
 			</div>
