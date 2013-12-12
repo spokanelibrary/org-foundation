@@ -13,7 +13,7 @@ Template Name: Payment Info
 
 		<div class="panel panel-default">
 			<div class="panel-body">
-				This is actually a payment form.
+				Would you believe this is actually a payment form?
 			</div>
 		</div>
 
