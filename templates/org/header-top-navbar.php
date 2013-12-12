@@ -49,10 +49,10 @@
     <div class="pull-right" style="">
       <ul class="nav">
         <li>
-          <a href="#">Spokane Public Library</a>
+          <a href="#"><small>Spokane Public Library Website</small></a>
         </li>
         <li>
-          <a href="#">Friends of the Spokane Public Library</a>
+          <a href="#"><small>Friends of the Spokane Public Library</small></a>
         </li>
       </ul>
     </div>
