@@ -9,7 +9,7 @@ Template Name: Payment Info
 
 	<div class="col-md-8">
 		<?php get_template_part('templates/page', 'header'); ?>
-		
+		<?php get_template_part('templates/content', 'page'); ?>
 
 		<div class="panel panel-default">
 			<div class="panel-body">
@@ -23,7 +23,13 @@ Template Name: Payment Info
 
 		<h3>Lorem Ipsum</h3>
 		
-		<?php get_template_part('templates/content', 'page'); ?>
+		<p>
+			The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.
+		</p>
+
+		<p>
+			All gifts are tax-deductible to the extent allowed by law.
+		</p>
 
 	</div>
 
