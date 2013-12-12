@@ -68,7 +68,7 @@ function roots_display_sidebar() {
       'template-custom.php'
     , 'template-tutorial.php'
     , 'template-callout.php'
-    //, 'template-application.php'
+    , 'template-application.php'
     , 'template-one-column.php'
     , 'template-no-headline.php'
     )
