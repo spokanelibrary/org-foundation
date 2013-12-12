@@ -15,8 +15,9 @@ Template Name: Archive (Posts)
 			$args = array( 'numberposts' => '1' );
 			$recent_posts = wp_get_recent_posts( $args );
 			foreach( $recent_posts as $recent ){
-				echo get_the_title();
-				echo '<a href="' . get_permalink($recent["ID"]) . '" title="Look '.esc_attr($recent["post_title"]).'" >' .   $recent["post_title"].'</a>';
+				echo '<h2>'.$recent["post_title"].'</h2>';
+				echo $recent["post_content"];
+				//echo '<a href="' . get_permalink($recent['ID']) . '" title="Look '.esc_attr($recent["post_title"]).'" >' .   $recent["post_title"].'</a>';
 			}
 		?>
 
