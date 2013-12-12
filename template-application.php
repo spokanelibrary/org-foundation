@@ -7,7 +7,7 @@ Template Name: Payment Info
 
 <div class="row">
 
-	<div class="col-sm-12 col-md-9">
+	<div class="col-md-9">
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
@@ -16,6 +16,12 @@ Template Name: Payment Info
 				This is actually a payment form.
 			</div>
 		</div>
+
+	</div>
+
+	<div class="col-md-3">
+		
+		Lorem.
 
 	</div>
 
