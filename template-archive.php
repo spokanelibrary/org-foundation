@@ -12,7 +12,7 @@ Template Name: Archive (Posts)
 		<?php get_template_part('templates/content', 'page'); ?>
 
 		<ul class="nav nav-pills nav-stacked">
-			<?php wp_get_archives('type=postbypost'); ?>
+			<?php wp_get_archives(array('type=postbypost','before=<h3>','after=</h3>')); ?>
 		</ul>
 
 	</div>
