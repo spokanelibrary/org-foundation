@@ -7,7 +7,7 @@ Template Name: Payment Info
 
 <div class="row">
 
-	<div class="col-md-9">
+	<div class="col-md-8">
 		<?php get_template_part('templates/page', 'header'); ?>
 		
 
@@ -19,7 +19,7 @@ Template Name: Payment Info
 
 	</div>
 
-	<div class="col-md-3">
+	<div class="col-md-4">
 		
 		<?php get_template_part('templates/content', 'page'); ?>
 
