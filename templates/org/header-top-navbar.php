@@ -47,14 +47,12 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:20px;">
-      <ul class="list-unstyled">
-        <li>
-          <a class="btn btn-small btn-success" href="#">Spokane Public Library Website</a>
-        </li>
-        <li>
-          <a class="btn btn-small btn-success" href="#">Friends of the Spokane Public Library</a>
-        </li>
-      </ul>
+      <p>
+        <a class="btn btn-small btn-success" href="#">Spokane Public Library Website</a>
+      </p>
+      <p>
+        <a class="btn btn-small btn-success" href="#">Friends of the Spokane Public Library</a>
+      </p>
     </div>
   </div>
 </header><!-- /.navbar -->
