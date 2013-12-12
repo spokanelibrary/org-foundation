@@ -20,6 +20,8 @@ Template Name: Payment Info
 	</div>
 
 	<div class="col-md-4">
+
+		<h3>Lorem Ipsum</h3>
 		
 		<?php get_template_part('templates/content', 'page'); ?>
 
