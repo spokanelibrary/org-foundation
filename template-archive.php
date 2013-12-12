@@ -24,7 +24,7 @@ Template Name: Archive (Posts)
 
 		<div class="panel panel-primary" style="margin-top:20px;">
 			<div class="panel-heading">
-				News Archive
+				<h2>News Archive</h2>
 			</div>
 			<div class="panel-body">
 				<ul class="nav nav-pills nav-stacked">
