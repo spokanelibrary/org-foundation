@@ -13,6 +13,7 @@ Template Name: - Home Page
 <?php get_template_part('templates/page', 'header'); ?>
 <?php get_template_part('templates/content', 'page'); ?>
 
+<?php do_shortcode('display_posts'); ?>
 
 <footer class="content-info container" role="contentinfo">
   <div class="row">
