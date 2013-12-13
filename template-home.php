@@ -30,7 +30,7 @@ Template Name: - Home Page
           Vivamus eget suscipit purus, ut accumsan augue.
         </p>
 
-        <p>
+        <p class="text-right">
           <button class="btn btn-primary">
             More &rarr;
           </button>
