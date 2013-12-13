@@ -22,7 +22,7 @@ Template Name: Payment Info
 	<div class="col-md-4">
 
 		<div style="text-muted">
-			<h3>Lorem Ipsum</h3>
+			<h3 style="text-muted">Lorem Ipsum</h3>
 			
 			<p>
 				The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.
