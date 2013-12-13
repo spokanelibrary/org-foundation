@@ -110,7 +110,7 @@ Template Name: Payment Info
 						<label>
 						Other <small>(please specify)</small>
 						<br>
-						<strong>$</strong> <input size="10" name="" id="" type="text" value="" class="" title="USD">
+						<input size="50" name="item_name" id="" type="text" value="" class="" title="USD">
 						</label>
 						</p>
 					</fieldset>
