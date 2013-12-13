@@ -29,10 +29,10 @@
           &nbsp;
         </p>
         <p>
-        <a href="#">Financials <small>(FEIN: 91-1917727)</small> &rarr;</a>
+        <a class="text-muted" href="#">Financials <small>(FEIN: 91-1917727)</small> &rarr;</a>
         </p>
         <p>
-          <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
+          <a class="text-muted" href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
         </p>
       </div><!-- /.col -->
 
