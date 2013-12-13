@@ -9,7 +9,9 @@
     <div class="row">
       <div class="col-md-6">
         <p>
-          <span class="text-success serif" style=""><?php bloginfo('name'); ?></span>
+          <span class="text-success serif">
+            <?php bloginfo('name'); ?>
+          </span>
         </p>
         <address class="text-muted" style="">
           906 West Main Avenue
@@ -22,9 +24,9 @@
 
       <div class="col-md-6">
         <p class="text-right">
-          <strong class="text-success serif" >
+          <span class="text-success serif" >
           <?php bloginfo('description'); ?>
-         </strong>
+         </span>
         </p>
         <p class="text-right">
           <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
