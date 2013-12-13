@@ -28,8 +28,8 @@
         <p>
           &nbsp;
         </p>
-        <p>
-        <a class="text-muted" href="#">FEIN: 91-1917727 (view financials)</a>
+        <p clas>
+        <a class="text-muted" href="#">FEIN: 91-1917727</a>
         </p>
         <p>
           <a class="text-muted" href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
