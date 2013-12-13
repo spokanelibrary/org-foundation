@@ -7,11 +7,11 @@
     <div class="row">
       <div class="col-md-12">
         <span class="pull-right">
-          <img alt="Spokane Public LIibrary Logo" src="/assets/img/SPL-Logo-beta.png">
+          <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
         </span>
 
         <p>
-          <strong class="text-muted" style="">Spokane Public Library</strong>
+          <strong class="text-muted" style=""><?php bloginfo('name'); ?></strong>
         </p>
         <address class="text-muted" style="">
           906 West Main Avenue
