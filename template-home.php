@@ -31,9 +31,9 @@ Template Name: - Home Page
         </p>
 
         <p class="text-right">
-          <button class="btn btn-primary">
+          <a class="btn btn-primary" href="/mission-vision">
             Learn More &rarr;
-          </button>
+          </a>
         </p>
       </div>
       
@@ -52,9 +52,9 @@ Template Name: - Home Page
         </p>
 
         <p class="text-right">
-          <button class="btn btn-primary">
+          <a class="btn btn-primary" href="/donate">
             Donate Now &rarr;
-          </button>
+          </a>
         </p>
       </div>
       
