@@ -46,7 +46,7 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width: 320px; padding-top:16px;">
+    <div class="pull-right" style="width: 300px; padding-top:16px;">
       <em class="text-primary serif">
       "My best friend is a person who will give me a book I have not read."
       </em>
