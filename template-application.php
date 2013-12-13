@@ -78,9 +78,9 @@ Template Name: Payment Info
 					</p>
 					<p>
 					<label>
-					Other <small>(please specify):</small>
+					Other amount:
 					<br>
-					<input name="amount" id="amount" type="text" value="" class="" title="USD">
+					<input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
 					</label>
 					</p>
 				</div>
