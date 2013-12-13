@@ -26,7 +26,7 @@ Template Name: Archive (Posts)
 		?>
 
 
-		<div class="panel panel-default" style="margin-top:20px;">
+		<div class="panel panel-success" style="margin-top:20px;">
 			<div class="panel-heading">
 				<h4><?php echo get_the_title(); ?></h4>
 			</div>
