@@ -37,7 +37,7 @@ Template Name: Payment Info
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<div class="panel panel-default">
 		<div class="panel-heading">
-			Lorem ipsum
+			<h4>Make a one-time or recurring donation</h4>
 		</div>
 
 		<div class="panel-body">
