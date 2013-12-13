@@ -26,6 +26,7 @@
 
       <div class="col-md-4">
         <p class="text-muted text-center serif">
+          <small class="glyphicon glyphicon-envelope"></small>
           <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
         </p>
         <p class="text-center">
