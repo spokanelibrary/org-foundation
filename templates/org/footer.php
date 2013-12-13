@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-md-6">
         <p>
-          <span class="text-success serif">
+          <span class="text-muted serif">
             <?php bloginfo('name'); ?>
           </span>
         </p>
@@ -24,7 +24,7 @@
 
       <div class="col-md-6">
         <p class="text-right">
-          <span class="text-success serif" >
+          <span class="text-muted serif" >
           <?php bloginfo('description'); ?>
          </span>
         </p>
