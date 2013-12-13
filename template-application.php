@@ -36,6 +36,7 @@ Template Name: Payment Info
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<div class="panel panel-default">
+		<!--
 		<div class="panel-heading">
 			<h4>
 				<i class="glyphicon glyphicon-gift"></i>
@@ -43,7 +44,7 @@ Template Name: Payment Info
 				<small>one-time or recurring, any amount you choose</small>
 			</h4>
 		</div>
-
+		-->
 		<div class="panel-body">
 
 			<div class="row">
