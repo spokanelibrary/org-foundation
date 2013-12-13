@@ -51,7 +51,7 @@ Template Name: - Home Page
           Etiam fringilla odio nec tempor molestie.
         </p>
 
-        <p>
+        <p class="text-right">
           <button class="btn btn-primary">
             More &rarr;
           </button>
