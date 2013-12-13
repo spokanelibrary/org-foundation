@@ -58,7 +58,7 @@ Template Name: Payment Info
 						<legend>Your Gift</legend>
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="10.00">
+							<input type="radio" name="amount" value="10">
 							$10.00
 							</label>
 							<br>
