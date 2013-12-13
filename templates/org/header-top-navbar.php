@@ -48,7 +48,7 @@
     </div>
     <div class="pull-right" style="padding-top:20px;">
       <p>
-        <a class="btn btn-xs btn-primary " href="http://www.spokanelibrary.org"><img src="/assets/img/spl-touch-inverse.png" > Visit the Library</a>
+        <a class="btn btn-xs btn-primary " href="http://www.spokanelibrary.org"><img src="/assets/img/spl-touch-inverse.png" style="height:30px;"> Visit the Library</a>
         
       </p>
       <!--
