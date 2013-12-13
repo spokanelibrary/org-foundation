@@ -22,7 +22,7 @@
 
       <div class="col-md-6">
         <p class="text-right">
-          <strong class="text-success" >
+          <strong class="text-success serif" >
           <?php bloginfo('description'); ?>
          </strong>
         </p>
