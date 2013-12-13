@@ -32,7 +32,7 @@ Template Name: - Home Page
 
         <p class="text-right">
           <a class="btn btn-primary" href="/mission-vision">
-            Learn More &rarr;
+            <i class="glyphicon glyphicon-info-sign"></i> Learn More &rarr;
           </a>
         </p>
       </div>
@@ -53,7 +53,7 @@ Template Name: - Home Page
 
         <p class="text-right">
           <a class="btn btn-primary" href="/donate">
-            Donate Now &rarr;
+            <i class="glyphicon glyphicon-gift"></i> Donate Now &rarr;
           </a>
         </p>
       </div>
