@@ -32,7 +32,7 @@ Template Name: - Home Page
 
         <p class="text-right">
           <a class="btn btn-primary" href="/mission-vision">
-            <i class="glyphicon glyphicon-info-sign"></i> Learn More &rarr;
+            <i class="glyphicon glyphicon-book"></i> Learn More &rarr;
           </a>
         </p>
       </div>
