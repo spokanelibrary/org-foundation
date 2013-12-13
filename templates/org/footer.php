@@ -25,7 +25,12 @@
       </div><!-- /.col -->
 
       <div class="col-md-4">
-        <a href="#">FEIN 91-1917727</a>
+        <p>
+        <a href="#">Financial Information <small>FEIN 91-1917727</small></a>
+        </p>
+        <p>
+          <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
+        </p>
       </div><!-- /.col -->
 
       <div class="col-md-4">
