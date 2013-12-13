@@ -28,11 +28,11 @@ Template Name: Archive (Posts)
 
 		<div class="panel panel-success" style="margin-top:20px;">
 			<div class="panel-heading">
-				<h4><?php echo get_the_title(); ?> <small>by <?php bloginfo('name'); ?></small></h4>
+				<h4 class="serif"><?php echo get_the_title(); ?> <small>by <?php bloginfo('name'); ?></small></h4>
 			</div>
 			<div class="panel-body">
 				<ul class="nav nav-pills nav-stacked">
-					<?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="serif">','after'=>' <small>&rarr;</small></h3>')); ?>
+					<?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="">','after'=>' <small>&rarr;</small></h3>')); ?>
 				</ul>
 			</div>
 		</div>
