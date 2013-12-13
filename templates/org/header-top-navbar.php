@@ -47,7 +47,9 @@
       </a>
     </div>
     <div class="pull-right" style="width: 320px; padding-top:20px;">
-      <em class="text-muted serif"><small>&hellip;the town library.  The only entrance requirement is interest.<br> ~Lady Bird Johnson</small></em>
+      <blockquote>
+        <em class="text-muted serif">"My best friend is a person who will give me a book I have not read."</em>
+      </blockquote>
     </div>
   </div>
 </header><!-- /.navbar -->
