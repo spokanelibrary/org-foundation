@@ -35,6 +35,10 @@ Template Name: Payment Info
 </div>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<input type="hidden" name="cmd" value="_donations">
+	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
+	<input type="hidden" name="item_name" vale="Donation"> 
+
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
@@ -51,10 +55,12 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					
-						<input type="hidden" name="cmd" value="_donations">
-						<input type="hidden" name="business" value="sbain@spokanelibrary.org">
-						<input type="hidden" name="item_name" vale="Donation"> 
-						<input name="amount" id="amount" type="text" value="" class="" title="USD">
+					<label class="radio-inline">
+					<input type="radio" name="amount" value="10">
+					$10.00
+					</label>
+
+					<input name="amount" id="amount" type="text" value="" class="" title="USD">
 					
 				</div>
 
