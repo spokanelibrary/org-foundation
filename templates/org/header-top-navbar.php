@@ -48,7 +48,7 @@
     </div>
     <div class="pull-right" style="width: 320px; padding-top:20px;">
       <p>
-        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org"><span class="text-success"><i class="glyphicon glyphicon-home"></i> Spokane Public Library Website</span></a>
+        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org"><span class="text-success"><i class="glyphicon glyphicon-home"></i></span> Spokane Public Library Website</a>
       </p>
       <p>
         <a class="btn btn-xs btn-link" href="http://www.facebook.com/spokanelibrary"><span class="text-primary"><i class="glyphicon glyphicon-thumbs-up"></i> Spokane Public Library on Facebook</span></a>
