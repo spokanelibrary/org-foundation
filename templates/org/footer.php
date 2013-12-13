@@ -26,6 +26,9 @@
 
       <div class="col-md-4">
         <p>
+          &nbsp;
+        </p>
+        <p>
         <a href="#">Financial Information <small>FEIN 91-1917727</small></a>
         </p>
         <p>
