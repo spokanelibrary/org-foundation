@@ -97,12 +97,12 @@ Template Name: Payment Info
 						<legend>Designation</legend>
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="bn" value="one">
+							<input type="radio" name="item_name" value="one">
 							One
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="bn" value="two">
+							<input type="radio" name="item_name" value="two">
 							Two
 							</label>
 						</p>
