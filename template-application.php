@@ -55,13 +55,34 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					
-					<label class="radio-inline">
-					<input type="radio" name="amount" value="10">
-					$10.00
-					</label>
-
+					<p>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="10.00">
+						$10.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="25.00">
+						$25.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="50.00">
+						$50.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="50.00">
+						$100.00
+						</label>
+					</p>
+					<p>
+					<label>
+					Other <small>(please specify):</small>
+					<br>
 					<input name="amount" id="amount" type="text" value="" class="" title="USD">
-					
+					</label>
+					</p>
 				</div>
 
 				<div class="col-md-4">
