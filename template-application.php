@@ -29,30 +29,36 @@ Template Name: Payment Info
 
 </div>
 
-<div class="panel panel-default">
-<div class="panel-body">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			Lorem ipsum
+		</div>
 
-<div class="row">
+		<div class="panel-body">
 
-	<div class="col-md-4">
-		<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-			<input type="hidden" name="cmd" value="_donations">
-			<input type="hidden" name="business" value="sbain@spokanelibrary.org">
-			<input type="hidden" name="item_name" vale="Donation"> 
-			<input name="amount" id="amount" type="text" value="" class="" title="USD">
-			<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-		</form>
-	</div>
+			<div class="row">
 
-	<div class="col-md-4">
-		asdf
-	</div>
+				<div class="col-md-4">
+					
+						<input type="hidden" name="cmd" value="_donations">
+						<input type="hidden" name="business" value="sbain@spokanelibrary.org">
+						<input type="hidden" name="item_name" vale="Donation"> 
+						<input name="amount" id="amount" type="text" value="" class="" title="USD">
+						<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+					
+				</div>
 
-	<div class="col-md-4">
-		asdf
-	</div>
+				<div class="col-md-4">
+					asdf
+				</div>
 
-</div>
+				<div class="col-md-4">
+					asdf
+				</div>
 
-</div>
-</div>
+			</div>
+
+		</div><!-- /.panel-body -->
+	</div><!-- /.panel -->
+</form>
