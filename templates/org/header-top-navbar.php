@@ -49,6 +49,7 @@
     <div class="pull-right" style="width: 320px; padding-top:20px;">
       <p>
         <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org"><i class="glyphicon glyphicon-home text-success"></i> Spokane Public Library Website</a>
+        <img src="/assets/img/SPL-Logo-beta.png">
       </p>
       <!--
       <p>
