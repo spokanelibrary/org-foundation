@@ -9,6 +9,9 @@
     <div class="row">
       <div class="col-md-12">
         <span class="pull-right">
+          <p class="lead text-success">
+          <?php bloginfo('title'); ?>
+         </p>
           <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
         </span>
 
