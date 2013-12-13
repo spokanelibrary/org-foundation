@@ -48,7 +48,7 @@
     </div>
     <div class="pull-right" style="width: 300px; padding-top:16px;">
       <em class="text-primary serif">
-      <span style="font-size:2em;">&ldquo;</span>My best friend is a person who will give me a book I have not read.&rdquo;
+      <span style="font-size:1.5em;">&ldquo;</span>My best friend is a person who will give me a book I have not read.<span style="font-size:1.5em;">&rdquo;</em>
       </em>
       <br>
       <small class="text-muted pull-right">&ndash; Abraham Lincoln</small>
