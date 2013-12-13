@@ -7,15 +7,7 @@
   <footer class="content-info container" role="contentinfo">
 
     <div class="row">
-      <div class="col-md-12">
-        <span class="pull-right">
-          <strong class="text-muted" >
-          <?php bloginfo('description'); ?>
-         </strong>
-         <br>
-          <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
-        </span>
-
+      <div class="col-md-6">
         <p>
           <strong class="text-muted" style=""><?php bloginfo('name'); ?></strong>
         </p>
@@ -27,15 +19,16 @@
           509.444.5318
         </address>
       </div><!-- /.col -->
-    </div><!-- /.row -->
 
-    <div class="row">
-      <div class="col-md-12">
-        <!--
-        <p class="text-muted">
-          &copy; <?php echo date('Y'); ?> <?php //bloginfo('name'); ?>
+      <div class="col-md-6">
+        <p class="text-right">
+          <strong class="text-muted" >
+          <?php bloginfo('description'); ?>
+         </strong>
         </p>
-        -->
+        <p class="text-right">
+          <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
+        </p>
       </div><!-- /.col -->
     </div><!-- /.row -->
 
