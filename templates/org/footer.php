@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-md-6">
         <p>
-          <strong class="text-success serif" style=""><?php bloginfo('name'); ?></strong>
+          <span class="text-success serif" style=""><?php bloginfo('name'); ?></span>
         </p>
         <address class="text-muted" style="">
           906 West Main Avenue
