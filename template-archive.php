@@ -24,7 +24,7 @@ Template Name: Archive (Posts)
 
 		<div class="panel panel-primary" style="margin-top:20px;">
 			<div class="panel-heading">
-				<h4><?php echo get_the_title(); ?> <small>Archive</small></h4>
+				<h4><?php echo get_the_title(); ?></h4>
 			</div>
 			<div class="panel-body">
 				<ul class="nav nav-pills nav-stacked">
