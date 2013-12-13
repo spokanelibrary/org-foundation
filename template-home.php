@@ -32,7 +32,7 @@ Template Name: - Home Page
 
         <p class="text-right">
           <button class="btn btn-primary">
-            More &rarr;
+            Learn More &rarr;
           </button>
         </p>
       </div>
@@ -53,7 +53,7 @@ Template Name: - Home Page
 
         <p class="text-right">
           <button class="btn btn-primary">
-            More &rarr;
+            Donate Now &rarr;
           </button>
         </p>
       </div>
