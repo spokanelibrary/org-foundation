@@ -47,7 +47,15 @@
       </a>
     </div>
     <div class="pull-right" style="width: 320px; padding-top:20px;">
-        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org" title="Spokane Public Library Website"><img style="width:85px; height:40px;" src="/assets/img/SPL-Logo-touch.png"></a>
+      <p>
+        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org"><i class="glyphicon glyphicon-home text-success"></i> Spokane Public Library Website</a>
+        
+      </p>
+      <!--
+      <p>
+        <a class="btn btn-xs btn-link" href="http://www.facebook.com/spokanelibrary"><i class="glyphicon glyphicon-thumbs-up"></i> Spokane Public Library on Facebook</a>
+      </p>
+      -->
     </div>
   </div>
 </header><!-- /.navbar -->
