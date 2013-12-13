@@ -54,35 +54,42 @@ Template Name: Payment Info
 			<div class="row">
 
 				<div class="col-md-4">
-					
-					<p>
-						<label class="radio-inline">
-						<input type="radio" name="amount" value="10.00">
-						$10.00
-						</label>
+					<fieldset>
+						<legend>Your Gift</legend>
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="amount" value="10.00">
+							$10.00
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="amount" value="25.00">
+							$25.00
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="amount" value="50.00">
+							$50.00
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="amount" value="100.00">
+							$100.00
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="amount" value="500.00">
+							$500.00
+							</label>
+						</p>
+						<p>
+						<label>
+						Other amount:
 						<br>
-						<label class="radio-inline">
-						<input type="radio" name="amount" value="25.00">
-						$25.00
+						<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
 						</label>
-						<br>
-						<label class="radio-inline">
-						<input type="radio" name="amount" value="50.00">
-						$50.00
-						</label>
-						<br>
-						<label class="radio-inline">
-						<input type="radio" name="amount" value="50.00">
-						$100.00
-						</label>
-					</p>
-					<p>
-					<label>
-					Other amount:
-					<br>
-					<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
-					</label>
-					</p>
+						</p>
+					</fieldset>
 				</div>
 
 				<div class="col-md-4">
