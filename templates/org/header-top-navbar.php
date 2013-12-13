@@ -47,7 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="width: 320px; padding-top:16px;">
-      <em class="text-muted serif">
+      <em class="text-primary serif">
       "My best friend is a person who will give me a book I have not read."
       </em>
       <br>
