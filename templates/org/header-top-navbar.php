@@ -47,8 +47,11 @@
       </a>
     </div>
     <div class="pull-right" style="width: 320px; padding-top:10px;">
-      <em class="text-muted serif">"My best friend is a person who will give me a book I have not read."
-      &ndash; Abraham Lincoln</em>
+      <em class="text-muted serif">
+      "My best friend is a person who will give me a book I have not read."
+      </em>
+      <br>
+      <small>&ndash; Abraham Lincoln</small>
     </div>
   </div>
 </header><!-- /.navbar -->
