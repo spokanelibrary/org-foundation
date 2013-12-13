@@ -19,7 +19,8 @@ Template Name: Payment Info
 			</p>
 			<p>
 				<small>
-					The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.
+					The Spokane Public Library Foundation is a <em class="serif">501(c)(3)</em> charitable organization registered with the IRS and Washington State.
+					<a href="/financial-info">Learn more &rarr;</a>
 				</small>
 			</p>
 
