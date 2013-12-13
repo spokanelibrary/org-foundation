@@ -47,7 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="width: 320px; padding-top:20px;">
-        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org" title="Spokane Public Library Website"><img style="width:85px; height:40px;" src="/assets/img/SPL-Logo-beta.png"></a>
+        <a class="btn btn-xs btn-link" href="http://www.spokanelibrary.org" title="Spokane Public Library Website"><img style="width:85px; height:40px;" src="/assets/img/SPL-Logo-touch.png"></a>
     </div>
   </div>
 </header><!-- /.navbar -->
