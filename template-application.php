@@ -14,8 +14,8 @@ Template Name: Payment Info
 	<div class="col-md-4">
 		<div class="alert alert-warning">
 			<p>
-			<i class="glyphicon glyphicon-info-sign"></i>
-			<strong>You gift is tax-deductible</strong>
+			<small class="glyphicon glyphicon-info-sign"></small>
+			<strong>Your gift is tax-deductible</strong>
 			</p>
 			<p>
 				<small>
