@@ -48,7 +48,7 @@
     </div>
     <div class="pull-right" style="width: 300px; padding-top:16px;">
       <em class="text-primary serif">
-      "My best friend is a person who will give me a book I have not read."
+      &rqot;My best friend is a person who will give me a book I have not read."
       </em>
       <br>
       <small class="text-muted pull-right">&ndash; Abraham Lincoln</small>
