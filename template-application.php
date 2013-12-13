@@ -39,6 +39,8 @@ Template Name: Payment Info
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	<input type="hidden" name="item_name" vale="Donation"> 
 
+	<input type="hidden" name="on0_1" vale="MY Donation"> 
+
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
@@ -110,7 +112,7 @@ Template Name: Payment Info
 						<label>
 						Other <small>(please specify)</small>
 						<br>
-						<input size="50" name="item_name" id="" type="text" value="" class="" title="USD">
+						<input size="20" name="item_name" id="" type="text" value="" class="" title="USD">
 						</label>
 						</p>
 					</fieldset>
