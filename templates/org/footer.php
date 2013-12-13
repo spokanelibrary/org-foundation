@@ -25,14 +25,11 @@
       </div><!-- /.col -->
 
       <div class="col-md-4">
-        <p>
-          &nbsp;
+        <p class="text-muted text-center serif">
+          <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
         </p>
-        <p class="text-center">
-          <a class="text-muted" href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
-        </p>
-        <p class="text-center">
-          <a class="text-muted" href="/financial-information">FEIN: 91-1917727</a>
+        <p class="text-center serif">
+          <a class="text-muted" href="/financial-information"><small>FEIN: 91-1917727</small></a>
         </p>
       </div><!-- /.col -->
 
