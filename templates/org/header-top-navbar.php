@@ -51,7 +51,7 @@
       "My best friend is a person who will give me a book I have not read."
       </em>
       <br>
-      <small>&ndash; Abraham Lincoln</small>
+      <small class="text-muted">&ndash; Abraham Lincoln</small>
     </div>
   </div>
 </header><!-- /.navbar -->
