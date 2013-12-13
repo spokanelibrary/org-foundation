@@ -38,7 +38,7 @@ Template Name: Payment Info
 	<div class="panel panel-default">
 		<div class="panel-heading">
 			<h4>
-				
+				<i class="glyphicon glyphicon-gift"></i>
 				Design your gift 
 				<small>make a one-time or recurring donation</small>
 			</h4>
