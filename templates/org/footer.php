@@ -28,7 +28,7 @@
           <?php bloginfo('description'); ?>
          </span>
         </p>
-        <p class="text-right">
+        <p class="text-right serif">
           <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
         </p>
       </div><!-- /.col -->
