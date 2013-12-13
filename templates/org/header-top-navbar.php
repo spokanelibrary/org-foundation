@@ -48,7 +48,7 @@
     </div>
     <div class="pull-right" style="width: 320px; padding-top:20px;">
       <p>
-        <a class="btn btn-xs btn-primary btn-block" href="http://www.spokanelibrary.org"><img src="/assets/img/spl-touch-inverse.png" style="height:25px; width:20px;"> Spokane Public Library Website</a>
+        <a class="btn btn-xs btn-primary btn-block" href="http://www.spokanelibrary.org"><img src="/assets/img/spl-touch-inverse.png" > Spokane Public Library Website</a>
         
       </p>
       <!--
