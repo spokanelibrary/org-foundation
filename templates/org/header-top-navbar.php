@@ -47,7 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:20px;">
-      <em class="text-muted serif">Maybe a nice library quote?</em>
+      <em class="text-muted serif">Perhaps no place in any community is so totally democratic as the town library.  The only entrance requirement is interest.  ~Lady Bird Johnson</em>
     </div>
   </div>
 </header><!-- /.navbar -->
