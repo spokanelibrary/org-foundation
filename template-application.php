@@ -84,7 +84,7 @@ Template Name: Payment Info
 						</p>
 						<p>
 						<label>
-						Other amount:
+						Other amount
 						<br>
 						<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
 						</label>
@@ -93,7 +93,27 @@ Template Name: Payment Info
 				</div>
 
 				<div class="col-md-4">
-					asdf
+					<fieldset>
+						<legend>Designation</legend>
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="bn" value="one">
+							One
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="bn" value="two">
+							Two
+							</label>
+						</p>
+						<p>
+						<label>
+						Other <small>(please specify)</small>
+						<br>
+						<strong>$</strong> <input size="10" name="" id="" type="text" value="" class="" title="USD">
+						</label>
+						</p>
+					</fieldset>
 				</div>
 
 				<div class="col-md-4">
