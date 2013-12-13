@@ -14,11 +14,13 @@
           </span>
         </p>
         <address class="text-muted serif">
+          <small>
           906 West Main Avenue
           <br>
           Spokane, WA 99201
           <br>
           509.444.5318
+          </small>
         </address>
       </div><!-- /.col -->
 
