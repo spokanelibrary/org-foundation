@@ -80,7 +80,7 @@ Template Name: Payment Info
 					<label>
 					Other amount:
 					<br>
-					<input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
+					<strong>$</strong><input size="15" name="amount" id="amount" type="text" value="" class="" title="USD">
 					</label>
 					</p>
 				</div>
