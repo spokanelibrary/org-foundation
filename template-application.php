@@ -45,7 +45,6 @@ Template Name: Payment Info
 						<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 						<input type="hidden" name="item_name" vale="Donation"> 
 						<input name="amount" id="amount" type="text" value="" class="" title="USD">
-						<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 					
 				</div>
 
@@ -54,7 +53,7 @@ Template Name: Payment Info
 				</div>
 
 				<div class="col-md-4">
-					asdf
+					<button type="submit" class="btn btn-default">Donate &ararr;</button>
 				</div>
 
 			</div>
