@@ -11,20 +11,12 @@ Template Name: Payment Info
 		<?php get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
-		<div class="panel panel-default">
-			<div class="panel-body">
-				Would you believe this is actually a payment form?
-			</div>
-		</div>
-
-	</div>
-
 	<div class="col-md-4">
 
 			<h3>Lorem Ipsum</h3>
 			
 			<p>
-				<em>The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.</em>
+				The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.
 			</p>
 
 			<p>
@@ -33,4 +25,26 @@ Template Name: Payment Info
 
 	</div>
 
+</div>
+
+<div class="panel panel-default">
+<div class="panel-body">
+
+<div class="row">
+
+	<div class="col-md-4">
+		asdf
+	</div>
+
+	<div class="col-md-4">
+		asdf
+	</div>
+
+	<div class="col-md-4">
+		asdf
+	</div>
+
+</div>
+
+</div>
 </div>
