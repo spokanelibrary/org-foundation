@@ -32,7 +32,7 @@ Template Name: Archive (Posts)
 			</div>
 			<div class="panel-body">
 				<ul class="nav nav-pills nav-stacked">
-					<?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3>','after'=>'</h3>')); ?>
+					<?php wp_get_archives(array('type'=>'postbypost','before'=>'<h3 class="serif">','after'=>'</h3>')); ?>
 				</ul>
 			</div>
 		</div>
