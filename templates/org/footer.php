@@ -7,7 +7,7 @@
   <footer class="content-info container" role="contentinfo">
 
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <p>
           <span class="text-muted serif">
             <?php bloginfo('name'); ?>
@@ -24,7 +24,11 @@
         </address>
       </div><!-- /.col -->
 
-      <div class="col-md-6">
+      <div class="col-md-4">
+        <a href="#">FEIN 91-1917727</a>
+      </div><!-- /.col -->
+
+      <div class="col-md-4">
         <p class="text-right">
           <span class="text-muted serif" >
           <?php bloginfo('description'); ?>
