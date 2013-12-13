@@ -12,6 +12,7 @@
           <strong class="text-muted" >
           <?php bloginfo('description'); ?>
          </strong>
+         <br>
           <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
         </span>
 
