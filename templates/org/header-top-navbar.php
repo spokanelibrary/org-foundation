@@ -47,15 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:20px;">
-      <p>
-        <a class="btn btn-xs btn-primary " href="http://www.spokanelibrary.org"><img src="/assets/img/spl-touch-inverse.png" style="height:30px;"> Visit the Library</a>
-        
-      </p>
-      <!--
-      <p>
-        <a class="btn btn-xs btn-link" href="http://www.facebook.com/spokanelibrary"><i class="glyphicon glyphicon-thumbs-up"></i> Spokane Public Library on Facebook</a>
-      </p>
-      -->
+      <em class="serif">Maybe a nice library quote?</a>
     </div>
   </div>
 </header><!-- /.navbar -->
