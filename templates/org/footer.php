@@ -13,7 +13,7 @@
             <?php bloginfo('name'); ?>
           </span>
         </p>
-        <address class="text-muted" style="">
+        <address class="text-muted serif">
           906 West Main Avenue
           <br>
           Spokane, WA 99201
@@ -28,7 +28,7 @@
           <?php bloginfo('description'); ?>
          </span>
         </p>
-        <p class="text-right serif">
+        <p class="text-right">
           <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-beta.png"></a>
         </p>
       </div><!-- /.col -->
