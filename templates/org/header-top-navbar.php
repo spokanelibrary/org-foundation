@@ -47,7 +47,7 @@
       </a>
     </div>
     <div class="pull-right" style="padding-top:20px;">
-      <em class="serif">Maybe a nice library quote?</a>
+      <em class="text-muted serif">Maybe a nice library quote?</a>
     </div>
   </div>
 </header><!-- /.navbar -->
