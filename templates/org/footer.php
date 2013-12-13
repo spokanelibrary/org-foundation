@@ -1,4 +1,6 @@
-<div id="spl-more" style="background:rgb(100,150,75);">
+<hr>
+
+<div id="spl-more" style="/*background:rgb(100,150,75);*/">
 
   <!-- <a name="spl-more">&nbsp;</a> -->
 
