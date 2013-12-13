@@ -53,7 +53,7 @@ Template Name: Payment Info
 				</div>
 
 				<div class="col-md-4">
-					<button type="submit" class="btn btn-default btn-success">Donate &rarr;</button>
+					<button type="submit" class="btn btn-default btn-success">Proceed &rarr;</button>
 				</div>
 
 			</div>
