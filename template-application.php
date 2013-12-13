@@ -40,7 +40,7 @@ Template Name: Payment Info
 			<h4>
 				<i class="glyphicon glyphicon-gift"></i>
 				Design your gift 
-				<small>one-time or recurring, for any amount you choose</small>
+				<small>one-time or recurring, any amount you choose</small>
 			</h4>
 		</div>
 
