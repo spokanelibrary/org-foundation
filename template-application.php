@@ -55,7 +55,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<button type="submit" class="btn btn-warning">
 						<i class="glyphicon glyphicon-credit-card"></i> 
-						Proceed to Payment &rarr;
+						Proceed to payment &rarr;
 					</button>
 				</div>
 
