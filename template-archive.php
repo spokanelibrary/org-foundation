@@ -17,7 +17,8 @@ Template Name: Archive (Posts)
 			foreach( $recent_posts as $recent ){
 				echo '<div class="page-header"><h1>'.$recent["post_title"].'</h1></div>';
 				// todo: this should be an excerpt
-				echo $recent["post_excerpt"];
+				//echo $recent["post_excerpt"];
+				echo $recent["post_content"];
 				echo '<p>';
 				echo '<a href="' . get_permalink($recent['ID']) . '" title="Continue reading" >Continue reading &rarr;</a>';
 				echo '</p>';
