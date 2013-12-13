@@ -7,7 +7,7 @@ Template Name: Archive (Posts)
 
 <div class="row">
 
-	<div class="col-md-10 col-lg-9">
+	<div class="col-md-12">
 		<?php //get_template_part('templates/page', 'header'); ?>
 		<?php get_template_part('templates/content', 'page'); ?>
 
