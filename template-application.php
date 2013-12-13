@@ -14,6 +14,10 @@ Template Name: Payment Info
 	<div class="col-md-4">
 		<div class="alert alert-warning">
 			<p>
+			<i class="glyphicon glyphicon-info-sign"></i>
+			<strong>Gifts are tax-deductible</strong>
+			</p>
+			<p>
 				<small>
 					The Spokane Public Library Foundation is a 501(c)(3) charitable organization registered with the IRS and Washington State.
 				</small>
