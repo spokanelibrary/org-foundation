@@ -204,12 +204,12 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Recurring quarterly
+							<strong>Quarterly</strong> <small>(recurring)</small>
 							</label>
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Recurring annually
+							<strong>Annually</strong> <small>(recurring)</small>
 							</label>
 							<br>
 						<p>
