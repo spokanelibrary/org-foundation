@@ -191,10 +191,33 @@ Template Name: Payment Info
 						<span class="help-block">
 							We will lorem ipsum.
 						</span>
-						<button type="submit" class="btn btn-warning btn-block">
-							<i class="glyphicon glyphicon-credit-card"></i> 
-							Proceed to payment &rarr;
-						</button>
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							One-time donation
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Recurring monthly
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Recurring quarterly
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Recurring annually
+							</label>
+							<br>
+						<p>
+							<button type="submit" class="btn btn-warning btn-block">
+								<i class="glyphicon glyphicon-credit-card"></i> 
+								Proceed to payment &rarr;
+							</button>
+						</p>
 				</div>
 
 			</div>
