@@ -235,14 +235,18 @@ Template Name: Payment Info
 							<label>
 								Repeat contributions for&hellip;
 								<select class="form-control">
+									<option value="0" selected>Indefinately</option>
 									<option value="1">1 Year</option>
 									<option value="2">2 Years</option>
 									<option value="3">3 Years</option>
 									<option value="4">4 Years</option>
 									<option value="5">5 Years</option>
-									<option value="0">Indefinately</option>
 								</select>
 							</label>
+							<span>
+								<strong>Note:</strong>
+								If you choose to make a recurring gift, you can cancel or modify the arrangement at any time.
+							</span>
 						</p>
 
 				</div>
