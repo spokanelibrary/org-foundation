@@ -208,11 +208,12 @@ Template Name: Payment Info
 							</button>
 						</p>
 
-						<p id="define-anon" class="collapse">
-							We respect your privacy. 
-							If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
-						
-						</p>
+						<div id="define-anon" class="panel panel-default collapse">
+							<div class="panel-body">
+								We respect your privacy. 
+								If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
+							</div>
+						</div>
 
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
