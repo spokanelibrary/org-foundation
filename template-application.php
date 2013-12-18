@@ -110,7 +110,7 @@ Template Name: Payment Info
 						<p>
 							<button class="btn btn-success btn-block">
 								<i class="glyphicon glyphicon-usd"></i> 
-								For a specific amount&hellip;
+								Specify amount&hellip;
 							</button>
 						</p>
 						
@@ -191,7 +191,7 @@ Template Name: Payment Info
 						<span class="help-block">
 							We will lorem ipsum.
 						</span>
-						<button type="submit" class="btn btn-warning">
+						<button type="submit" class="btn btn-warning btn-block">
 							<i class="glyphicon glyphicon-credit-card"></i> 
 							Proceed to payment &rarr;
 						</button>
