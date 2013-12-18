@@ -29,7 +29,7 @@
           <small class="glyphicon glyphicon-envelope text-primary"></small>
           <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
         </p>
-        <p class="text-center serif">
+        <p class="text-center">
           <a class="text-muted" href="/financial-information"><small>FEIN: 91-1917727</small></a>
         </p>
       </div><!-- /.col -->
