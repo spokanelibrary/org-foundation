@@ -213,10 +213,11 @@ Template Name: Payment Info
 
 						<p>
 							<span class="help-block">
-								Please consider sustaining support.
+								<strong>consider sustaining support.</strong>
+								<br />
+								How it works.
 							</span>
-							<button type="button" class="btn btn-link">
-								<small class="glyphicon glyphicon-refresh"></small> 
+							<button type="button" class="btn btn-link"> 
 								<strong>Setup recurring payments</strong>
 							</button>	
 						</p>
@@ -265,7 +266,7 @@ Template Name: Payment Info
 								I prefer to give anonymously
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
-								<i class="glyphicon glyphicon-info-sign"></i>
+								<small class="glyphicon glyphicon-info-sign"></small>
 								What does this mean?
 							</button>
 						</p>
