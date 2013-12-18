@@ -200,7 +200,7 @@ Template Name: Payment Info
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="" checked>
-							This is a one-time donation
+							This is a one-time gift
 							</label>
 						</p>
 
@@ -210,8 +210,8 @@ Template Name: Payment Info
 								Proceed to payment &rarr;
 							</button>
 						</p>
-						
-						<h6>
+
+						<h6 class="text-muted">
 							Consider a sustaining contribution
 						</h6>	
 						<p>
