@@ -228,6 +228,13 @@ Template Name: Payment Info
 						</p>
 
 						<div id="donate-sustain" class="panel panel-default collapse">
+							<div class="panel-heading">
+								<button type="button" class="btn btn-default btn-block">
+									No thanks 
+									<br>
+									<small>I'll make a one-time gift</small>
+								</button>
+							</div>
 							<div class="panel-body">
 								<p>
 									<label class="radio-inline">
@@ -260,7 +267,7 @@ Template Name: Payment Info
 									</label>
 									<span class="help-block">
 										<strong>Note:</strong>
-										You may cancel or modify this arrangement at any time.
+										You may cancel or modify this arrangement any time.
 										Detailed instructions are provided on the payment screen.
 									</span>
 								</p>
