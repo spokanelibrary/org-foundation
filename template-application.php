@@ -224,6 +224,9 @@ Template Name: Payment Info
 								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
 								In addition, your name will not be published in any Foundation communications.
 								</p>
+								<button type="button" class="btn btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
+									OK
+								</button>
 							</div>
 						</div>
 
