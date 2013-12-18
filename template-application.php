@@ -198,14 +198,20 @@ Template Name: Payment Info
 						</span>
 
 						<p>
-							<label>
-								<input type="checkbox" class="checkbox-inline" value="">
+							<label class="checkbox-inline">
+								<input type="checkbox" value="">
 								I prefer to give anonymously
 							</label>
-							<span class="checkbox">
-								We respect your privacy. 
-								If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
-							</span>
+							<button class="btn btn-link">
+								<i class="glyphicon glyphicon-question-sign"></i>
+								What does this mean?
+							</button>
+						</p>
+
+						<p class="collapse">
+							We respect your privacy. 
+							If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
+						
 						</p>
 
 						<p>
