@@ -221,7 +221,7 @@ Template Name: Payment Info
 								It's easy on you. It's easy on us. It really makes a difference.
 								</small>
 							</span>
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
+							<button type="button" class="btn btn-link text-success" data-toggle="collapse" data-target="#donate-sustain"> 
 								<strong>Setup recurring payments</strong>
 								<span class="caret"></span>
 							</button>	
@@ -231,7 +231,7 @@ Template Name: Payment Info
 							<div class="panel-heading">
 								<button type="button" class="btn btn-default btn-block" data-toggle="collapse" data-target="#donate-sustain">
 									<small class="glyphicon glyphicon-remove-circle"></small> 
-									No thanks 
+									<strong>No thanks</strong> 
 									<br>
 									<small>I'll make a one-time gift</small>
 								</button>
