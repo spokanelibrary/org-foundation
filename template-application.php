@@ -37,11 +37,16 @@ Template Name: Payment Info
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
-	<input type="hidden" name="item_name_1" vale="Donation"> 
+	
+	<input type="hidden" name=”a3” value=”20.00”>
+	<input type="hidden" name=”p3” value=”1”> 
+	<input type="hidden" name=”t3” value=”M”>
 
+	<!--
+	<input type="hidden" name="item_name_1" vale="Donation"> 
 	<input type="hidden" name="on0_1" vale="MY Donation"> 
 	<input type="hidden" name="os0_1" vale="MY Value"> 
-
+	-->
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
@@ -89,7 +94,7 @@ Template Name: Payment Info
 						<label>
 						Other amount
 						<br>
-						<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="" class="" title="USD">
+						<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
 						</label>
 						</p>
 					</fieldset>
@@ -113,7 +118,7 @@ Template Name: Payment Info
 						<label>
 						Other <small>(please specify)</small>
 						<br>
-						<input size="20" name="item_name" id="" type="text" value="" class="" title="USD">
+						<input size="20" name="item_name" id="" type="text" value="My reason" class="" title="USD">
 						</label>
 						</p>
 					</fieldset>
