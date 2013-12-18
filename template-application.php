@@ -273,7 +273,7 @@ Template Name: Payment Info
 										<small>
 										You may cancel or modify this arrangement any time.
 										Detailed instructions are provided on the payment screen in the next step.
-										<small>
+										</small>
 									</span>
 								</p>
 							</div>
