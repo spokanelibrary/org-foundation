@@ -175,7 +175,7 @@ Template Name: Payment Info
 						</p>
 
 						<p>
-							<button class="btn btn-primary btn block">
+							<button class="btn btn-primary btn-block">
 								<i class="glyphicon glyphicon-heart"></i> 
 								A gift in memory of&hellip;
 							</button>
