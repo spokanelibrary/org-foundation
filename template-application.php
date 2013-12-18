@@ -38,9 +38,8 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
-	
-	<input type="hidden" name="item_number" vale="My Number"> 
-	
+	<input type="hidden" name="item_name" value="Example Donation"> 
+	<input type="hidden" name="item_number" value="2008">
 
 	<!--
 	<input type="hidden" name="a3" value="20.00">
@@ -52,6 +51,7 @@ Template Name: Payment Info
 	<input type="hidden" name="on0_1" vale="MY Donation"> 
 	<input type="hidden" name="os0_1" vale="MY Value"> 
 	-->
+
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
@@ -100,6 +100,7 @@ Template Name: Payment Info
 							</label>
 						</p>
 						-->
+						<!--
 						<p>
 							<label>
 							Other amount
@@ -107,6 +108,7 @@ Template Name: Payment Info
 							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
 							</label>
 						</p>
+						-->
 					</fieldset>
 				</div>
 
@@ -149,6 +151,7 @@ Template Name: Payment Info
 							</label>
 						</p>
 						-->
+						<!--
 						<p>
 						<label>
 						Other <small>(please specify)</small>
@@ -156,6 +159,7 @@ Template Name: Payment Info
 						<input size="20" name="item_name" id="" type="text" value="My reason" class="" title="USD">
 						</label>
 						</p>
+						-->
 					</fieldset>
 				</div>
 
