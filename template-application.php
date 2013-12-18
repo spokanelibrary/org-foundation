@@ -64,6 +64,9 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend>Your Gift</legend>
+						<span class="help-block">
+							You can lorem ipsum.
+						</span>
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="amount" value="10">
@@ -91,11 +94,11 @@ Template Name: Payment Info
 							</label>
 						</p>
 						<p>
-						<label>
-						Other amount
-						<br>
-						<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
-						</label>
+							<label>
+							Other amount
+							<br>
+							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
+							</label>
 						</p>
 					</fieldset>
 				</div>
@@ -103,6 +106,9 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend>Designation</legend>
+						<span class="help-block">
+							Please lorem ipsum.
+						</span>
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="one">
