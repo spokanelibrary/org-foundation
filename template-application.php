@@ -196,33 +196,39 @@ Template Name: Payment Info
 						<span class="help-block">
 							We will lorem ipsum.
 						</span>
+						
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="" value="" checked>
+							This is a one-time donation
+							</label>
+						</p>
+
+						<h4>Sustaining Contributions</h4>
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Make it <em>monthly</em>
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Count me in <em>Quarterly</em>
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="" value="">
+							Ante up <em>Annually</em>
+							</label>
+						</p>
+
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
 								<i class="glyphicon glyphicon-credit-card"></i> 
 								Proceed to payment &rarr;
 							</button>
 						</p>
-						<p>
-							<label class="radio-inline">
-							<input type="radio" name="" value="" checked>
-							This is a <em>one-time</em> donation
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="" value="">
-							Make it <em>monthly</em> <small>(recurring)</small>
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="" value="">
-							Count me in <em>Quarterly</em> <small>(recurring)</small>
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="" value="">
-							Ante up <em>Annually</em> <small>(recurring)</small>
-							</label>
-						</p>
+
 				</div>
 
 			</div>
