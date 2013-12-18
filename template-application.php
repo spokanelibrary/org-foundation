@@ -211,32 +211,6 @@ Template Name: Payment Info
 							</button>
 						</p>
 
-						<p>
-							<label class="checkbox-inline">
-								<input type="checkbox" name="item_number" value="Anonymous Donation">
-								I prefer to give anonymously
-							</label>
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
-								<i class="glyphicon glyphicon-question-sign"></i>
-								What does this mean?
-							</button>
-						</p>
-
-						<div id="define-anon" class="panel panel-default collapse">
-							<div class="panel-body">
-								<p>
-									<strong>We respect your privacy.</strong>
-								</p>
-								<p>
-								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
-								In addition, your name will not be published in any Foundation communications.
-								</p>
-								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
-									OK
-								</button>
-							</div>
-						</div>
-
 						<label>
 							Consider sustaining support:
 						</label>	
@@ -277,6 +251,32 @@ Template Name: Payment Info
 								</span>
 							</p>
 
+						</div><!-- /.collapse -->
+
+						<p>
+							<label class="checkbox-inline">
+								<input type="checkbox" name="item_number" value="Anonymous Donation">
+								I prefer to give anonymously
+							</label>
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
+								<i class="glyphicon glyphicon-info-sign"></i>
+								What does this mean?
+							</button>
+						</p>
+
+						<div id="define-anon" class="panel panel-default collapse">
+							<div class="panel-body">
+								<p>
+									<strong>We respect your privacy.</strong>
+								</p>
+								<p>
+								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
+								In addition, your name will not be published in any Foundation communications.
+								</p>
+								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
+									OK
+								</button>
+							</div>
 						</div>
 
 					<fieldset>
