@@ -38,9 +38,6 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
-	<input type="hidden" name="item_number" value="2008">
-	
-	<input type="hidden" name="amount" value="50">
 	<input type="hidden" name="no_note" value="1">
 
 	
@@ -216,7 +213,7 @@ Template Name: Payment Info
 
 						<p>
 							<label class="checkbox-inline">
-								<input type="checkbox" value="">
+								<input type="checkbox" name="item_number" value="Anonymous Donation">
 								I prefer to give anonymously
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
