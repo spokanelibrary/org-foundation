@@ -137,7 +137,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend>
-							<small class="glyphicon glyphicon-leaf text-muted"></small>
+							<small class="glyphicon glyphicon-leaf text-muted pull-right"></small>
 							Our Focus
 						</legend>
 						<span class="help-block">
@@ -200,7 +200,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend>
-							<small class="glyphicon glyphicon-leaf text-muted"></small> 
+							<small class="glyphicon glyphicon-leaf text-muted pull-right"></small> 
 							Donate Now
 						</legend>
 						<span class="help-block">
