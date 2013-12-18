@@ -204,7 +204,9 @@ Template Name: Payment Info
 							</label>
 						</p>
 
-						<h5>Consider a sustaining contribution</h5>	
+						<p class="lead">
+							Consider a sustaining contribution
+						</p>	
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
