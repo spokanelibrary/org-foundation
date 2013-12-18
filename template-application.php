@@ -198,7 +198,7 @@ Template Name: Payment Info
 
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
-								<i class="glyphicon glyphicon-credit-card"></i> 
+								<small class="glyphicon glyphicon-credit-card"></small> 
 								Proceed to payment &rarr;
 							</button>
 						</p>
