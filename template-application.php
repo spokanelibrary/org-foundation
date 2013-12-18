@@ -233,8 +233,8 @@ Template Name: Payment Info
 
 						<p>
 							<label>
-								Repeat contributions for&hellip
-								<select>
+								Repeat contributions for&hellip;
+								<select class="form-control">
 									<option value="1">1 Year</option>
 									<option value="2">2 Years</option>
 									<option value="3">3 Years</option>
