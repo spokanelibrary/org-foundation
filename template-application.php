@@ -112,13 +112,19 @@ Template Name: Payment Info
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="one">
-							One
+							Where it's most needed
 							</label>
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="two">
-							Two
+							Books and Library resources
 							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
+							Programs for children and teens
+							</label>
+							
 						</p>
 						<p>
 						<label>
