@@ -38,10 +38,10 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
-	<!--
-	<input type="hidden" name="item_number" vale="My Number"> 
-	-->
 	
+	<input type="hidden" name="item_number" vale="My Number"> 
+	
+
 	<!--
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
@@ -72,6 +72,7 @@ Template Name: Payment Info
 						<span class="help-block">
 							You can lorem ipsum.
 						</span>
+						<!--
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="amount" value="10">
@@ -98,6 +99,7 @@ Template Name: Payment Info
 							$500.00
 							</label>
 						</p>
+						-->
 						<p>
 							<label>
 							Other amount
@@ -114,6 +116,7 @@ Template Name: Payment Info
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
+						<!--
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="one">
@@ -145,6 +148,7 @@ Template Name: Payment Info
 							A gift in honor of&hellip;
 							</label>
 						</p>
+						-->
 						<p>
 						<label>
 						Other <small>(please specify)</small>
