@@ -167,15 +167,19 @@ Template Name: Payment Info
 						</label>
 						</p>
 						-->
-						<button class="btn btn-primary">
-							<i class="glyphicon glyphicon-heart"></i> 
-							For a specified purpose&hellip;
-						</button>
+						<p>
+							<button class="btn btn-primary btn-block">
+								<i class="glyphicon glyphicon-pencil"></i> 
+								For a specified purpose&hellip;
+							</button>
+						</p>
 
-						<button class="btn btn-primary">
-							<i class="glyphicon glyphicon-heart"></i> 
-							A gift in memory of&hellip;
-						</button>
+						<p>
+							<button class="btn btn-primary btn block">
+								<i class="glyphicon glyphicon-heart"></i> 
+								A gift in memory of&hellip;
+							</button>
+						</p>
 
 					</fieldset>
 				</div>
