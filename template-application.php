@@ -213,9 +213,10 @@ Template Name: Payment Info
 
 						<p>
 							<span class="help-block">
-								<strong>consider sustaining support.</strong>
+								<strong>Consider sustaining support:</strong>
 								<br />
-								How it works.
+								You can choose to make recurring payments (monthly, annually, etc.).
+								It's easy on you. It's easy on us. It really makes a difference.
 							</span>
 							<button type="button" class="btn btn-link"> 
 								<strong>Setup recurring payments</strong>
