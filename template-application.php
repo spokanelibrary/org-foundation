@@ -212,8 +212,9 @@ Template Name: Payment Info
 						</p>
 
 						<p>
-							<label>Consider sustaining support</label>
-							<span class="help-block">How it works.</span>
+							<span class="help-block">
+								Please consider sustaining support.
+							</span>
 							<button type="button" class="btn btn-link">
 								<small class="glyphicon glyphicon-refresh"></small> 
 								<strong>Setup recurring payments</strong>
