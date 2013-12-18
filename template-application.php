@@ -221,12 +221,13 @@ Template Name: Payment Info
 								It's easy on you. It's easy on us. It really makes a difference.
 								</small>
 							</span>
-							<button type="button" class="btn btn-link"> 
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
 								<strong>Setup recurring payments</strong>
+								<span class="caret"></span>
 							</button>	
 						</p>
 
-						<div class="collapse">
+						<div class="collapse" id="donate-sustain">
 							<p>
 								<label class="radio-inline">
 								<input type="radio" name="" value="">
