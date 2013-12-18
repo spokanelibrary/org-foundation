@@ -198,17 +198,21 @@ Template Name: Payment Info
 						</span>
 
 						<p>
+							<label>
+								<input type="checkbox" class="checkbox-inline" value="">
+								I prefer to give anonymously
+							</label>
+							<span class="checkbox">
+								We respect your privacy. 
+								If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
+							</span>
+						</p>
+
+						<p>
 							<button type="submit" class="btn btn-warning btn-block">
 								<i class="glyphicon glyphicon-credit-card"></i> 
 								Proceed to payment &rarr;
 							</button>
-						</p>
-												
-						<p>
-							<label class="radio-inline">
-							<input type="radio" name="" value="" checked>
-							This is a one-time gift
-							</label>
 						</p>
 
 						<label>
