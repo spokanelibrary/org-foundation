@@ -243,7 +243,7 @@ Template Name: Payment Info
 									<option value="5">5 Years</option>
 								</select>
 							</label>
-							<span>
+							<span class="help-block">
 								<strong>Note:</strong>
 								If you choose to make a recurring gift, you can cancel or modify the arrangement at any time.
 							</span>
