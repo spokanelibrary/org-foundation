@@ -202,7 +202,7 @@ Template Name: Payment Info
 								<input type="checkbox" value="">
 								I prefer to give anonymously
 							</label>
-							<button class="btn btn-link" data-collapse="collapse" data-target="#define-anon">
+							<button type="button" class="btn btn-link" data-collapse="collapse" data-target="#define-anon">
 								<i class="glyphicon glyphicon-question-sign"></i>
 								What does this mean?
 							</button>
