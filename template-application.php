@@ -283,7 +283,6 @@ Template Name: Payment Info
 								I prefer to give anonymously
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
-								<small class="glyphicon glyphicon-info-sign"></small>
 								What does this mean?
 							</button>
 						</p>
@@ -291,6 +290,7 @@ Template Name: Payment Info
 						<div id="define-anon" class="panel panel-default collapse">
 							<div class="panel-body">
 								<p>
+									<small class="glyphicon glyphicon-info-sign"></small>
 									<strong>We respect your privacy.</strong>
 								</p>
 								<p>
