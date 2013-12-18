@@ -154,17 +154,7 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="three">
-							For a specified purpose&hellip;
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
-							A gift in memory of&hellip;
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
-							A gift in honor of&hellip;
+							<strong>For a specified purpose&hellip;</strong>
 							</label>
 						</p>
 						
@@ -180,7 +170,7 @@ Template Name: Payment Info
 
 						<button class="btn btn-primary">
 							<i class="glyphicon glyphicon-heart"></i> 
-							Donate in memory of&hellip;
+							A gift in memory of&hellip;
 						</button>
 
 					</fieldset>
