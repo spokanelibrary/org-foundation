@@ -199,7 +199,7 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Recurring monthly
+							<strong>Monthly</strong> <small>(recurring)</small>
 							</label>
 							<br>
 							<label class="radio-inline">
