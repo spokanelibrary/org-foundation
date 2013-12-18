@@ -75,7 +75,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>Your Gift</legend>
+						<legend><i class="glyphicon glyphicon-leaf"></i> Your Gift</legend>
 						<span class="help-block">
 							You can lorem ipsum.
 						</span>
