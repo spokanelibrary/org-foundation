@@ -75,7 +75,10 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend><i class="glyphicon glyphicon-leaf"></i> Your Gift</legend>
+						<legend>
+							<i class="glyphicon glyphicon-leaf"></i> 
+							Your Gift
+						</legend>
 						<span class="help-block">
 							You can lorem ipsum.
 						</span>
@@ -133,7 +136,10 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>Our Focus</legend>
+						<legend>
+							<i class="glyphicon glyphicon-leaf"></i> 
+							Our Focus
+						</legend>
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
@@ -192,7 +198,11 @@ Template Name: Payment Info
 				</div>
 
 				<div class="col-md-4">
-					<legend>Donate Now</legend>
+					<fieldset>
+						<legend>
+							<i class="glyphicon glyphicon-leaf"></i> 
+							Donate Now
+						</legend>
 						<span class="help-block">
 							We will lorem ipsum.
 						</span>
@@ -269,8 +279,10 @@ Template Name: Payment Info
 									If you choose to make a recurring gift, you can cancel or modify the arrangement at any time.
 								</span>
 							</p>
+
 						</div>
 
+					<fieldset>
 				</div>
 
 			</div>
