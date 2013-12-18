@@ -125,10 +125,6 @@ Template Name: Payment Info
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
-						<button type="submit" class="btn btn-warning">
-							<i class="glyphicon glyphicon-credit-card"></i> 
-							Proceed to payment &rarr;
-						</button>
 						
 						<p>
 							<label class="radio-inline">
@@ -181,6 +177,12 @@ Template Name: Payment Info
 						</label>
 						</p>
 						-->
+
+						<button class="btn btn-primary">
+							<i class="glyphicon glyphicon-heart"></i> 
+							Donate in honor or memory of&hellip;
+						</button>
+						
 					</fieldset>
 				</div>
 
