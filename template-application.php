@@ -38,9 +38,9 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
-	<input type="hidden" name=”a3” value=”20.00”>
-	<input type="hidden" name=”p3” value=”1”> 
-	<input type="hidden" name=”t3” value=”M”>
+	<input type="hidden" name="a3" value="20.00">
+	<input type="hidden" name="p3" value="1"> 
+	<input type="hidden" name="t3" value="M">
 
 	<!--
 	<input type="hidden" name="item_name_1" vale="Donation"> 
@@ -124,7 +124,21 @@ Template Name: Payment Info
 							<input type="radio" name="item_name" value="three">
 							Programs for children and teens
 							</label>
-
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
+							Programs for all Library users
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
+							A gift in memory of&hellip;
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
+							A gift in honor of&hellip;
+							</label>
 						</p>
 						<p>
 						<label>
