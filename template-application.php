@@ -167,6 +167,10 @@ Template Name: Payment Info
 						</label>
 						</p>
 						-->
+						<button class="btn btn-primary">
+							<i class="glyphicon glyphicon-heart"></i> 
+							For a specified purpose&hellip;
+						</button>
 
 						<button class="btn btn-primary">
 							<i class="glyphicon glyphicon-heart"></i> 
