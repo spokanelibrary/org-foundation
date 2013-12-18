@@ -115,7 +115,7 @@ Template Name: Payment Info
 						<p>
 							<button type="button" class="btn btn-success btn-block">
 								<i class="glyphicon glyphicon-usd"></i> 
-								Specify amount&hellip;
+								Specify an amount&hellip;
 							</button>
 						</p>
 						
@@ -166,7 +166,7 @@ Template Name: Payment Info
 							<br>
 							<button type="button" class="btn btn-link">
 								<strong><i class="glyphicon glyphicon-pencil"></i> 
-								For a specified purpose&hellip;</strong>
+								For a specific purpose&hellip;</strong>
 							</button>
 						</p>
 						
