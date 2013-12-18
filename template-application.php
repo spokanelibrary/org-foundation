@@ -212,7 +212,7 @@ Template Name: Payment Info
 						</p>
 
 						<label>
-							Consider a sustaining contribution:
+							Consider sustaining support:
 						</label>	
 						<p>
 							<label class="radio-inline">
