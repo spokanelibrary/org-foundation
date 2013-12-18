@@ -79,7 +79,7 @@ Template Name: Payment Info
 						<span class="help-block">
 							You can lorem ipsum.
 						</span>
-						<!--
+						
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="amount" value="10">
@@ -106,7 +106,7 @@ Template Name: Payment Info
 							$500.00
 							</label>
 						</p>
-						-->
+						
 						<!--
 						<p>
 							<label>
@@ -139,7 +139,7 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="two">
-							Digital / downloadable material
+							Digital or downloadable material
 							</label>
 							<br>
 							<label class="radio-inline">
