@@ -125,6 +125,10 @@ Template Name: Payment Info
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
+
+						<button class="btn btn-default">
+							Donate in honor or memory of&hellip;
+						</button>
 						
 						<p>
 							<label class="radio-inline">
@@ -135,6 +139,11 @@ Template Name: Payment Info
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="two">
 							Books and Library resources
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="two">
+							Digital / downloadable material
 							</label>
 							<br>
 							<label class="radio-inline">
