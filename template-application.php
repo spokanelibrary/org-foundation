@@ -76,7 +76,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend class="text-muted">
-							<small class="glyphicon glyphicon-leaf"></small> 
+							<small class="glyphicon glyphicon-leaf text-info"></small> 
 							Your Gift
 						</legend>
 						<span class="help-block">
