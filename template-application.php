@@ -82,6 +82,11 @@ Template Name: Payment Info
 						
 						<p>
 							<label class="radio-inline">
+							<input type="radio" name="amount" value="5">
+							$5.00
+							</label>
+							<br>
+							<label class="radio-inline">
 							<input type="radio" name="amount" value="10">
 							$10.00
 							</label>
@@ -158,6 +163,12 @@ Template Name: Payment Info
 							<input type="radio" name="item_name" value="three">
 							Programs for all Library users
 							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
+							<strong><i class="glyphicon glyphicon-pencil"></i> 
+								For a specified purpose&hellip;</strong>
+							</label>
 						</p>
 						
 						<!--
@@ -169,12 +180,6 @@ Template Name: Payment Info
 						</label>
 						</p>
 						-->
-						<p>
-							<button class="btn btn-primary btn-block">
-								<i class="glyphicon glyphicon-pencil"></i> 
-								For a specified purpose&hellip;
-							</button>
-						</p>
 
 						<p>
 							<button class="btn btn-primary btn-block">
