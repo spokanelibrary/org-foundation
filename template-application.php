@@ -196,19 +196,19 @@ Template Name: Payment Info
 						<span class="help-block">
 							We will lorem ipsum.
 						</span>
-						
-						<p>
-							<label class="radio-inline">
-							<input type="radio" name="" value="" checked>
-							This is a one-time gift
-							</label>
-						</p>
 
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
 								<i class="glyphicon glyphicon-credit-card"></i> 
 								Proceed to payment &rarr;
 							</button>
+						</p>
+												
+						<p>
+							<label class="radio-inline">
+							<input type="radio" name="" value="" checked>
+							This is a one-time gift
+							</label>
 						</p>
 
 						<label>
