@@ -211,7 +211,8 @@ Template Name: Payment Info
 						<div id="define-anon" class="panel panel-default collapse">
 							<div class="panel-body">
 								We respect your privacy. 
-								If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
+								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
+								In addition, your name will not be published in any Foundation communications.
 							</div>
 						</div>
 
