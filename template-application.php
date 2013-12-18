@@ -169,7 +169,7 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="four">
-							<small class="glyphicon glyphicon-pencil"></small>
+							<small class="glyphicon glyphicon-edit"></small>
 							For a specific purpose&hellip;
 							</label>
 						</p>
@@ -212,8 +212,11 @@ Template Name: Payment Info
 						</p>
 
 						<p>
+							<label>Consider sustaining support</label>
+							<span class="help-block">How it works.</span>
 							<button type="button" class="btn btn-link">
-								Setup a recurring gift
+								<small class="glyphicon glyphicon-refresh"></small> 
+								<strong>Setup recurring payments</strong>
 							</button>	
 						</p>
 
