@@ -211,9 +211,9 @@ Template Name: Payment Info
 							</button>
 						</p>
 
-						<h6>
+						<label>
 							Consider a sustaining contribution:
-						</h6>	
+						</label>	
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
