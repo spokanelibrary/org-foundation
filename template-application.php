@@ -211,7 +211,7 @@ Template Name: Payment Info
 							</button>
 						</p>
 
-						<h6 class="text-success">
+						<h6>
 							Consider a sustaining contribution:
 						</h6>	
 						<p>
@@ -233,14 +233,14 @@ Template Name: Payment Info
 
 						<p>
 							<label>
-								Repeat contributions for&hellip;
+								Repeat contributions&hellip;
 								<select class="form-control">
 									<option value="0" selected>Indefinately</option>
-									<option value="1">1 Year</option>
-									<option value="2">2 Years</option>
-									<option value="3">3 Years</option>
-									<option value="4">4 Years</option>
-									<option value="5">5 Years</option>
+									<option value="1">For 1 Year</option>
+									<option value="2">For 2 Years</option>
+									<option value="3">For 3 Years</option>
+									<option value="4">For 4 Years</option>
+									<option value="5">For 5 Years</option>
 								</select>
 							</label>
 							<span class="help-block">
