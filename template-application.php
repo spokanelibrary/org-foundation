@@ -109,7 +109,7 @@ Template Name: Payment Info
 
 						<p>
 							<button class="btn btn-success btn-block">
-								<i class="glyphicon glyphicon-dollar-sign"></i> 
+								<i class="glyphicon glyphicon-usd"></i> 
 								For a specific amount&hellip;
 							</button>
 						</p>
