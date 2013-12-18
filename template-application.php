@@ -106,6 +106,13 @@ Template Name: Payment Info
 							$500.00
 							</label>
 						</p>
+
+						<p>
+							<button class="btn btn-success btn-block">
+								<i class="glyphicon glyphicon-dollar-sign"></i> 
+								For a specific amount&hellip;
+							</button>
+						</p>
 						
 						<!--
 						<p>
