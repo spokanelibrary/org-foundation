@@ -48,6 +48,8 @@ Template Name: Payment Info
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
+	<input type="hidden" name="src" value="1"> 
+	<input type="hidden" name="sra" value="1">
 	
 	<!--
 	<input type="hidden" name="item_name_1" vale="Donation"> 
