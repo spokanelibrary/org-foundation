@@ -113,7 +113,7 @@ Template Name: Payment Info
 						</p>
 
 						<p>
-							<button class="btn btn-success btn-block">
+							<button type="button" class="btn btn-success btn-block">
 								<i class="glyphicon glyphicon-usd"></i> 
 								Specify amount&hellip;
 							</button>
@@ -133,7 +133,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>Our Resources</legend>
+						<legend>Our Focus</legend>
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
@@ -164,11 +164,10 @@ Template Name: Payment Info
 							Programs for all Library users
 							</label>
 							<br>
-							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
-							<strong><i class="glyphicon glyphicon-pencil"></i> 
+							<button type="button" class="btn btn-link">
+								<strong><i class="glyphicon glyphicon-pencil"></i> 
 								For a specified purpose&hellip;</strong>
-							</label>
+							</button>
 						</p>
 						
 						<!--
@@ -182,7 +181,7 @@ Template Name: Payment Info
 						-->
 
 						<p>
-							<button class="btn btn-primary btn-block">
+							<button type="button" class="btn btn-primary btn-block">
 								<i class="glyphicon glyphicon-heart"></i> 
 								A gift in memory of&hellip;
 							</button>
@@ -224,7 +223,7 @@ Template Name: Payment Info
 								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
 								In addition, your name will not be published in any Foundation communications.
 								</p>
-								<button type="button" class="btn btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
+								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
 									OK
 								</button>
 							</div>
