@@ -38,8 +38,10 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
+	<!--
 	<input type="hidden" name="item_number" vale="My Number"> 
-
+	-->
+	
 	<!--
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
