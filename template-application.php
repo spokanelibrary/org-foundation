@@ -197,9 +197,15 @@ Template Name: Payment Info
 							We will lorem ipsum.
 						</span>
 						<p>
+							<button type="submit" class="btn btn-warning btn-block">
+								<i class="glyphicon glyphicon-credit-card"></i> 
+								Proceed to payment &rarr;
+							</button>
+						</p>
+						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							One-time donation
+							<strong>One-time donation</strong>
 							</label>
 							<br>
 							<label class="radio-inline">
@@ -216,12 +222,6 @@ Template Name: Payment Info
 							<input type="radio" name="" value="">
 							<strong>Annually</strong> <small>(recurring)</small>
 							</label>
-							<br>
-						<p>
-							<button type="submit" class="btn btn-warning btn-block">
-								<i class="glyphicon glyphicon-credit-card"></i> 
-								Proceed to payment &rarr;
-							</button>
 						</p>
 				</div>
 
