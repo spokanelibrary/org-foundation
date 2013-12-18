@@ -229,11 +229,13 @@ Template Name: Payment Info
 
 						<div id="donate-sustain" class="panel panel-default collapse">
 							<div class="panel-heading">
-								<button type="button" class="btn btn-default btn-block text-primary" data-toggle="collapse" data-target="#donate-sustain">
-									<small class="glyphicon glyphicon-remove"></small> 
-									<strong>No thanks</strong> 
-									<br>
-									<small>I'll make a one-time gift</small>
+								<button type="button" class="btn btn-default btn-block" data-toggle="collapse" data-target="#donate-sustain">
+									<span class="text-primary">
+										<small class="glyphicon glyphicon-remove"></small> 
+										<strong>No thanks</strong> 
+										<br>
+										<small>I'll make a one-time gift</small>
+									</span>
 								</button>
 							</div>
 							<div class="panel-body">
@@ -268,8 +270,10 @@ Template Name: Payment Info
 									</label>
 									<span class="help-block">
 										<strong>Note:</strong>
+										<small>
 										You may cancel or modify this arrangement any time.
-										Detailed instructions are provided on the payment screen.
+										Detailed instructions are provided on the payment screen in the next step.
+										<small>
 									</span>
 								</p>
 							</div>
