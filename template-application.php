@@ -211,9 +211,11 @@ Template Name: Payment Info
 							</button>
 						</p>
 
-						<label>
-							Consider sustaining support:
-						</label>	
+						<p>
+							<button>
+								Setup a recurring gift
+							</button>	
+						</p>
 
 						<div class="collapse">
 							<p>
