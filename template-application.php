@@ -236,11 +236,11 @@ Template Name: Payment Info
 								Repeat contributions&hellip;
 								<select class="form-control">
 									<option value="0" selected>Indefinately</option>
-									<option value="1">For 1 Year</option>
-									<option value="2">For 2 Years</option>
-									<option value="3">For 3 Years</option>
-									<option value="4">For 4 Years</option>
-									<option value="5">For 5 Years</option>
+									<option value="1">For 1 year</option>
+									<option value="2">For 2 years</option>
+									<option value="3">For 3 years</option>
+									<option value="4">For 4 years</option>
+									<option value="5">For 5 years</option>
 								</select>
 							</label>
 							<span class="help-block">
