@@ -149,6 +149,11 @@ Template Name: Payment Info
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="three">
+							For a specified purpose&hellip;
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="three">
 							A gift in memory of&hellip;
 							</label>
 							<br>
