@@ -105,7 +105,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>Designation</legend>
+						<legend>Our Resources</legend>
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
