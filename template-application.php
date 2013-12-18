@@ -202,13 +202,13 @@ Template Name: Payment Info
 								<input type="checkbox" value="">
 								I prefer to give anonymously
 							</label>
-							<button class="btn btn-link">
+							<button class="btn btn-link" data-collapse="collapse" data-target="#define-anon">
 								<i class="glyphicon glyphicon-question-sign"></i>
 								What does this mean?
 							</button>
 						</p>
 
-						<p class="collapse">
+						<p id="define-anon" class="collapse">
 							We respect your privacy. 
 							If you choose to give anonymously we will not contact you, except in the event we require clarification regarding your donation.
 						
