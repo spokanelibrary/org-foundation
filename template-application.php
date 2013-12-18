@@ -125,7 +125,6 @@ Template Name: Payment Info
 						<span class="help-block">
 							Please lorem ipsum.
 						</span>
-
 						<button class="btn btn-primary">
 							<i class="glyphicon glyphicon-heart"></i> 
 							Donate in honor or memory of&hellip;
