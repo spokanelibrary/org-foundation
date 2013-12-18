@@ -180,9 +180,9 @@ Template Name: Payment Info
 
 						<button class="btn btn-primary">
 							<i class="glyphicon glyphicon-heart"></i> 
-							Donate in honor or memory of&hellip;
+							Donate in memory of&hellip;
 						</button>
-						
+
 					</fieldset>
 				</div>
 
