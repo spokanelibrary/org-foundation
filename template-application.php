@@ -205,22 +205,22 @@ Template Name: Payment Info
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="" checked>
-							This is a <strong>one-time</strong> donation
+							This is a <em>one-time</em> donation
 							</label>
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Make it <strong>Monthly</strong> <small>(recurring)</small>
+							Make it <em>monthly</em> <small>(recurring)</small>
 							</label>
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Count me in <strong>Quarterly</strong> <small>(recurring)</small>
+							Count me in <em>Quarterly</em> <small>(recurring)</small>
 							</label>
 							<br>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Ante up <strong>Annually</strong> <small>(recurring)</small>
+							Ante up <em>Annually</em> <small>(recurring)</small>
 							</label>
 						</p>
 				</div>
