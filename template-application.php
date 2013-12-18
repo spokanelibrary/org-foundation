@@ -164,10 +164,11 @@ Template Name: Payment Info
 							Programs for all Library users
 							</label>
 							<br>
-							<button type="button" class="btn btn-link">
-								<small class="glyphicon glyphicon-pencil"></small>
-								<strong>For a specific purpose&hellip;</strong>
-							</button>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="four">
+							<small class="glyphicon glyphicon-pencil"></small>
+							For a specific purpose&hellip;
+							</label>
 						</p>
 						
 						<!--
