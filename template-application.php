@@ -40,14 +40,15 @@ Template Name: Payment Info
 	
 	<input type="hidden" name="item_name" value="Example Donation"> 
 	<input type="hidden" name="item_number" value="2008">
+	<!--
 	<input type="hidden" name="amount" value="50">
 	<input type="hidden" name="no_note" value="0">
-
-	<!--
+	-->
+	
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
-	-->
+	
 	<!--
 	<input type="hidden" name="item_name_1" vale="Donation"> 
 	<input type="hidden" name="on0_1" vale="MY Donation"> 
