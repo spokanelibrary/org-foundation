@@ -141,7 +141,7 @@ Template Name: Payment Info
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="one" checked>
-							Where it's most needed
+							Where it is most needed
 							</label>
 							<br>
 							<label class="radio-inline">
