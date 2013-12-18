@@ -38,15 +38,16 @@ Template Name: Payment Info
 	<input type="hidden" name="cmd" value="_donations">
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
+	<!--
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
-
-	<!--
+	-->
+	
 	<input type="hidden" name="item_name_1" vale="Donation"> 
 	<input type="hidden" name="on0_1" vale="MY Donation"> 
 	<input type="hidden" name="os0_1" vale="MY Value"> 
-	-->
+	
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
