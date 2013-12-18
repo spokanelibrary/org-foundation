@@ -151,11 +151,6 @@ Template Name: Payment Info
 							<input type="radio" name="item_name" value="three">
 							Programs for all Library users
 							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
-							<strong>For a specified purpose&hellip;</strong>
-							</label>
 						</p>
 						
 						<!--
