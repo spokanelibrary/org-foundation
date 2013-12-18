@@ -210,9 +210,13 @@ Template Name: Payment Info
 
 						<div id="define-anon" class="panel panel-default collapse">
 							<div class="panel-body">
-								We respect your privacy. 
+								<p>
+									<strong>We respect your privacy.</strong>
+								</p>
+								<p>
 								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
 								In addition, your name will not be published in any Foundation communications.
+								</p>
 							</div>
 						</div>
 
