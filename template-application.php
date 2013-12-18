@@ -212,7 +212,7 @@ Template Name: Payment Info
 						</p>
 
 						<p>
-							<button>
+							<button type="button" class="btn btn-link">
 								Setup a recurring gift
 							</button>	
 						</p>
