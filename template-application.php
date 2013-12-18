@@ -140,7 +140,7 @@ Template Name: Payment Info
 						
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="one">
+							<input type="radio" name="item_name" value="one" checked>
 							Where it's most needed
 							</label>
 							<br>
@@ -204,13 +204,20 @@ Template Name: Payment Info
 							</label>
 						</p>
 
+						<p>
+							<button type="submit" class="btn btn-warning btn-block">
+								<i class="glyphicon glyphicon-credit-card"></i> 
+								Proceed to payment &rarr;
+							</button>
+						</p>
+						
 						<h6>
 							Consider a sustaining contribution
 						</h6>	
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
-							Make it <em>monthly</em>
+							Make it <em>Monthly</em>
 							</label>
 							<br>
 							<label class="radio-inline">
@@ -222,13 +229,6 @@ Template Name: Payment Info
 							<input type="radio" name="" value="">
 							Ante up <em>Annually</em>
 							</label>
-						</p>
-
-						<p>
-							<button type="submit" class="btn btn-warning btn-block">
-								<i class="glyphicon glyphicon-credit-card"></i> 
-								Proceed to payment &rarr;
-							</button>
 						</p>
 
 				</div>
