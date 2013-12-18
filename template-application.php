@@ -229,7 +229,8 @@ Template Name: Payment Info
 
 						<div id="donate-sustain" class="panel panel-default collapse">
 							<div class="panel-heading">
-								<button type="button" class="btn btn-default btn-block">
+								<button type="button" class="btn btn-default btn-block" data-toggle="collapse" data-target="#donate-sustain">
+									<small class="glyphicon glyphicon-remove-circle"></small> 
 									No thanks 
 									<br>
 									<small>I'll make a one-time gift</small>
