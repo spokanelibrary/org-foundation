@@ -25,11 +25,11 @@
       </div><!-- /.col -->
 
       <div class="col-md-4">
-        <p class="text-muted text-center serif">
+        <p class="text-center serif">
           <small class="glyphicon glyphicon-envelope text-primary"></small>
           <a href="mailto:mail@spokanelibraryfdtn.org">mail@spokanelibraryfdtn.org</a>
         </p>
-        <p class="text-center">
+        <p class="text-center serif">
           <a class="text-muted" href="/financial-information"><small>FEIN: 91-1917727</small></a>
         </p>
       </div><!-- /.col -->
