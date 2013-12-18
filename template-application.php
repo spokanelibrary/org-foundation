@@ -212,7 +212,7 @@ Template Name: Payment Info
 						</p>
 
 						<h6 class="text-success">
-							Consider a sustaining contribution
+							Consider a sustaining contribution:
 						</h6>	
 						<p>
 							<label class="radio-inline">
@@ -228,6 +228,20 @@ Template Name: Payment Info
 							<label class="radio-inline">
 							<input type="radio" name="" value="">
 							Ante up <em>Annually</em>
+							</label>
+						</p>
+
+						<p>
+							<label>
+								Repeat contributions for&hellip
+								<select>
+									<option value="1">1 Year</option>
+									<option value="2">2 Years</option>
+									<option value="3">3 Years</option>
+									<option value="4">4 Years</option>
+									<option value="5">5 Years</option>
+									<option value="0">Indefinately</option>
+								</select>
 							</label>
 						</p>
 
