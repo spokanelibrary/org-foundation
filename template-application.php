@@ -75,8 +75,8 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend class="text-muted">
-							<small class="glyphicon glyphicon-leaf text-primary"></small> 
+						<legend>
+							<small class="glyphicon glyphicon-leaf text-muted"></small> 
 							Your Gift
 						</legend>
 						<span class="help-block">
@@ -136,8 +136,8 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend class="text-muted">
-							<small class="glyphicon glyphicon-leaf text-primary"></small>
+						<legend>
+							<small class="glyphicon glyphicon-leaf text-muted"></small>
 							Our Focus
 						</legend>
 						<span class="help-block">
@@ -199,8 +199,8 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend class="text-muted">
-							<small class="glyphicon glyphicon-leaf text-primary"></small> 
+						<legend>
+							<small class="glyphicon glyphicon-leaf text-muted"></small> 
 							Donate Now
 						</legend>
 						<span class="help-block">
