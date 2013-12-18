@@ -114,7 +114,7 @@ Template Name: Payment Info
 
 						<p>
 							<button type="button" class="btn btn-success btn-block">
-								<i class="glyphicon glyphicon-usd"></i> 
+								<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
 						</p>
@@ -141,7 +141,7 @@ Template Name: Payment Info
 						<p>
 							<label class="radio-inline">
 							<input type="radio" name="item_name" value="one" checked>
-							Where it is most needed
+							Where funds are most needed
 							</label>
 							<br>
 							<label class="radio-inline">
@@ -165,8 +165,8 @@ Template Name: Payment Info
 							</label>
 							<br>
 							<button type="button" class="btn btn-link">
-								<strong><i class="glyphicon glyphicon-pencil"></i> 
-								For a specific purpose&hellip;</strong>
+								<small class="glyphicon glyphicon-pencil"></small>
+								<strong>For a specific purpose&hellip;</strong>
 							</button>
 						</p>
 						
@@ -182,7 +182,7 @@ Template Name: Payment Info
 
 						<p>
 							<button type="button" class="btn btn-primary btn-block">
-								<i class="glyphicon glyphicon-heart"></i> 
+								<small class="glyphicon glyphicon-heart"></small> 
 								A gift in memory of&hellip;
 							</button>
 						</p>
