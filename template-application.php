@@ -227,42 +227,44 @@ Template Name: Payment Info
 							</button>	
 						</p>
 
-						<div class="collapse" id="donate-sustain">
-							<p>
-								<label class="radio-inline">
-								<input type="radio" name="" value="">
-								Make it <em>Monthly</em>
-								</label>
-								<br>
-								<label class="radio-inline">
-								<input type="radio" name="" value="">
-								Count me in <em>Quarterly</em>
-								</label>
-								<br>
-								<label class="radio-inline">
-								<input type="radio" name="" value="">
-								Ante up <em>Annually</em>
-								</label>
-							</p>
+						<div id="donate-sustain" class="panel panel-default collapse">
+							<div class="panel-body">
+								<p>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Make it <em>Monthly</em>
+									</label>
+									<br>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Count me in <em>Quarterly</em>
+									</label>
+									<br>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Ante up <em>Annually</em>
+									</label>
+								</p>
 
-							<p>
-								<label>
-									Repeat contributions&hellip;
-									<select class="form-control">
-										<option value="0" selected>Indefinately</option>
-										<option value="1">For 1 year</option>
-										<option value="2">For 2 years</option>
-										<option value="3">For 3 years</option>
-										<option value="4">For 4 years</option>
-										<option value="5">For 5 years</option>
-									</select>
-								</label>
-								<span class="help-block">
-									<strong>Note:</strong>
-									If you choose to make a recurring gift, you can cancel or modify the arrangement at any time.
-								</span>
-							</p>
-
+								<p>
+									<label>
+										Repeat contributions&hellip;
+										<select class="form-control">
+											<option value="0" selected>Indefinately</option>
+											<option value="1">For 1 year</option>
+											<option value="2">For 2 years</option>
+											<option value="3">For 3 years</option>
+											<option value="4">For 4 years</option>
+											<option value="5">For 5 years</option>
+										</select>
+									</label>
+									<span class="help-block">
+										<strong>Note:</strong>
+										You may cancel or modify this arrangement at any time.
+										Detailed instructions are provided on the payment screen.
+									</span>
+								</p>
+							</div>
 						</div><!-- /.collapse -->
 
 						<p>
