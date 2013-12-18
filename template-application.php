@@ -124,7 +124,7 @@ Template Name: Payment Info
 							<input type="radio" name="item_name" value="three">
 							Programs for children and teens
 							</label>
-							
+
 						</p>
 						<p>
 						<label>
@@ -137,10 +137,14 @@ Template Name: Payment Info
 				</div>
 
 				<div class="col-md-4">
-					<button type="submit" class="btn btn-warning">
-						<i class="glyphicon glyphicon-credit-card"></i> 
-						Proceed to payment &rarr;
-					</button>
+					<legend>Donate Now</legend>
+						<span class="help-block">
+							We will lorem ipsum.
+						</span>
+						<button type="submit" class="btn btn-warning">
+							<i class="glyphicon glyphicon-credit-card"></i> 
+							Proceed to payment &rarr;
+						</button>
 				</div>
 
 			</div>
