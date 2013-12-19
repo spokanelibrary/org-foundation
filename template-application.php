@@ -118,6 +118,7 @@ Template Name: Payment Info
 							Specify an amount&hellip;
 						</label>
 						<br>
+						&nbsp;
 						<strong>$</strong> <input type="text" size="10" name="specify" id="specify" value="" class="" title="USD">
 						
 						
