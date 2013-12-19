@@ -210,9 +210,10 @@ Template Name: Payment Info
 							We will lorem ipsum.
 						</span>
 
-						<div class="input-group">
+						<label>
+							Your comments:
 							<textarea class="form-control" name="custom"></textarea>
-						</div>
+						</label>
 
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
