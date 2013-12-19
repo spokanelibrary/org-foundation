@@ -118,7 +118,7 @@ Template Name: Payment Info
 							Specify an amount&hellip;
 						</label>
 						<br>
-						<strong class="label label-default">$</strong> <input type="text" size="10" name="specify" id="specify" value="" class="" title="USD">
+						<span class="label label-success">$</span> <input type="text" size="10" name="specify" id="specify" value="" class="" title="USD">
 						
 						
 					</fieldset>
