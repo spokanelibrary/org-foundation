@@ -168,8 +168,8 @@ Template Name: Payment Info
 						</span>
 					
 						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Where funds are most needed" checked>
-							Where funds are most needed
+							<input type="radio" name="item_name" value="Put my gift to good use" checked>
+							Put my gift to good use
 						</label>
 						<br>
 						<label class="radio-inline">

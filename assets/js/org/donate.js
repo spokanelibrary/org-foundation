@@ -49,8 +49,6 @@ var org = {
 		$('body').on('submit', '#donate-form', function() {
 
 			// amount
-			
-
 			var specify = parseInt($specify.val());
 			if ( typeof(specify) != 'NaN' && specify > 0 ) {
 				$amount.val(specify).prop('checked',true);
