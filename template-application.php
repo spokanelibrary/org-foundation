@@ -186,7 +186,11 @@ Template Name: Payment Info
 							<strong>For a specific purpose&hellip;</strong>
 						</label>
 						<br>
-						<span class="help-block">Please specify in comment section.</span>
+						<span class="help-block">
+							Please specify in comment section.
+							<br>
+							Thank you!
+						</span>
 						<!--
 						<p>
 						<label>
