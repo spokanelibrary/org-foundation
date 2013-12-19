@@ -114,20 +114,21 @@ Template Name: Payment Info
 						</p>
 						
 						<p>
-							<button type="button" class="btn btn-success btn-block">
+							<button type="button" class="btn btn-success btn-block" data-toggle="collapse" data-target="#donate-amount">
 								<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
 						</p>
 						
-						
-						<p>
-							<label>
-							Other amount
-							<br>
-							<strong>$</strong> <input type="hidden" size="10" name="amount" id="amount" value="" class="" title="USD">
-							</label>
-						</p>
+						<div id="donate-amount" class="collapse">
+							<p>
+								<label>
+								Other amount
+								<br>
+								<strong>$</strong> <input type="text" size="10" name="amount" id="amount" value="" class="" title="USD">
+								</label>
+							</p>
+						</div>
 						
 					</fieldset>
 				</div>
