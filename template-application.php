@@ -119,7 +119,8 @@ Template Name: Payment Info
 						</div>
 
 						<h5 class="text-success">
-							<strong>Consider sustaining support:</strong>
+							<small class="glyphicon glyphicon-refresh"></small>
+							Consider sustaining support:
 						</h5>
 						<p>
 							<small>
