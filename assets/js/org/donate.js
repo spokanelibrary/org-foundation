@@ -51,16 +51,19 @@ var org = {
 
 			// name
 			$name = $('#donate-number'); // we're hijacking the item_number field
-
 			$behalf = $('#donate-behalf');
+			$memory = $('#donate-memory');
+
 			if ( $behalf.val().length > 0 ) {
 				$name.val($behalf.val());
 			}
 
-			$memory = $('#donate-memory');
 			if ( $memory.val().length > 0 ) {
 				$name.val($memory.val());
 			}
+
+			// anon
+			
 
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
