@@ -123,7 +123,71 @@ Template Name: Payment Info
 						  <input type="text" class="form-control" placeholder="" title="USD">
 						</div>
 
-						
+						<p>
+							<span class="help-block">
+								<strong>Consider sustaining support:</strong>
+								<br />
+								<small>
+								Make a recurring contribution monthly, annually, or quarterly for as long as you wish. 
+								Cancel any time.
+								It's easy on you. It's easy on us. It really makes a difference.
+								</small>
+							</span>
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
+								<strong>Setup recurring payments</strong>
+								<span class="caret"></span>
+							</button>	
+						</p>
+
+						<div id="donate-sustain" class="panel panel-default collapse">
+							<div class="panel-heading">
+								<button type="button" class="btn btn-danger btn-block" data-toggle="collapse" data-target="#donate-sustain">
+									<small class="glyphicon glyphicon-remove"></small> 
+									<strong>No thanks</strong> 
+									<br>
+									<small>I'll make a one-time gift</small>
+								</button>
+							</div>
+							<div class="panel-body">
+								<p>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Make it <em>Monthly</em>
+									</label>
+									<br>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Count me in <em>Quarterly</em>
+									</label>
+									<br>
+									<label class="radio-inline">
+									<input type="radio" name="" value="">
+									Ante up <em>Annually</em>
+									</label>
+								</p>
+
+								<p>
+									<label>
+										Repeat contributions&hellip;
+										<select class="form-control">
+											<option value="0" selected>Indefinately</option>
+											<option value="1">For 1 year</option>
+											<option value="2">For 2 years</option>
+											<option value="3">For 3 years</option>
+											<option value="4">For 4 years</option>
+											<option value="5">For 5 years</option>
+										</select>
+									</label>
+									<span class="help-block">
+										<strong>Note:</strong>
+										<small>
+										You may cancel or modify this arrangement any time.
+										Detailed instructions are provided on the payment screen in the next step.
+										</small>
+									</span>
+								</p>
+							</div>
+						</div><!-- /.collapse -->
 						
 					</fieldset>
 				</div>
@@ -225,72 +289,6 @@ Template Name: Payment Info
 								Proceed to payment &rarr;
 							</button>
 						</p>
-
-						<p>
-							<span class="help-block">
-								<strong>Consider sustaining support:</strong>
-								<br />
-								<small>
-								Make a recurring contribution monthly, annually, or quarterly for as long as you wish. 
-								Cancel any time.
-								It's easy on you. It's easy on us. It really makes a difference.
-								</small>
-							</span>
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
-								<strong>Setup recurring payments</strong>
-								<span class="caret"></span>
-							</button>	
-						</p>
-
-						<div id="donate-sustain" class="panel panel-default collapse">
-							<div class="panel-heading">
-								<button type="button" class="btn btn-danger btn-block" data-toggle="collapse" data-target="#donate-sustain">
-									<small class="glyphicon glyphicon-remove"></small> 
-									<strong>No thanks</strong> 
-									<br>
-									<small>I'll make a one-time gift</small>
-								</button>
-							</div>
-							<div class="panel-body">
-								<p>
-									<label class="radio-inline">
-									<input type="radio" name="" value="">
-									Make it <em>Monthly</em>
-									</label>
-									<br>
-									<label class="radio-inline">
-									<input type="radio" name="" value="">
-									Count me in <em>Quarterly</em>
-									</label>
-									<br>
-									<label class="radio-inline">
-									<input type="radio" name="" value="">
-									Ante up <em>Annually</em>
-									</label>
-								</p>
-
-								<p>
-									<label>
-										Repeat contributions&hellip;
-										<select class="form-control">
-											<option value="0" selected>Indefinately</option>
-											<option value="1">For 1 year</option>
-											<option value="2">For 2 years</option>
-											<option value="3">For 3 years</option>
-											<option value="4">For 4 years</option>
-											<option value="5">For 5 years</option>
-										</select>
-									</label>
-									<span class="help-block">
-										<strong>Note:</strong>
-										<small>
-										You may cancel or modify this arrangement any time.
-										Detailed instructions are provided on the payment screen in the next step.
-										</small>
-									</span>
-								</p>
-							</div>
-						</div><!-- /.collapse -->
 
 						<p>
 							<label class="checkbox-inline">
