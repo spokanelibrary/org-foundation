@@ -125,29 +125,25 @@ Template Name: Payment Info
 							Consider sustaining support:
 						</h5>
 						<p>
+							<label class="checkbox-inline">
+								<input type="checkbox" name="" id="donate-recurring" value="">
+								I will give this amount monthly
+							</label>
+						</p>
+						<p>
 							<small>
 							Make a recurring contribution monthly for as long as you choose. 
 							Cancel any time.
 							It's easy on you. It's easy on us. It <em>really</em> makes a difference.
 							</small>
-							<!--
+							
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
-								<strong>Setup recurring payments</strong>
-								<span class="caret"></span>
-							</button>	
-							-->
-						</p>
-
-						<p>
-							<label class="checkbox-inline">
-								<input type="checkbox" name="" id="donate-recurring" value="">
-								I will give this amount monthly
-							</label>
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
 								<small class="glyphicon glyphicon-info-sign"></small>
 								More information
-							</button>
+							</button>	
 						</p>
+
+						
 
 						<div id="donate-sustain" class="panel panel-default collapse">
 							<div class="panel-heading">
