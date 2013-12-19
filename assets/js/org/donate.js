@@ -70,6 +70,7 @@ var org = {
 			var $anon = $('#donate-anon');
 			if ( $anon.prop('checked') ) {
 				console.log( 'anon' );
+				$reason.val( $reason.val() + ' (Anonymous)' );
 			} 
 
 			// sustain
@@ -77,7 +78,7 @@ var org = {
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			return false;
+			return true;
 
 		});
 
