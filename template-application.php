@@ -92,7 +92,7 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<label class="radio-inline">
-							<input type="radio" name="amount" value="25" checked>
+							<input type="radio" name="amount" value="25">
 							$25.00
 						</label>
 						<br>
@@ -139,51 +139,51 @@ Template Name: Payment Info
 						</span>
 					
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="Where funds are most needed" checked>
-						Where funds are most needed
+							<input type="radio" name="item_name" value="Where funds are most needed" checked>
+							Where funds are most needed
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="Books and Library resources">
-						Books and Library resources
+							<input type="radio" name="item_name" value="Books and Library resources">
+							Books and Library resources
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="Digital or downloadable material">
-						Digital or downloadable material
+							<input type="radio" name="item_name" value="Digital or downloadable material">
+							Digital or downloadable material
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="Programs for children and teens">
-						Programs for children and teens
+							<input type="radio" name="item_name" value="Programs for children and teens">
+							Programs for children and teens
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="Programs for all Library users">
-						Programs for all Library users
+							<input type="radio" name="item_name" value="Programs for all Library users">
+							Programs for all Library users
 						</label>
 						
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="A gift in memory of...">
-						<small class="glyphicon glyphicon-edit"></small>
-						A gift on behalf of&hellip;
+							<input type="radio" name="item_name" value="A gift in memory of...">
+							<small class="glyphicon glyphicon-edit"></small>
+							<strong>A gift on behalf of&hellip;</strong>
 						</label>
 						<br>
 						<input name="" id="donate-behalf" type="text" value="" class="form-control" title="On behalf of">
 						
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="A gift in memory of...">
-						<small class="glyphicon glyphicon-edit"></small>
-						A gift in memory of&hellip;
+							<input type="radio" name="item_name" value="A gift in memory of...">
+							<small class="glyphicon glyphicon-edit"></small>
+							<strong>A gift in memory of&hellip;</strong>
 						</label>
 						<br>
 						<input name="" id="donate-memory" type="text" value="" class="form-control" title="In memory of">
 						
 						<label class="radio-inline">
-						<input type="radio" name="item_name" value="For a specific purpose...">
-						<small class="glyphicon glyphicon-edit"></small>
-						For a specific purpose&hellip;
+							<input type="radio" name="item_name" value="For a specific purpose...">
+							<small class="glyphicon glyphicon-edit"></small>
+							<strong>For a specific purpose&hellip;</strong>
 						</label>
 						
 						<!--
