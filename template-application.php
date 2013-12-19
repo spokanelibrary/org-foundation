@@ -230,7 +230,7 @@ Template Name: Payment Info
 							Give Now
 						</legend>
 						<span class="help-block">
-							We use PayPal to sucurely process your payment.
+							We use PayPal to securely process your payment.
 							A PayPal account is not required.
 						</span>
 
