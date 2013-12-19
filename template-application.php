@@ -118,9 +118,9 @@ Template Name: Payment Info
 						  <input type="text" id="donate-specify" class="form-control" placeholder="" title="USD">
 						</div>
 
-						<h4 class="text-success">
+						<h5 class="text-success">
 							<strong>Consider sustaining support:</strong>
-						</h4>
+						</h5>
 						<p>
 							<small>
 							Make a recurring contribution monthly, annually, or quarterly for as long as you wish. 
