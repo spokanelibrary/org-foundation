@@ -230,6 +230,7 @@ Template Name: Payment Info
 							Give Now
 						</legend>
 						<span class="help-block">
+							We will email you a tax receipt.
 							Thank you for your generous consideration!
 						</span>
 
