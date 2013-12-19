@@ -44,26 +44,12 @@ Template Name: Payment Info
 	<Input type="hidden" name="item_number" id="donate-number" value="">
 	
 	
-
-	
-	<input type="hidden" name="cmd" value="_xclick-subscriptions">
-
-	<!--
 	<input type="hidden" name="a3" value="">
-	-->
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
-	
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
 	
-
-	<!--
-	<input type="hidden" name="item_name_1" vale="Donation"> 
-	<input type="hidden" name="on0_1" vale="MY Donation"> 
-	<input type="hidden" name="os0_1" vale="MY Value"> 
-	-->
-
 	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
