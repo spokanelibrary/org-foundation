@@ -149,7 +149,7 @@ Template Name: Payment Info
 								</button>
 							</div>
 							<div class="panel-body">
-								<p>
+								<div class="input-group">
 									<label class="radio-inline">
 									<input type="radio" name="" value="">
 									Make it <em>Monthly</em>
@@ -164,9 +164,9 @@ Template Name: Payment Info
 									<input type="radio" name="" value="">
 									Ante up <em>Annually</em>
 									</label>
-								</p>
+								</div>
 
-								<p>
+								<div class="input-group">
 									<label>
 										Repeat contributions&hellip;
 										<select class="form-control">
@@ -185,7 +185,7 @@ Template Name: Payment Info
 										Detailed instructions are provided on the payment screen in the next step.
 										</small>
 									</span>
-								</p>
+								</div>
 							</div>
 						</div><!-- /.collapse -->
 						
