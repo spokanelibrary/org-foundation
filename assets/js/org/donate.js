@@ -32,7 +32,7 @@ var org = {
 				$('#amount').val(specify).attr('checked',true);
 			}
 
-			return false;
+			return true;
 
 		});
 		
