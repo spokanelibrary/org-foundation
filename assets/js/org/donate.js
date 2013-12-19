@@ -32,6 +32,8 @@ var org = {
 				$('#amount').val(specify).prop('checked',true);
 			}
 
+			console.log(specify);
+
 			return false;
 
 		});
