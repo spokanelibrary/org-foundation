@@ -231,7 +231,7 @@ Template Name: Payment Info
 						<label class="radio-inline">
 							<input type="radio" name="item_name" value="A gift in memory of...">
 							<small class="glyphicon glyphicon-edit"></small>
-							<strong>A gift on behalf of&hellip;</strong>
+							A gift on behalf of&hellip;
 						</label>
 						<br>
 						<input name="" id="donate-behalf" type="text" value="" class="form-control" title="On behalf of">
@@ -239,7 +239,7 @@ Template Name: Payment Info
 						<label class="radio-inline">
 							<input type="radio" name="item_name" value="A gift in memory of...">
 							<small class="glyphicon glyphicon-edit"></small>
-							<strong>A gift in memory of&hellip;</strong>
+							A gift in memory of&hellip;
 						</label>
 						<br>
 						<input name="" id="donate-memory" type="text" value="" class="form-control" title="In memory of">
@@ -247,7 +247,7 @@ Template Name: Payment Info
 						<label class="radio-inline">
 							<input type="radio" name="item_name" value="For a specific purpose...">
 							<small class="glyphicon glyphicon-edit"></small>
-							<strong>For a specific purpose&hellip;</strong>
+							For a specific purpose&hellip;
 						</label>
 						<br>
 						<small class="help-block">
