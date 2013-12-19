@@ -54,7 +54,7 @@ Template Name: Payment Info
 	
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
-	-->
+	
 
 	<!--
 	<input type="hidden" name="item_name_1" vale="Donation"> 
