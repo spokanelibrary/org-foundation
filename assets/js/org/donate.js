@@ -39,6 +39,7 @@ var org = {
 			var amount = parseInt($('input[name="amount"]:checked').val());
 			if ( (typeof(specify) == 'NaN') || !(amount > 0) ) {
 				$amount.val(_self.config.amount).prop('checked',true);
+				$specify.val(_self.config.amount);
 			}
 			console.log( parseInt($('input[name="amount"]:checked').val()) );
 
