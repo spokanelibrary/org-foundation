@@ -21,7 +21,11 @@ var org = {
 
 , initDonate: function() {
 		
-		console.log('donate');
+		$('body').on('submit', '#donate-form', function() {
+
+			return false;
+
+		});
 		
   } // initDonate()
 
