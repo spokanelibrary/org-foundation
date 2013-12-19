@@ -1,11 +1,6 @@
 // Global configuration
 var config = { 
-      api: {// endpoint: 'http://api.spokanelibrary.org/v2/'
-            //,novelistApi: 'http://novselect.ebscohost.com/Data/ContentByQuery'
-           }
-    , path: {
-              absolute: 'http://beta.spokanelibrary.org'
-    }
+
 }
 
 // Modified http://paulirish.com/2009/markup-based-unobtrusive-comprehensive-dom-ready-execution/
@@ -13,45 +8,12 @@ var config = {
 
 var ORG = {
   setUser: function (user) {
-    if ( user && user.sessionToken ) {
-      this.user = user;
-    } else{
-      var $account = $('#spl-account-summary');
-      if ( $account && $account.text().length > 0 ) {
-        var user = JSON.parse($account.text());
-      }
-    }
-
-    if ( null != typeof(user) && undefined != typeof(user) ) {
-      this.user = user;
-      //console.log( this.user );
-      $profile = $('#spl-account-profile');
-      tmpl = Handlebars.compile( $('#spl-account-profile-tmpl').html() );
-      $profile.html( tmpl({user:this.user}) );
-
-      if ( $('#spl-catalog-profile-widget').data('show') ) {
-        //console.log(this.user);
-        $widget = $('#spl-catalog-profile-widget');
-        tmpl = Handlebars.compile( $('#spl-catalog-profile-widget-tmpl').html() );
-        $widget.html( tmpl({user:this.user}) );
-        
-      }
-
-
-    } else {
-      this.user = null;
-    }
+    
   }
   // All pages
 , common: {
     init: function() {
       MBP.hideUrlBarOnLoad();
-
-      // trigger tabs from alternate links
-      $('body').on('click', '[data-toggle="tab"]', function(e) {
-        $('a[href='+$(this).attr('href')+']').tab('show');
-      });
-      
 
       // Ajax defaults[
       $.ajaxSetup({
@@ -66,68 +28,13 @@ var ORG = {
         */
       });
 
-      Modernizr.load([
-        {
-          load: [config.path.absolute+'/assets/js/org/catalog.js' ],
-          complete: function () {
-            if ( org ) { 
-              org.init();
-            } 
-          }
-        }
-      ]);
-      
-
-
+    
     },
     finalize: function() {
-      $('body').tooltip({
-        selector: 'a[rel=tooltip]'
-      });
-    }
-  }
-, home: {
-    init: function() {
-      //console.log(config);
-    }
-  }
-, search : {
-    /*
-    init: function() {
-
-      Modernizr.load([
-        {
-          load: ['../assets/js/org/catalog.js' ],
-          complete: function () {
-            if ( org ) { 
-              org.init();
-            } 
-          }
-        }
-      ]);
-
-    }
-    */
-
-}
-, account: {
-    init: function() {
-      
-      Modernizr.load([
-        {
-          load: [config.path.absolute+'/assets/js/org/account.js'
-                ,config.path.absolute+'/assets/js/vendor/jquery.validate.js'
-                ,config.path.absolute+'/assets/js/vendor/bootstrap-datepicker.js' ],
-          complete: function () {
-            if ( org ) { 
-              org.init();
-            } 
-          }
-        }
-      ]);
 
     }
   }
+
 };
 
 
