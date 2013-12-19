@@ -111,15 +111,14 @@ Template Name: Payment Info
 							$500.00
 							</label>
 						</p>
-
+						<!--
 						<p>
 							<button type="button" class="btn btn-success btn-block">
 								<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
 						</p>
-						
-						<!--
+						-->
 						<p>
 							<label>
 							Other amount
@@ -127,7 +126,7 @@ Template Name: Payment Info
 							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
 							</label>
 						</p>
-						-->
+						
 					</fieldset>
 				</div>
 
@@ -283,6 +282,7 @@ Template Name: Payment Info
 								I prefer to give anonymously
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
+								<small class="glyphicon glyphicon-info-sign"></small>
 								What does this mean?
 							</button>
 						</p>
@@ -290,7 +290,6 @@ Template Name: Payment Info
 						<div id="define-anon" class="panel panel-default collapse">
 							<div class="panel-body">
 								<p>
-									<small class="glyphicon glyphicon-info-sign"></small>
 									<strong>We respect your privacy.</strong>
 								</p>
 								<p>
