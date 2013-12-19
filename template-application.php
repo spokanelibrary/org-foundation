@@ -125,7 +125,7 @@ Template Name: Payment Info
 							<label>
 							Other amount
 							<br>
-							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
+							<strong>$</strong> <input type="hidden" size="10" name="amount" id="amount" value="" class="" title="USD">
 							</label>
 						</p>
 						
