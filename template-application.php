@@ -143,34 +143,40 @@ Template Name: Payment Info
 						
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="one" checked>
+							<input type="radio" name="item_name" value="Where funds are most needed" checked>
 							Where funds are most needed
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="two">
+							<input type="radio" name="item_name" value="Books and Library resources">
 							Books and Library resources
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="two">
+							<input type="radio" name="item_name" value="Digital or downloadable material">
 							Digital or downloadable material
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
+							<input type="radio" name="item_name" value="Programs for children and teens">
 							Programs for children and teens
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="three">
+							<input type="radio" name="item_name" value="Programs for all Library users">
 							Programs for all Library users
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="four">
+							<input type="radio" name="item_name" value="For a specific purpose...">
 							<small class="glyphicon glyphicon-edit"></small>
 							For a specific purpose&hellip;
+							</label>
+							<br>
+							<label class="radio-inline">
+							<input type="radio" name="item_name" value="A gift in memory of...">
+							<small class="glyphicon glyphicon-edit"></small>
+							A gift in memory of&hellip;
 							</label>
 						</p>
 						
@@ -183,13 +189,6 @@ Template Name: Payment Info
 						</label>
 						</p>
 						-->
-
-						<p>
-							<button type="button" class="btn btn-primary btn-block">
-								<small class="glyphicon glyphicon-heart"></small> 
-								A gift in memory of&hellip;
-							</button>
-						</p>
 
 					</fieldset>
 				</div>
