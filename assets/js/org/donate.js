@@ -76,12 +76,12 @@ var org = {
 				console.log('sustain');
 				$('#cmd').val('_xclick-subscriptions');
 
-				
+
 			}
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			return false;
+			return true;
 
 		});
 
