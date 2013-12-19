@@ -92,7 +92,7 @@ Template Name: Payment Info
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="25">
+							<input type="radio" name="amount" value="25" checked>
 							$25.00
 							</label>
 							<br>
