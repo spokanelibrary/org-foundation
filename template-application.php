@@ -36,11 +36,11 @@ Template Name: Payment Info
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="donate-form">
 	<input type="hidden" name="cmd" value="_donations">
-	<input type="hidden" name="upload" value="1">
-	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	
+	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	<input type="hidden" name="no_note" value="1">
 
+	<Input type="hidden" name="item_name" value="my item name">
 	
 	<!--
 	<input type="hidden" name="cmd" value="_xclick-subscriptions">

@@ -22,15 +22,15 @@ var org = {
 
 , initDonate: function() {
 		
-		this.normalizeAmount();
+		this.normalizeValues();
 		
-  } // initDonate()
+  } // initValues()
 
-, normalizeAmount: function() {
+, normalizeValues: function() {
 
 		$('body').on('submit', '#donate-form', function() {
-			var defaultAmount = 20;
 
+			// amount
 			var $specify = $('#donate-specify');
 			var $amount = $('#donate-amount');
 			$amount.val('');
@@ -48,6 +48,9 @@ var org = {
 				$specify.val(_self.config.amount);
 			}
 			console.log( parseInt($('input[name="amount"]:checked').val()) );
+
+			// name
+
 
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
