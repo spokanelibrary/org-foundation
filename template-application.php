@@ -105,18 +105,17 @@ Template Name: Payment Info
 						<input type="radio" name="amount" value="100">
 						$100.00
 						</label>
-
-						<br>
-						<label class="radio-inline">
-						<input type="radio" name="amount" value="" id="specify">
-						<small class="glyphicon glyphicon-edit"></small> 
-							Specify an amount&hellip;
-						</label>
-
 						<br>
 						<label class="radio-inline">
 						<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
 						$500.00
+						</label>
+						<br>
+						
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="" id="specify">
+						<small class="glyphicon glyphicon-edit"></small> 
+							Specify an amount&hellip;
 						</label>
 
 						<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-amount">
