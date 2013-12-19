@@ -119,10 +119,10 @@ Template Name: Payment Info
 						</div>
 
 						<p>
-							<span class="help-block">
+							<span class="text-success">
 								<strong>Consider sustaining support:</strong>
-								<br />
 							</span>
+							<br />
 							<small>
 							Make a recurring contribution monthly, annually, or quarterly for as long as you wish. 
 							Cancel any time.
