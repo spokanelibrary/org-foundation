@@ -166,7 +166,7 @@ Template Name: Payment Info
 						A gift on behalf of&hellip;
 						</label>
 						<br>
-						<input size="20" name="item_number" id="" type="text" value="My behalf" class="" title="USD">
+						<input name="" id="donate-behalf" type="text" value="" class="form-control" title="On behalf of">
 						
 						<br>
 						<label class="radio-inline">
@@ -175,7 +175,7 @@ Template Name: Payment Info
 						A gift in memory of&hellip;
 						</label>
 						<br>
-						<input size="20" name="item_number" id="" type="text" value="My memory" class="" title="USD">
+						<input name="" id="donate=memory" type="text" value="" class="form-control" title="In memory of">
 						
 						<br>
 						<label class="radio-inline">
