@@ -184,6 +184,7 @@ Template Name: Payment Info
 							<input type="radio" name="item_name" value="For a specific purpose...">
 							<small class="glyphicon glyphicon-edit"></small>
 							<strong>For a specific purpose&hellip;</strong>
+							<span class="help-block">Please specify in comment secion.</span>
 						</label>
 						
 						<!--
