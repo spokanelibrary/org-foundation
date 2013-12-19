@@ -151,7 +151,7 @@ Template Name: Payment Info
 									<strong>Sustaining Contributions</strong>
 								</p>
 								<p>
-									You may cancel or modify this arrangement any time.
+									You may cancel you monthly gift any time.
 								</p>
 								<p>
 									To make a sustaining monthly contribution you will need to create a PayPal account, if you do not already have one.
