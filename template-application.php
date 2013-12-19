@@ -108,7 +108,7 @@ Template Name: Payment Info
 						<br>
 						
 						<label class="radio-inline">
-							<input type="radio" name="amount" value="" id="amount">
+							<input type="radio" name="amount" value="" id="donate-amount">
 							<small class="glyphicon glyphicon-edit"></small> 
 							<strong>Specify an amount&hellip;</strong>
 						</label>

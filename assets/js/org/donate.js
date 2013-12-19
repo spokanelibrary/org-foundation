@@ -26,10 +26,10 @@ var org = {
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			var $specify = $('#specify');
+			var $specify = $('#donate-specify');
 			var specify = $specify.val();
 			if ( specify > 0 ) {
-				$('#amount').val(specify).prop('checked',true);
+				$('#donate-amount').val(specify).prop('checked',true);
 			}
 
 			console.log(specify);
