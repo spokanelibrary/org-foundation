@@ -164,7 +164,7 @@ Template Name: Payment Info
 							Our Focus
 						</legend>
 						<span class="help-block">
-							Let us know how you would like us to use your gift.
+							Let us know how you would like us to direct your gift.
 						</span>
 					
 						<label class="radio-inline">
@@ -230,7 +230,8 @@ Template Name: Payment Info
 							Give Now
 						</legend>
 						<span class="help-block">
-							We will lorem ipsum.
+							We use PayPal to sucurely process your payment.
+							A PayPal account is not required.
 						</span>
 
 						<div class="form-group">
