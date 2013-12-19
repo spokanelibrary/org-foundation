@@ -139,7 +139,7 @@ Template Name: Payment Info
 									<small class="glyphicon glyphicon-remove"></small> 
 									<strong>No thanks</strong> 
 									<br>
-									<small>I'll make a one-time gift</small>
+									<small>I'd rather make a one-time gift</small>
 								</button>
 							</div>
 							<div class="panel-body">
