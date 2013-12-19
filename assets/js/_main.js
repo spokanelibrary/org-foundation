@@ -1,6 +1,8 @@
 // Global configuration
 var config = { 
-
+      path: {
+              absolute: 'http://beta.spokanelibrary.org'
+    }
 }
 
 // Modified http://paulirish.com/2009/markup-based-unobtrusive-comprehensive-dom-ready-execution/
@@ -28,11 +30,33 @@ var ORG = {
         */
       });
 
-    
     },
     finalize: function() {
+    }
+  }
+, home: {
+    init: function() {
+      //console.log(config);
+    }
+  }
+, donate : {
+    
+    init: function() {
+
+      Modernizr.load([
+        {
+          load: [config.path.absolute+'/assets/js/org/donate.js' ],
+          complete: function () {
+            if ( org ) { 
+              org.init();
+            } 
+          }
+        }
+      ]);
 
     }
+    
+
   }
 
 };
