@@ -216,7 +216,7 @@ Template Name: Payment Info
 
 						<div class="form-group">
 							<label for="custom">Your comments:</label>
-							<textarea class="form-control" name="custom"></textarea>
+							<textarea class="form-control" rows="5" name="custom"></textarea>
 						</div>
 
 						<p>
