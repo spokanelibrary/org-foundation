@@ -82,40 +82,40 @@ Template Name: Payment Info
 						</span>
 					
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="5">
-						$5.00
+							<input type="radio" name="amount" value="5">
+							$5.00
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="10">
-						$10.00
+							<input type="radio" name="amount" value="10">
+							$10.00
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="25" checked>
-						$25.00
+							<input type="radio" name="amount" value="25" checked>
+							$25.00
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="50">
-						$50.00
+							<input type="radio" name="amount" value="50">
+							$50.00
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="100">
-						$100.00
+							<input type="radio" name="amount" value="100">
+							$100.00
 						</label>
 						<br>
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
-						$500.00
+							<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
+							$500.00
 						</label>
 						<br>
 						
 						<label class="radio-inline">
-						<input type="radio" name="amount" value="" id="amount">
-						<small class="glyphicon glyphicon-edit"></small> 
-							Specify an amount&hellip;
+							<input type="radio" name="amount" value="" id="amount">
+							<small class="glyphicon glyphicon-edit"></small> 
+							<strong>Specify an amount&hellip;</strong>
 						</label>
 						<br>
 						<div class="input-group">
