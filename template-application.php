@@ -120,7 +120,7 @@ Template Name: Payment Info
 							</button>
 						</p>
 						
-						<!--
+						
 						<p>
 							<label>
 							Other amount
@@ -128,7 +128,7 @@ Template Name: Payment Info
 							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
 							</label>
 						</p>
-						-->
+						
 					</fieldset>
 				</div>
 
