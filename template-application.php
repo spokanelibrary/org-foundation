@@ -274,8 +274,10 @@ Template Name: Payment Info
 						</div>
 
 						<span class="help-block">
-							We use PayPal to securely process your payment.
-							A PayPal account is not required.
+							<small>
+								We use PayPal to securely process your payment.
+								A PayPal account is not required.
+							</small>
 						</span>
 
 					<fieldset>
