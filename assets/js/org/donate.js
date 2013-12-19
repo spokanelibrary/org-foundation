@@ -23,13 +23,13 @@ var org = {
 		
 		$('body').on('submit', '#donate-form', function() {
 
-			$('input', this).attr('disabled', true);
-			$('button', this).attr('disabled', true);
+			//$('input', this).attr('disabled', true);
+			//$('button', this).attr('disabled', true);
 
 			var $specify = $('#specify');
 			var specify = parseInt($specify.val());
 			if ( specify > 0 ) {
-				$('#amount').val(specify);
+				$('#amount').val(specify).attr('checked',true);
 			}
 
 			return false;
