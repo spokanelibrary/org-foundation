@@ -163,14 +163,20 @@ Template Name: Payment Info
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="A gift in memory of...">
 						<small class="glyphicon glyphicon-edit"></small>
-						A gift on behalf or in honor of&hellip;
+						A gift on behalf of&hellip;
 						</label>
+						<br>
+						<input size="20" name="item_name" id="" type="text" value="My behalf" class="" title="USD">
+						
 						<br>
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="A gift in memory of...">
 						<small class="glyphicon glyphicon-edit"></small>
 						A gift in memory of&hellip;
 						</label>
+						<br>
+						<input size="20" name="item_name" id="" type="text" value="My memory" class="" title="USD">
+						
 						<br>
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="For a specific purpose...">
