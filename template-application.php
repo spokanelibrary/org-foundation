@@ -45,12 +45,10 @@ Template Name: Payment Info
 	
 	
 
-	<!--
+	
 	<input type="hidden" name="cmd" value="_xclick-subscriptions">
 
 	<input type="hidden" name="a3" value="">
-	-->
-	
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
 	
