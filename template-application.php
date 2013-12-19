@@ -251,9 +251,9 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<small class="help-block">
-							Please specify in comment section.
+							Please specify in the comment section.
 							<br>
-							Thank you!
+							<em>Thank you!</em>
 						</small>
 					</fieldset>
 				</div>
@@ -269,7 +269,7 @@ Template Name: Payment Info
 						</span>
 
 						<div class="form-group">
-							<label for="custom">Your comments:</label>
+							<label for="custom">Your comments or instructions:</label>
 							<textarea class="form-control" rows="5" name="custom"></textarea>
 						</div>
 
