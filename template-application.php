@@ -42,11 +42,12 @@ Template Name: Payment Info
 
 	<Input type="hidden" name="item_number" id="donate-number" value="">
 	
-	<!--
+	
 	<input type="hidden" name="cmd" value="_xclick-subscriptions">
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
+	<!--
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
 	-->
@@ -146,7 +147,7 @@ Template Name: Payment Info
 							<div class="panel-body">
 								<div class="input-group">
 									<label class="radio-inline">
-									<input type="radio" name="" value="">
+									<input type="radio" name="" value="" checked>
 									Make it <em>Monthly</em>
 									</label>
 									<br>
