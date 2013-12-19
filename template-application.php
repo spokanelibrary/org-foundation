@@ -137,7 +137,7 @@ Template Name: Payment Info
 							<div class="panel-heading">
 								<button type="button" class="btn btn-danger btn-block" data-toggle="collapse" data-target="#donate-sustain">
 									<small class="glyphicon glyphicon-remove"></small> 
-									<strong>No, thanks.</strong> 
+									<strong>Nevermind, thanks.</strong> 
 									<br>
 									<small>I'd rather make a one-time gift.</small>
 								</button>
