@@ -126,7 +126,7 @@ Template Name: Payment Info
 						</h5>
 						<p>
 							<label class="checkbox-inline">
-								<input type="checkbox" name="" id="donate-recurring" value="">
+								<input type="checkbox" name="" id="donate-systain" value="">
 								I will give this amount monthly
 							</label>
 						</p>
@@ -137,7 +137,7 @@ Template Name: Payment Info
 							It's easy on you. It's easy on us. It <em>really</em> makes a difference.
 							</small>
 							
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-sustain"> 
 								<small class="glyphicon glyphicon-info-sign"></small>
 								More information
 							</button>	
@@ -145,15 +145,18 @@ Template Name: Payment Info
 
 						
 
-						<div id="donate-sustain" class="panel panel-default collapse">
-							<div class="panel-heading">
-								<h4>Sustaining Contributions</h4>
-							</div>
+						<div id="define-sustain" class="panel panel-default collapse">
 							<div class="panel-body">
+								<p>
+									<strong>Sustaining Contributions</strong>
+								</p>
 								<p>
 									You may cancel or modify this arrangement any time.
 									Detailed instructions are provided on the payment screen in the next step.
 								</p>
+								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-sustain">
+									OK
+								</button>
 							</div>
 						</div><!-- /.collapse -->
 						
