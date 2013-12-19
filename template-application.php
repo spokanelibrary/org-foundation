@@ -71,7 +71,7 @@ Template Name: Payment Info
 							Your Gift
 						</legend>
 						<span class="help-block">
-							You can lorem ipsum.
+							Choose an amount that's right for you.
 						</span>
 					
 						<label class="radio-inline">
@@ -164,7 +164,7 @@ Template Name: Payment Info
 							Our Focus
 						</legend>
 						<span class="help-block">
-							Please lorem ipsum.
+							Let us know how you would like us to use your gift.
 						</span>
 					
 						<label class="radio-inline">
