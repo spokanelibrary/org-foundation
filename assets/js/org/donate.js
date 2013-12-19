@@ -26,6 +26,12 @@ var org = {
 			$('input', this).attr('disabled', true);
 			$('button', this).attr('disabled', true);
 
+			var $specify = $('#specify');
+			var specify = parseInt($specify.val());
+			if ( specify > 0 ) {
+				$('#amount').val(specify);
+			}
+
 			return false;
 
 		});

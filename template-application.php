@@ -115,7 +115,7 @@ Template Name: Payment Info
 						<br>
 						<div class="input-group">
 						  <span class="input-group-addon">$</span>
-						  <input type="text" class="form-control" placeholder="" title="USD">
+						  <input type="text" id="donate-specify" class="form-control" placeholder="" title="USD">
 						</div>
 
 						<p>
