@@ -124,9 +124,9 @@ Template Name: Payment Info
 						</h5>
 						<p>
 							<small>
-							Make a recurring contribution <em>monthly, annually, or quarterly,</em> for as long as you choose. 
+							Make a recurring contribution <em>monthly, annually, or quarterly</em> for as long as you choose. 
 							Cancel any time.
-							It's easy on you. It's easy on us. It really makes a difference.
+							It's easy on you. It's easy on us. It <em>really</em> makes a difference.
 							</small>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
 								<strong>Setup recurring payments</strong>
