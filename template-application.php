@@ -143,15 +143,13 @@ Template Name: Payment Info
 							</button>	
 						</p>
 
-						
-
 						<div id="define-sustain" class="panel panel-default collapse">
 							<div class="panel-body">
 								<p>
 									<strong>Sustaining Contributions</strong>
 								</p>
 								<p>
-									You may cancel you monthly gift any time.
+									You may cancel your monthly gift any time.
 								</p>
 								<p>
 									To make a sustaining monthly contribution you will need to create a PayPal account, if you do not already have one.
@@ -238,7 +236,7 @@ Template Name: Payment Info
 					<fieldset>
 						<legend>
 							<small class="glyphicon glyphicon-leaf text-muted"></small> 
-							Donate Now
+							Give Now
 						</legend>
 						<span class="help-block">
 							We will lorem ipsum.
