@@ -23,16 +23,16 @@ var org = {
 		
 		$('body').on('submit', '#donate-form', function() {
 
-			//$('input', this).attr('disabled', true);
-			//$('button', this).attr('disabled', true);
+			//$('input', this).prop('disabled', true);
+			//$('button', this).prop('disabled', true);
 
 			var $specify = $('#specify');
 			var specify = parseInt($specify.val());
 			if ( specify > 0 ) {
-				$('#amount').val(specify).attr('checked',true);
+				$('#amount').val(specify).prop('checked',true);
 			}
 
-			return true;
+			return false;
 
 		});
 		
