@@ -210,6 +210,8 @@ Template Name: Payment Info
 							We will lorem ipsum.
 						</span>
 
+						<textarea class="form-control" name="custom">
+
 						<p>
 							<button type="submit" class="btn btn-warning btn-block">
 								<small class="glyphicon glyphicon-credit-card"></small> 
