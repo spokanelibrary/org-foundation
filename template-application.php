@@ -271,8 +271,10 @@ Template Name: Payment Info
 									<strong>We respect your privacy.</strong>
 								</p>
 								<p>
-								We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
-								In addition, your name will not be published in any Foundation communications.
+									We will not contact anonymous donors, except to provide a tax receipt and in the event we require clarification regarding your gift.
+								</p>
+								<p>
+									In addition, your name will not be published in any Foundation communications.
 								</p>
 								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-anon">
 									OK

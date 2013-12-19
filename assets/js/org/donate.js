@@ -50,9 +50,9 @@ var org = {
 			console.log( parseInt($('input[name="amount"]:checked').val()) );
 
 			// name
-			$name = $('#donate-number'); // we're hijacking the item_number field
-			$behalf = $('#donate-behalf');
-			$memory = $('#donate-memory');
+			var $name = $('#donate-number'); // we're hijacking the item_number field
+			var $behalf = $('#donate-behalf');
+			var $memory = $('#donate-memory');
 
 			if ( $behalf.val().length > 0 ) {
 				$name.val($behalf.val());
@@ -63,13 +63,17 @@ var org = {
 			}
 
 			// anon
+			var $anon = $('#donate-anon');
+			if ( $anon.prop('checked') ) {
+				console.log( 'anon' );
+			} 
 
 			// sustain
 
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			return true;
+			return false;
 
 		});
 
