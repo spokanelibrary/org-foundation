@@ -27,13 +27,28 @@ var org = {
   } // initValues()
 
 , normalizeValues: function() {
+		var $specify = $('#donate-specify');
+		var $amount = $('#donate-amount');
+		$amount.val('');
+
+		var $name = $('#donate-number'); // we're hijacking the item_number field
+		var $behalf = $('#donate-behalf');
+		var $memory = $('#donate-memory');
+
+		var $reason = $('input[name="item_name"]:checked');
+		var $anon = $('#donate-anon');
+
+		$cmd = $('#cmd');
+		$a3 = $('#a3');
+
+		$cmd.val('_donations');
+		$a3.val('');
+		var $sustain = $('#donate-sustain');
 
 		$('body').on('submit', '#donate-form', function() {
 
 			// amount
-			var $specify = $('#donate-specify');
-			var $amount = $('#donate-amount');
-			$amount.val('');
+			
 
 			var specify = parseInt($specify.val());
 			if ( typeof(specify) != 'NaN' && specify > 0 ) {
@@ -51,10 +66,6 @@ var org = {
 			//console.log( amount );
 
 			// name
-			var $name = $('#donate-number'); // we're hijacking the item_number field
-			var $behalf = $('#donate-behalf');
-			var $memory = $('#donate-memory');
-
 			if ( $behalf.val().length > 0 ) {
 				$name.val($behalf.val());
 			}
@@ -64,20 +75,12 @@ var org = {
 			}
 
 			// anon
-			var $reason = $('input[name="item_name"]:checked');
-			var $anon = $('#donate-anon');
 			if ( $anon.prop('checked') ) {
 				//console.log( 'anon' );
 				$reason.val( $reason.val() + ' (Anonymous)' );
 			} 
 
 			// sustain
-			$cmd = $('#cmd');
-			$a3 = $('#a3');
-
-			$cmd.val('_donations');
-			$a3.val('');
-			var $sustain = $('#donate-sustain');
 			if ( $sustain.prop('checked') ) {
 				console.log('sustain');
 				$cmd.val('_xclick-subscriptions');
