@@ -139,7 +139,7 @@ Template Name: Payment Info
 							
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-sustain"> 
 								<small class="glyphicon glyphicon-info-sign"></small>
-								More information
+								Please tell me more about this
 							</button>	
 						</p>
 
@@ -155,6 +155,8 @@ Template Name: Payment Info
 								</p>
 								<p>
 									To make a sustaining monthly contribution you will need to create a PayPal account, if you do not already have one.
+								</p>
+								<p>
 									Detailed instructions are provided on the payment screen in the next step.
 								</p>
 								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-sustain">
