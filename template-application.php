@@ -43,12 +43,12 @@ Template Name: Payment Info
 
 	<Input type="hidden" name="item_number" id="donate-number" value="">
 	
-	
+	<!--
 	<input type="hidden" name="cmd" value="_xclick-subscriptions">
 	<input type="hidden" name="a3" value="20.00">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
-	<!--
+	
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
 	-->
@@ -126,14 +126,38 @@ Template Name: Payment Info
 						</h5>
 						<p>
 							<small>
-							Make a recurring contribution <em>monthly, annually, or quarterly</em> for as long as you choose. 
+							Make a recurring contribution monthly for as long as you choose. 
 							Cancel any time.
 							It's easy on you. It's easy on us. It <em>really</em> makes a difference.
 							</small>
+							<!--
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
 								<strong>Setup recurring payments</strong>
 								<span class="caret"></span>
 							</button>	
+							-->
+						</p>
+
+						<p>
+							<label class="checkbox-inline">
+								<input type="checkbox" name="" id="donate-recurring" value="">
+								Make it monthly
+							</label>
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
+								<small class="glyphicon glyphicon-info-sign"></small>
+								More information
+							</button>
+						</p>
+
+						<p>
+							<label class="checkbox-inline">
+								<input type="checkbox" name="" id="donate-anon" value="">
+								I prefer to give anonymously
+							</label>
+							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
+								<small class="glyphicon glyphicon-info-sign"></small>
+								What does this mean?
+							</button>
 						</p>
 
 						<div id="donate-sustain" class="panel panel-default collapse">
