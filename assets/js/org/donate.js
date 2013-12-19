@@ -63,6 +63,10 @@ var org = {
 			}
 
 			// anon
+
+			var $reason = $('input[name="amount"]:checked');
+			console.log( $reason.val() );
+
 			var $anon = $('#donate-anon');
 			if ( $anon.prop('checked') ) {
 				console.log( 'anon' );
