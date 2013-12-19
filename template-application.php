@@ -162,7 +162,7 @@ Template Name: Payment Info
 									<br>
 									<label class="radio-inline">
 									<input type="radio" name="" value="">
-									Ante up <em>Annually</em>
+									I'll Ante up <em>Annually</em>
 									</label>
 								</div>
 
@@ -250,21 +250,11 @@ Template Name: Payment Info
 							<strong>For a specific purpose&hellip;</strong>
 						</label>
 						<br>
-						<span class="help-block">
+						<small class="help-block">
 							Please specify in comment section.
 							<br>
 							Thank you!
-						</span>
-						<!--
-						<p>
-						<label>
-						Other <small>(please specify)</small>
-						<br>
-						<input size="20" name="item_name" id="" type="text" value="My reason" class="" title="USD">
-						</label>
-						</p>
-						-->
-
+						</small>
 					</fieldset>
 				</div>
 
