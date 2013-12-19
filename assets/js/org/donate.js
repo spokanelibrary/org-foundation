@@ -28,7 +28,7 @@ var org = {
 
 			var $specify = $('#donate-specify');
 			var specify = parseInt($specify.val());
-			if ( typeOf(specify) != 'NaN' && specify > 0 ) {
+			if ( typeof(specify) != 'NaN' && specify > 0 ) {
 				$('#donate-amount').val(specify).prop('checked',true);
 			}
 
