@@ -47,7 +47,8 @@ var org = {
 				$amount.val(_self.config.amount).prop('checked',true);
 				$specify.val(_self.config.amount);
 			}
-			//console.log( parseInt($('input[name="amount"]:checked').val()) );
+			amount = parseInt($('input[name="amount"]:checked').val());
+			//console.log( amount );
 
 			// name
 			var $name = $('#donate-number'); // we're hijacking the item_number field
@@ -75,8 +76,7 @@ var org = {
 			if ( $sustain.prop('checked') ) {
 				console.log('sustain');
 				$('#cmd').val('_xclick-subscriptions');
-
-
+				$('#a3').val(amount);
 			}
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);

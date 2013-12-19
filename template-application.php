@@ -44,7 +44,7 @@ Template Name: Payment Info
 	<Input type="hidden" name="item_number" id="donate-number" value="">
 	
 	
-	<input type="hidden" name="a3" value="">
+	<input type="hidden" name="a3" value="" id="a3">
 	<input type="hidden" name="p3" value="1"> 
 	<input type="hidden" name="t3" value="M">
 	<input type="hidden" name="src" value="1"> 
