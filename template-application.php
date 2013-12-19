@@ -134,7 +134,7 @@ Template Name: Payment Info
 							</button>	
 						</p>
 
-						<div id="define-sustain" class="panel panel-default collapse">
+						<div id="define-sustain" class="panel panel-primary collapse">
 							<div class="panel-body">
 								<p>
 									<strong>Sustaining Contributions</strong>
