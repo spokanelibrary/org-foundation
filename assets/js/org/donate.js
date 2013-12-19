@@ -23,6 +23,8 @@ var org = {
 		
 		$('body').on('submit', '#donate-form', function() {
 
+			$('input', this).attr('disabled', true);
+
 			return false;
 
 		});
