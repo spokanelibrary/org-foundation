@@ -116,13 +116,14 @@ Template Name: Payment Info
 								<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
-							<br>
+						</p>
+						
+						<div id="donate-amount" class="collapse">
 							<label>
 							Other amount
 							<br>
-							<input type="text" size="10" name="amount" id="amount" value="" class="" title="USD">
+							<strong>$</strong> <input type="text" size="10" name="amount" id="amount" value="" class="" title="USD">
 							</label>
-					
 						</div>
 						
 					</fieldset>
