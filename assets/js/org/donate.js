@@ -28,6 +28,7 @@ var org = {
 
 , normalizeValues: function() {
 		var $specify = $('#donate-specify');
+		$specify.val('');
 		var $amount = $('#donate-amount');
 		$amount.val('');
 
