@@ -45,7 +45,7 @@ var org = {
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			return false;
+			return true;
 
 		});
 		
