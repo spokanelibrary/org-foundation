@@ -118,11 +118,8 @@ Template Name: Payment Info
 							Specify an amount&hellip;
 						</button>
 						<div id="donate-amount" class="collapse">
-							<label>
-							Other amount
-							<br>
+							
 							<strong>$</strong> <input type="text" size="10" name="amount" id="amount" value="" class="" title="USD">
-							</label>
 						</div>
 						
 					</fieldset>
