@@ -50,7 +50,7 @@ Template Name: Payment Info
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
 	
-	<div class="panel panel-default">
+	<div class="panel panel-primary">
 		<!--
 		<div class="panel-heading">
 			<h4>
@@ -134,7 +134,7 @@ Template Name: Payment Info
 							</button>	
 						</p>
 
-						<div id="define-sustain" class="panel panel-primary collapse">
+						<div id="define-sustain" class="panel panel-default collapse">
 							<div class="panel-body">
 								<p>
 									<strong>Sustaining Contributions</strong>
