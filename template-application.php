@@ -124,7 +124,7 @@ Template Name: Payment Info
 						</h5>
 						<p>
 							<small>
-							Make a recurring contribution <em>monthly, annually, or quarterly</em> for as long as you wish. 
+							Make a recurring contribution <em>monthly, annually, or quarterly,</em> for as long as you wish. 
 							Cancel any time.
 							It's easy on you. It's easy on us. It really makes a difference.
 							</small>
