@@ -72,11 +72,16 @@ var org = {
 			} 
 
 			// sustain
+			$cmd = $('#cmd');
+			$a3 = $('#a3');
+
+			$cmd.val('_donations');
+			$a3.val('');
 			var $sustain = $('#donate-sustain');
 			if ( $sustain.prop('checked') ) {
 				console.log('sustain');
-				$('#cmd').val('_xclick-subscriptions');
-				$('#a3').val(amount);
+				$cmd.val('_xclick-subscriptions');
+				$a3.val(amount);
 			}
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
