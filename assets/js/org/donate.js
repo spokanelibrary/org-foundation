@@ -22,6 +22,7 @@ var org = {
 , initDonate: function() {
 		
 		$('body').on('submit', '#donate-form', function() {
+			var defaultAmount = 20;
 
 			var $specify = $('#donate-specify');
 			var $amount = $('#donate-amount');
@@ -32,7 +33,12 @@ var org = {
 				$amount.val('');
 			}
 
-			console.log($('input[name="amount"]:checked').val());
+			var amount = parseInt($('input[name="amount"]:checked').val());
+			if ( typeof(specify) == 'NaN' || specify !> 0 ) {
+				$amount.val(defaultAmount).prop('checked',true);
+			}
+
+			console.log( $('input[name="amount"]:checked').val() );
 
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
