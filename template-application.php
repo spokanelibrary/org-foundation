@@ -108,7 +108,7 @@ Template Name: Payment Info
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="500">
+							<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
 							$500.00
 							</label>
 						</p>
