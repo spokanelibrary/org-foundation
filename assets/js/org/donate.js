@@ -35,14 +35,15 @@ var org = {
 				$amount.val('');
 			}
 
-			/*
+			
 			var amount = parseInt($('input[name="amount"]:checked').val());
+			/*
 			if ( (typeof(specify) == 'NaN') || !(specify > 0) ) {
 				$amount.val(defaultAmount).prop('checked',true);
 			}
 			*/
 
-			console.log( $('input[name="amount"]:checked').val() );
+			console.log( amount );
 
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
