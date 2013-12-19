@@ -50,7 +50,7 @@ Template Name: Payment Info
 	<input type="hidden" name="src" value="1"> 
 	<input type="hidden" name="sra" value="1">
 	
-	<div class="panel panel-primary">
+	<div class="panel panel-default">
 		<!--
 		<div class="panel-heading">
 			<h4>
