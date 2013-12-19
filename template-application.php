@@ -231,7 +231,7 @@ Template Name: Payment Info
 						</legend>
 						<span class="help-block">
 							We will email you a tax receipt.
-							Thank you for your generous consideration!
+							Thank you so much!
 						</span>
 
 						<div class="form-group">
