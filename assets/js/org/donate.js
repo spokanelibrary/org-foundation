@@ -64,7 +64,7 @@ var org = {
 
 			// anon
 
-			var $reason = $('input[name="amount"]:checked');
+			var $reason = $('input[name="item_name"]:checked');
 			console.log( $reason.val() );
 
 			var $anon = $('#donate-anon');
