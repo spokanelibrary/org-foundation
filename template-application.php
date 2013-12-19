@@ -80,38 +80,36 @@ Template Name: Payment Info
 						<span class="help-block">
 							You can lorem ipsum.
 						</span>
-						
-						<p>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="5">
-							$5.00
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="10">
-							$10.00
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="25" checked>
-							$25.00
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="50">
-							$50.00
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="100">
-							$100.00
-							</label>
-							<br>
-							<label class="radio-inline">
-							<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
-							$500.00
-							</label>
-						</p>
+					
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="5">
+						$5.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="10">
+						$10.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="25" checked>
+						$25.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="50">
+						$50.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="100">
+						$100.00
+						</label>
+						<br>
+						<label class="radio-inline">
+						<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
+						$500.00
+						</label>
 
 						<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-amount">
 							<small class="glyphicon glyphicon-edit"></small> 
