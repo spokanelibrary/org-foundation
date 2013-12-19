@@ -277,7 +277,7 @@ Template Name: Payment Info
 
 						<p>
 							<label class="checkbox-inline">
-								<input type="checkbox" name="item_number" value="Anonymous Donation">
+								<input type="checkbox" name="" id="donate-anon" value="">
 								I prefer to give anonymously
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
