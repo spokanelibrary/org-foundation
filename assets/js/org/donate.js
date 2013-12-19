@@ -47,7 +47,7 @@ var org = {
 				$amount.val(_self.config.amount).prop('checked',true);
 				$specify.val(_self.config.amount);
 			}
-			console.log( parseInt($('input[name="amount"]:checked').val()) );
+			//console.log( parseInt($('input[name="amount"]:checked').val()) );
 
 			// name
 			var $name = $('#donate-number'); // we're hijacking the item_number field
@@ -63,22 +63,22 @@ var org = {
 			}
 
 			// anon
-
 			var $reason = $('input[name="item_name"]:checked');
-			console.log( $reason.val() );
-
 			var $anon = $('#donate-anon');
 			if ( $anon.prop('checked') ) {
-				console.log( 'anon' );
+				//console.log( 'anon' );
 				$reason.val( $reason.val() + ' (Anonymous)' );
 			} 
 
 			// sustain
-
+			var $sustain = $('#donate-sustain');
+			if ( $sustain.prop('checked') ) {
+				console.log('sustain');
+			}
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
 
-			return true;
+			return false;
 
 		});
 
