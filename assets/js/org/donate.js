@@ -86,7 +86,7 @@ var org = {
 				$a3.val(amount);
 			}
 			//$('input', this).prop('disabled', true);
-			//$('button', this).prop('disabled', true);
+			$('button', this).prop('disabled', true);
 
 			return true;
 
