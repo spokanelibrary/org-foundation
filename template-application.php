@@ -119,7 +119,7 @@ Template Name: Payment Info
 						</div>
 
 						<h5 class="text-success">
-							<small class="glyphicon glyphicon-refresh"></small>
+							<small class="glyphicon glyphicon-calendar"></small>
 							Consider sustaining support:
 						</h5>
 						<p>
