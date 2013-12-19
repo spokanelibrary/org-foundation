@@ -141,22 +141,11 @@ Template Name: Payment Info
 						<p>
 							<label class="checkbox-inline">
 								<input type="checkbox" name="" id="donate-recurring" value="">
-								Make it monthly
+								I will give this amount monthly
 							</label>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
 								<small class="glyphicon glyphicon-info-sign"></small>
 								More information
-							</button>
-						</p>
-
-						<p>
-							<label class="checkbox-inline">
-								<input type="checkbox" name="" id="donate-anon" value="">
-								I prefer to give anonymously
-							</label>
-							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-anon">
-								<small class="glyphicon glyphicon-info-sign"></small>
-								What does this mean?
 							</button>
 						</p>
 
