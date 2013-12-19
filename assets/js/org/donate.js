@@ -74,6 +74,9 @@ var org = {
 			var $sustain = $('#donate-sustain');
 			if ( $sustain.prop('checked') ) {
 				console.log('sustain');
+				$('#cmd').val('_xclick-subscriptions');
+
+				
 			}
 			//$('input', this).prop('disabled', true);
 			//$('button', this).prop('disabled', true);
