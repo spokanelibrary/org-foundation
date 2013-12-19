@@ -126,7 +126,7 @@ Template Name: Payment Info
 						</h5>
 						<p>
 							<label class="checkbox-inline">
-								<input type="checkbox" name="" id="donate-systain" value="">
+								<input type="checkbox" name="" id="donate-sustain" value="">
 								I will give this amount monthly
 							</label>
 						</p>
