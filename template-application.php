@@ -230,8 +230,7 @@ Template Name: Payment Info
 							Give Now
 						</legend>
 						<span class="help-block">
-							We use PayPal to securely process your payment.
-							A PayPal account is not required.
+							Thank you for your generous consideration!
 						</span>
 
 						<div class="form-group">
@@ -273,6 +272,11 @@ Template Name: Payment Info
 								</button>
 							</div>
 						</div>
+
+						<span class="help-block">
+							We use PayPal to securely process your payment.
+							A PayPal account is not required.
+						</span>
 
 					<fieldset>
 				</div>
