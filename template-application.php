@@ -83,32 +83,32 @@ Template Name: Payment Info
 						
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="5">
+							<input type="radio" name="amount_1" value="5">
 							$5.00
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="10">
+							<input type="radio" name="amount_1" value="10">
 							$10.00
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="25" checked>
+							<input type="radio" name="amount_1" value="25" checked>
 							$25.00
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="50">
+							<input type="radio" name="amount_1" value="50">
 							$50.00
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="100">
+							<input type="radio" name="amount_1" value="100">
 							$100.00
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="amount" value="500">
+							<input type="radio" name="amount_1" value="500">
 							$500.00
 							</label>
 						</p>
@@ -144,27 +144,27 @@ Template Name: Payment Info
 						
 						<p>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="Where funds are most needed" checked>
+							<input type="radio" name="item_name_1" value="Where funds are most needed" checked>
 							Where funds are most needed
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="Books and Library resources">
+							<input type="radio" name="item_name_1" value="Books and Library resources">
 							Books and Library resources
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="Digital or downloadable material">
+							<input type="radio" name="item_name_1" value="Digital or downloadable material">
 							Digital or downloadable material
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="Programs for children and teens">
+							<input type="radio" name="item_name_1" value="Programs for children and teens">
 							Programs for children and teens
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="Programs for all Library users">
+							<input type="radio" name="item_name_1" value="Programs for all Library users">
 							Programs for all Library users
 							</label>
 							<br>
@@ -175,7 +175,7 @@ Template Name: Payment Info
 							</label>
 							<br>
 							<label class="radio-inline">
-							<input type="radio" name="item_name" value="A gift in memory of...">
+							<input type="radio" name="item_name_1" value="A gift in memory of...">
 							<small class="glyphicon glyphicon-edit"></small>
 							A gift in memory of&hellip;
 							</label>
