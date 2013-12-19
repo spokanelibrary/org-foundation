@@ -113,8 +113,7 @@ Template Name: Payment Info
 							</label>
 							<br>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-amount">
-								&nbsp;
-								<small class="glyphicon glyphicon-usd"></small> 
+								&nbsp;<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
 						</p>
