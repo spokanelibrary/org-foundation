@@ -118,7 +118,11 @@ Template Name: Payment Info
 							Specify an amount&hellip;
 						</label>
 						<br>
-						<span class="label label-success">$</span> <input type="text" size="10" name="specify" id="specify" value="" class="" title="USD">
+						<div class="input-group">
+						  <span class="input-group-addon">$</span>
+						  <input type="text" class="form-control" placeholder="" title="USD">
+						</div>
+
 						
 						
 					</fieldset>
@@ -167,7 +171,7 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<input name="" id="donate-behalf" type="text" value="" class="form-control" title="On behalf of">
-						<span class="help-block">asdfsadf</span>
+						
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="A gift in memory of...">
 						<small class="glyphicon glyphicon-edit"></small>
@@ -175,7 +179,7 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<input name="" id="donate-memory" type="text" value="" class="form-control" title="In memory of">
-						<span class="help-block">asdfsadf</span>
+						
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="For a specific purpose...">
 						<small class="glyphicon glyphicon-edit"></small>
