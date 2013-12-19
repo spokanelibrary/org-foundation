@@ -118,15 +118,14 @@ Template Name: Payment Info
 						  <input type="text" id="donate-specify" class="form-control" placeholder="" title="USD">
 						</div>
 
+						<h4 class="text-success">
+							<strong>Consider sustaining support:</strong>
+						</h4>
 						<p>
-							<span class="text-success">
-								<strong>Consider sustaining support:</strong>
-							</span>
-							<br />
 							<small>
 							Make a recurring contribution monthly, annually, or quarterly for as long as you wish. 
 							Cancel any time.
-							It's easy on you. It's easy on us. It really makes a difference.
+							It's easy on you. It's easy on us. And it really makes a difference.
 							</small>
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#donate-sustain"> 
 								<strong>Setup recurring payments</strong>
