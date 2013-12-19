@@ -22,6 +22,12 @@ var org = {
 
 , initDonate: function() {
 		
+		this.normalizeAmount();
+		
+  } // initDonate()
+
+, normalizeAmount: function() {
+
 		$('body').on('submit', '#donate-form', function() {
 			var defaultAmount = 20;
 
@@ -49,8 +55,8 @@ var org = {
 			return true;
 
 		});
-		
-  } // initDonate()
+
+	}
 
 , toggleCheckboxGroup: function(all, item, scope) {
 		var $selectAll;
