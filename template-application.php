@@ -167,15 +167,15 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<input name="" id="donate-behalf" type="text" value="" class="form-control" title="On behalf of">
-						
+						<span class="help-block">asdfsadf</span>
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="A gift in memory of...">
 						<small class="glyphicon glyphicon-edit"></small>
 						A gift in memory of&hellip;
 						</label>
 						<br>
-						<input name="" id="donate=memory" type="text" value="" class="form-control" title="In memory of">
-						
+						<input name="" id="donate-memory" type="text" value="" class="form-control" title="In memory of">
+						<span class="help-block">asdfsadf</span>
 						<label class="radio-inline">
 						<input type="radio" name="item_name" value="For a specific purpose...">
 						<small class="glyphicon glyphicon-edit"></small>
