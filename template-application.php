@@ -152,6 +152,9 @@ Template Name: Payment Info
 								</p>
 								<p>
 									You may cancel or modify this arrangement any time.
+								</p>
+								<p>
+									To make a sustaining monthly contribution you will need to create a PayPal account, if you do not already have one.
 									Detailed instructions are provided on the payment screen in the next step.
 								</p>
 								<button type="button" class="btn btn-sm btn-default pull-right" data-toggle="collapse" data-target="#define-sustain">
