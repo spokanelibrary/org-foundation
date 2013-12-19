@@ -23,16 +23,19 @@ var org = {
 		
 		$('body').on('submit', '#donate-form', function() {
 
-			//$('input', this).prop('disabled', true);
-			//$('button', this).prop('disabled', true);
-
 			var $specify = $('#donate-specify');
+			var $amount = $('#donate-amount');
 			var specify = parseInt($specify.val());
 			if ( typeof(specify) != 'NaN' && specify > 0 ) {
-				$('#donate-amount').val(specify).prop('checked',true);
+				$amount.val(specify).prop('checked',true);
+			} else {
+				$amount.val('');
 			}
 
-			console.log(specify);
+			console.log($('input[name="amount"]:checked').val());
+
+			//$('input', this).prop('disabled', true);
+			//$('button', this).prop('disabled', true);
 
 			return false;
 
