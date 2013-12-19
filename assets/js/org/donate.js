@@ -27,7 +27,7 @@ var org = {
 			var $specify = $('#donate-specify');
 			var $amount = $('#donate-amount');
 
-			$amount.val('').prop('checked',false);
+			//$amount.val('').prop('checked',false);
 			var specify = parseInt($specify.val());
 			if ( typeof(specify) != 'NaN' && specify > 0 ) {
 				$amount.val(specify).prop('checked',true);
@@ -35,10 +35,12 @@ var org = {
 				$amount.val('');
 			}
 
+			/*
 			var amount = parseInt($('input[name="amount"]:checked').val());
 			if ( (typeof(specify) == 'NaN') || !(specify > 0) ) {
 				$amount.val(defaultAmount).prop('checked',true);
 			}
+			*/
 
 			console.log( $('input[name="amount"]:checked').val() );
 
