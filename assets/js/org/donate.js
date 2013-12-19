@@ -4,7 +4,8 @@ var org = {
 
 	// added on script load
 	config: {
-						endpoint: { hzws: 'http://api.spokanelibrary.org/v2/hzws/' }
+						amount: 20
+					, endpoint: { hzws: 'http://api.spokanelibrary.org/v2/hzws/' }
 					 }
 
 	// added on authentication
@@ -26,8 +27,8 @@ var org = {
 
 			var $specify = $('#donate-specify');
 			var $amount = $('#donate-amount');
-
 			$amount.val('');
+
 			var specify = parseInt($specify.val());
 			if ( typeof(specify) != 'NaN' && specify > 0 ) {
 				$amount.val(specify).prop('checked',true);
@@ -35,15 +36,10 @@ var org = {
 				$amount.val('');
 			}
 
-			
 			var amount = parseInt($('input[name="amount"]:checked').val());
-			
 			if ( (typeof(specify) == 'NaN') || !(amount > 0) ) {
-				//console.log('default');
-				$amount.val(defaultAmount).prop('checked',true);
+				$amount.val(_self.config.amount).prop('checked',true);
 			}
-			
-
 			console.log( parseInt($('input[name="amount"]:checked').val()) );
 
 			//$('input', this).prop('disabled', true);
