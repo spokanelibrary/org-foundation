@@ -111,14 +111,15 @@ Template Name: Payment Info
 							$500.00
 							</label>
 						</p>
-						<!--
+						
 						<p>
 							<button type="button" class="btn btn-success btn-block">
 								<small class="glyphicon glyphicon-usd"></small> 
 								Specify an amount&hellip;
 							</button>
 						</p>
-						-->
+						
+						<!--
 						<p>
 							<label>
 							Other amount
@@ -126,7 +127,7 @@ Template Name: Payment Info
 							<strong>$</strong> <input size="10" name="amount" id="amount" type="text" value="42" class="" title="USD">
 							</label>
 						</p>
-						
+						-->
 					</fieldset>
 				</div>
 
