@@ -277,7 +277,7 @@ Template Name: Payment Info
 						<span class="help-block">
 							<small>
 								We use PayPal to securely process your payment.
-								A PayPal account is not required.
+								A PayPal account is not required unless you choose to establish a sustaining monthly gift.
 							</small>
 						</span>
 
