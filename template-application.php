@@ -122,11 +122,13 @@ Template Name: Payment Info
 							</label>
 						</p>
 						<p>
-							<small>
-							Make a recurring contribution monthly for as long as you choose. 
-							Cancel any time.
-							It's easy on you. It's easy on us. It <em>really</em> makes a difference.
-							</small>
+							<span class="help-block">
+								<small>
+								Make a recurring contribution monthly for as long as you choose. 
+								Cancel any time.
+								It's easy on you. It's easy on us. It <em>really</em> makes a difference.
+								</small>
+							</span>
 							
 							<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#define-sustain"> 
 								<small class="glyphicon glyphicon-info-sign"></small>
