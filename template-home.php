@@ -30,7 +30,7 @@ Template Name: - Home Page
     </div><!-- /.col -->
     
     <div class="col-sm-4">
-      <div class="panel panel-primary panel-callout">
+      <div class="panel panel-success panel-callout">
         <p class="lead text-success">
           You can make a difference!
         </p>
@@ -42,7 +42,7 @@ Template Name: - Home Page
           </b>
         </p>
         <p>  
-          The Foundation supports the work of the library whose mission is to provide high quality education for all—opportunities to read, to learn and to discover the world. 
+          The Foundation supports the work of the library whose mission is to provide high quality education for all &ndash; opportunities to read, to learn and to discover the world. 
         </p>
 
         <p class="text-right">
