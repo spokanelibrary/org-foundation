@@ -40,8 +40,11 @@ Template Name: Payment Info
 
 	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
 	<input type="hidden" name="no_note" value="1">
-
-	<Input type="hidden" name="item_number" id="donate-number" value="">
+	<!--
+	<input type="hidden" name="return" value="">
+	<input type="hidden" name="cancel_return" value="">
+	-->
+	<input type="hidden" name="item_number" id="donate-number" value="">
 	
 	
 	<input type="hidden" name="a3" value="" id="a3">

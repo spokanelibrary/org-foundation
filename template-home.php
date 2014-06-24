@@ -11,7 +11,7 @@ Template Name: - Home Page
 <!--<img class="img-responsive" src="http://lorempixel.com/1200/300/people" > -->
 </p>
 
-<?php get_template_part('templates/page', 'header'); ?>
+<?php //get_template_part('templates/page', 'header'); ?>
 <?php get_template_part('templates/content', 'page'); ?>
 
 
@@ -25,9 +25,9 @@ Template Name: - Home Page
         </p>
 
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Cras nec rutrum nisi. 
-          Vivamus eget suscipit purus, ut accumsan augue.
+          The Spokane Public Library Foundation exists because of the generosity of many who have committed their time, gifts and financial resources to continue to strive for excellence in our library. 
+          The Foundation supports the strategic direction of the library and helps to build and encourage partnerships that strengthen our community. 
+          As the Foundation grows, it continues to be a resource to innovate and expand library’s services.
         </p>
 
         <p class="text-right">
