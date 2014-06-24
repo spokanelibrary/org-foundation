@@ -44,11 +44,10 @@ Template Name: - Home Page
     <div class="col-sm-4">
       <div class="panel panel-success panel-callout">
         <p class="lead text-success">
-          Make a Difference
+          You can make a difference!
         </p>
 
         <p>
-          You can make a difference! 
           How?  
           By donating to the Spokane Public Library Foundation.
         </p>
