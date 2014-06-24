@@ -156,7 +156,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend class="text-success">
-							Our Focus
+							2. Our Focus
 						</legend>
 						<span class="help-block">
 							Let us know how you would like us to direct your gift.
@@ -221,7 +221,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend class="text-success">
-							Give Now
+							3. Give Now
 						</legend>
 						<span class="help-block">
 							We will email you a tax receipt.
