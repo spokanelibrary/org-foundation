@@ -31,11 +31,11 @@ Template Name: - Home Page
     
     <div class="col-sm-4">
       <div class="panel panel-primary panel-callout">
-        <p class="lead text-success">
+        <h3 class="text-success">
           You can make a difference!
-        </p>
+        </h3>
 
-        <p>
+        <p class="lead">
           How?  
           By donating to the Spokane Public Library Foundation.
         </p>
