@@ -62,7 +62,7 @@ Template Name: Payment Info
 				<div class="col-md-4">
 					<fieldset>
 						<legend class="text-success">
-							Your Gift
+							1. Your Gift
 						</legend>
 						<span class="help-block">
 							Choose an amount that's right for you.
