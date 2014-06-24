@@ -11,27 +11,6 @@ Template Name: Payment Info
 		<?php get_template_part('templates/content', 'page'); ?>
 	</div>
 
-	<div class="col-md-4">
-		<div class="alert alert-warning">
-			<p>
-			<small class="glyphicon glyphicon-info-sign"></small>
-			Your gift is tax-deductible
-			</p>
-			<p>
-				<small>
-					The Spokane Public Library Foundation is a <em class="serif">501(c)(3)</em> charitable organization registered with the IRS and Washington State.
-					<a href="/financial-info">Learn more &rarr;</a>
-				</small>
-			</p>
-
-			<p>
-				<small>
-					All gifts are tax-deductible to the extent allowed by law.
-				</small>
-			</p>
-		</div>
-	</div>
-
 </div>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="donate-form">
@@ -295,3 +274,22 @@ Template Name: Payment Info
 		</div><!-- /.panel-body -->
 	</div><!-- /.panel -->
 </form>
+
+<div class="alert alert-warning">
+			<p>
+			<small class="glyphicon glyphicon-info-sign"></small>
+			Your gift is tax-deductible
+			</p>
+			<p>
+				<small>
+					The Spokane Public Library Foundation is a <em class="serif">501(c)(3)</em> charitable organization registered with the IRS and Washington State.
+					<a href="/financial-info">Learn more &rarr;</a>
+				</small>
+			</p>
+
+			<p>
+				<small>
+					All gifts are tax-deductible to the extent allowed by law.
+				</small>
+			</p>
+		</div>
