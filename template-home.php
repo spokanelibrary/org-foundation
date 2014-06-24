@@ -42,9 +42,13 @@ Template Name: - Home Page
           </a>
         </p>
 
+        <div class="panel panel-default">
+        <div class="panel-body">
         <p class="help-block">  
           The Foundation supports the work of the library, whose mission is to provide high quality education for all &ndash; opportunities to read, to learn and to discover the world. 
         </p>
+          </div>
+        </div>
       <!-- </div> -->
       
     </div><!-- /.col -->
