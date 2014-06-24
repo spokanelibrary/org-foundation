@@ -18,13 +18,7 @@ Template Name: - Home Page
       <!-- <div class="panel panel-success panel-callout"> -->
         <?php //get_template_part('templates/page', 'header'); ?>
         <?php get_template_part('templates/content', 'page'); ?>
-        
 
-        <p class="text-right">
-          <a class="btn btn-primary" href="/mission-vision">
-            <i class="glyphicon glyphicon-book"></i> Learn More &rarr;
-          </a>
-        </p>
       <!-- </div> -->
       
     </div><!-- /.col -->
