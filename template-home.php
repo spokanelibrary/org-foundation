@@ -30,7 +30,7 @@ Template Name: - Home Page
     </div><!-- /.col -->
     
     <div class="col-sm-4">
-      <div class="panel panel-default panel-callout">
+      <!-- <div class="panel panel-success panel-callout"> -->
         <p class="lead text-success">
           You can make a difference!
         </p>
@@ -50,7 +50,7 @@ Template Name: - Home Page
             <i class="glyphicon glyphicon-gift"></i> Donate Now &rarr;
           </a>
         </p>
-      </div>
+      <!-- </div> -->
       
     </div><!-- /.col -->
 
