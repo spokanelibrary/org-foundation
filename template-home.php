@@ -18,7 +18,7 @@ Template Name: - Home Page
 <footer class="content-info container" role="contentinfo">
   <div class="row">
 
-    <div class="col-sm-6">
+    <div class="col-sm-8">
       <div class="panel panel-success panel-callout">
         <p class="lead text-success">
           About the Foundation
@@ -27,6 +27,8 @@ Template Name: - Home Page
         <p>
           The Spokane Public Library Foundation exists because of the generosity of many who have committed their time, gifts and financial resources to continue to strive for excellence in our library. 
           The Foundation supports the strategic direction of the library and helps to build and encourage partnerships that strengthen our community. 
+        </p>
+        <p>
           As the Foundation grows, it continues to be a resource to innovate and expand library’s services.
         </p>
 
@@ -39,16 +41,19 @@ Template Name: - Home Page
       
     </div><!-- /.col -->
     
-    <div class="col-sm-6">
+    <div class="col-sm-4">
       <div class="panel panel-success panel-callout">
         <p class="lead text-success">
-          Make a difference
+          Make a Difference
         </p>
 
         <p>
-          Nunc eu consectetur odio, sit amet aliquet dolor. 
-          Vestibulum dictum eros neque, non posuere lacus iaculis at.
-          Etiam fringilla odio nec tempor molestie.
+          You can make a difference! 
+          How?  
+          By donating to the Spokane Public Library Foundation.
+        </p>
+        <p>  
+          The Foundation supports the work of the library whose mission is to provide high quality education for all—opportunities to read, to learn and to discover the world. 
         </p>
 
         <p class="text-right">
