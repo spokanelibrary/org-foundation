@@ -29,7 +29,7 @@ Template Name: - Home Page
           You can make a difference!
         </p>
 
-        <p class="help-block">
+        <p class="text-success">
           <b>
           How?  
           By donating to the Spokane Public Library Foundation.
