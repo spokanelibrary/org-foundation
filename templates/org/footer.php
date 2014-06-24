@@ -9,11 +9,11 @@
     <div class="row">
       <div class="col-md-4">
         <p>
-          <span class="text-muted serif">
+          <span class="help-block serif">
             <?php bloginfo('name'); ?>
           </span>
         </p>
-        <address class="text-muted serif">
+        <address class="help-block serif">
           <small>
           906 West Main Avenue
           <br>
