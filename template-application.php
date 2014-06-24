@@ -7,7 +7,7 @@ Template Name: Payment Info
 <?php get_template_part('templates/page', 'header'); ?>
 <?php get_template_part('templates/content', 'page'); ?>
 
-
+<!--
 <div class="alert alert-warning">
 	<p>
 		Your gift is tax-deductible
@@ -24,6 +24,7 @@ Template Name: Payment Info
 		</small>
 	</p>
 </div>
+-->
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" id="donate-form">
 
@@ -154,8 +155,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>
-							<small class="glyphicon glyphicon-leaf text-muted"></small>
+						<legend class="text-success">
 							Our Focus
 						</legend>
 						<span class="help-block">
@@ -220,8 +220,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>
-							<small class="glyphicon glyphicon-leaf text-muted"></small> 
+						<legend class="text-success">
 							Give Now
 						</legend>
 						<span class="help-block">
