@@ -10,13 +10,11 @@ Template Name: Payment Info
 
 <div class="alert alert-warning">
 	<p>
-	<small class="glyphicon glyphicon-info-sign"></small>
-	Your gift is tax-deductible
+		Your gift is tax-deductible
 	</p>
 	<p>
 		<small>
 			The Spokane Public Library Foundation is a <em class="serif">501(c)(3)</em> charitable organization registered with the IRS and Washington State.
-			<a href="/financial-info">Learn more &rarr;</a>
 		</small>
 	</p>
 
@@ -62,8 +60,7 @@ Template Name: Payment Info
 
 				<div class="col-md-4">
 					<fieldset>
-						<legend>
-							<small class="glyphicon glyphicon-leaf text-muted"></small> 
+						<legend class="text-success">
 							Your Gift
 						</legend>
 						<span class="help-block">
