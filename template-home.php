@@ -19,10 +19,8 @@ Template Name: - Home Page
   <div class="row">
 
     <div class="col-sm-8">
-      <div class="panel panel-success panel-callout">
-        <p class="lead text-success">
-          About the Foundation
-        </p>
+      <!-- <div class="panel panel-success panel-callout"> -->
+        <?php get_template_part('templates/page', 'header'); ?>
 
         <p class='lead'>
           The Spokane Public Library Foundation exists because of the generosity of many who have committed their time, gifts and financial resources to continue to strive for excellence in our library. 
@@ -39,7 +37,7 @@ Template Name: - Home Page
             <i class="glyphicon glyphicon-book"></i> Learn More &rarr;
           </a>
         </p>
-      </div>
+      <!-- </div> -->
       
     </div><!-- /.col -->
     
