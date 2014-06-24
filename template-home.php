@@ -16,7 +16,7 @@ Template Name: - Home Page
 
     <div class="col-sm-8">
       <!-- <div class="panel panel-success panel-callout"> -->
-        <?php get_template_part('templates/page', 'header'); ?>
+        <?php //get_template_part('templates/page', 'header'); ?>
         <?php get_template_part('templates/content', 'page'); ?>
         
 
