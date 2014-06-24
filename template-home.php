@@ -25,7 +25,7 @@ Template Name: - Home Page
     
     <div class="col-sm-4">
       <!-- <div class="panel panel-success panel-callout"> -->
-        <p class="lead">
+        <p class="lead help-block">
           You can make a difference!
         </p>
 
