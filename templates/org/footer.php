@@ -30,13 +30,13 @@
           <a href="mailto:foundation@spokanelibrary.org">foundation@spokanelibrary.org</a>
         </p>
         <p class="text-center">
-          <a class="text-muted" href="/financial-information"><small>FEIN: 91-1917727</small></a>
+          <a class="help-block" href="/financial-information"><small>FEIN: 91-1917727</small></a>
         </p>
       </div><!-- /.col -->
 
       <div class="col-md-4">
         <p class="text-right">
-          <span class="text-muted serif" >
+          <span class="help-block serif" >
           <?php bloginfo('description'); ?>
          </span>
         </p>
