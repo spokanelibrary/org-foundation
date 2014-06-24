@@ -31,13 +31,15 @@ Template Name: - Home Page
     
     <div class="col-sm-4">
       <div class="panel panel-primary panel-callout">
-        <h3 class="text-success">
+        <p class="lead text-success">
           You can make a difference!
-        </h3>
+        </p>
 
-        <p class="lead">
+        <p>
+          <b>
           How?  
           By donating to the Spokane Public Library Foundation.
+          </b>
         </p>
         <p>  
           The Foundation supports the work of the library whose mission is to provide high quality education for all—opportunities to read, to learn and to discover the world. 
