@@ -31,7 +31,7 @@ Template Name: - Home Page
     
     <div class="col-sm-4">
       <div class="panel panel-success panel-callout">
-        <p class="lead text-primary">
+        <p class="lead text-success">
           You can make a difference!
         </p>
 
