@@ -35,14 +35,15 @@ Template Name: - Home Page
           By donating to the Spokane Public Library Foundation.
           </b>
         </p>
-        <p class="help-block">  
-          The Foundation supports the work of the library, whose mission is to provide high quality education for all &ndash; opportunities to read, to learn and to discover the world. 
-        </p>
-
+        
         <p class="text-right">
           <a class="btn btn-block btn-success" href="/donate">
             <i class="glyphicon glyphicon-gift"></i> Please donate now &rarr;
           </a>
+        </p>
+
+        <p class="help-block">  
+          The Foundation supports the work of the library, whose mission is to provide high quality education for all &ndash; opportunities to read, to learn and to discover the world. 
         </p>
       <!-- </div> -->
       
