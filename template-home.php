@@ -46,7 +46,7 @@ Template Name: - Home Page
         </p>
 
         <p class="text-right">
-          <a class="btn btn-success" href="/donate">
+          <a class="btn btn-block btn-success" href="/donate">
             <i class="glyphicon glyphicon-gift"></i> Donate Now &rarr;
           </a>
         </p>
