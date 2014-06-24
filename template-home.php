@@ -11,7 +11,7 @@ Template Name: - Home Page
 <!--<img class="img-responsive" src="http://lorempixel.com/1200/300/people" > -->
 </p>
 
-<footer class="content-info container" role="contentinfo">
+
   <div class="row">
 
     <div class="col-sm-8">
@@ -53,4 +53,4 @@ Template Name: - Home Page
     </div><!-- /.col -->
 
   </div><!-- /.row -->
-</footer>
+
