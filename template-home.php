@@ -30,7 +30,7 @@ Template Name: - Home Page
     </div><!-- /.col -->
     
     <div class="col-sm-4">
-      <div class="panel panel-success panel-callout">
+      <div class="panel panel-primary panel-callout">
         <p class="lead text-success">
           You can make a difference!
         </p>
