@@ -19,20 +19,20 @@
   <div class="col-sm-8">
 
   	<label for="spl-form-street" class="control-label normal">Street (or P.O. Box, etc.)</label>
-  	<textarea rows="3" class="form-control" id="spl-form-street" name="spl-form[street]"></textarea>
+  	<textarea rows="3" class="form-control required" id="spl-form-street" name="spl-form[street]"></textarea>
   	
   	<div class="row">
   		<div class="col-md-6">
   			<label for="spl-form-city-st" class="control-label normal">City</label>
-  			<input type="text" class="form-control" id="spl-form-city" name="spl-form[city-st]" placeholder="">
+  			<input type="text" class="form-control required" id="spl-form-city" name="spl-form[city-st]" placeholder="">
 	  	</div>
 	  	<div class="col-md-2">
   			<label for="spl-form-st" class="control-label normal">ST</label>
-	  		<input type="text" class="form-control" id="spl-form-st" name="spl-form[st]" placeholder="">
+	  		<input type="text" class="form-control required" id="spl-form-st" name="spl-form[st]" placeholder="">
   		</div>
 	  	<div class="col-md-4">
   			<label for="spl-form-zip" class="control-label normal">Zip code</label>
-	  		<input type="text" class="form-control" id="spl-form-zip" name="spl-form[zip]" placeholder="">
+	  		<input type="text" class="form-control required" id="spl-form-zip" name="spl-form[zip]" placeholder="">
   		</div>
 	  </div>
   </div>

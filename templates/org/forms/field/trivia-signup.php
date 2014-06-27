@@ -24,6 +24,13 @@
               Register your team &ndash; $750
             </legend>
             
+            <div class="form-group">
+              <label for="spl-form-business" class="col-sm-4 control-label">Business Name</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control required" id="spl-form-business" name="spl-form[business]" placeholder="">
+              </div>
+            </div>
+
             <?php include 'common/field-contact.php'; ?>
 
             <div class="form-group">
@@ -35,7 +42,7 @@
                   Enter the names of your 3 team members. 
                 </label>
                 <p>
-                  You can change this later.
+                  You can change your team members prior to the event.
                 </p>
                 <!-- <label for="spl-form-team-a" class="control-label normal">Team Member Name</label> -->
                 <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
@@ -47,7 +54,7 @@
             </div>
 
             <div class="form-group">
-              <label for="spl-form-question" class="col-sm-4 control-label">Comments or questions</label>
+              <label for="spl-form-question" class="col-sm-4 control-label">Comments or Questions</label>
               <div class="col-sm-8">
                 <textarea rows="6" class="form-control required" id="spl-form-question" name="spl-form[question]"></textarea>
               </div>
