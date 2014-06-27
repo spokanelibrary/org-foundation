@@ -27,7 +27,7 @@ Template Name: - Home Page
       <!-- <div class="panel panel-success panel-callout"> -->
         
         <div style="text-align:center;">
-          <a href="/trivia-championship"><img style="width:108px; height:108px;" src="/assets/img/png/SpokaneTrivia.png"></a>
+          <a href="/trivia-championship"><img src="/assets/img/png/SpokaneTrivia.png"></a>
         </div>
         <p class="text-primary">
           Join us Thursday, October 2nd for the first annual Spokane Trivia Championship.
