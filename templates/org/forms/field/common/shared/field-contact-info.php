@@ -1,4 +1,19 @@
 <div class="form-group">
+  <label for="spl-form-email" class="col-sm-4 control-label">Email Address</label>
+  <div class="col-sm-8">
+    <input type="text" class="form-control required" id="spl-form-email" name="spl-form[email]" placeholder="">
+  </div>
+</div>
+
+<div class="form-group">
+  <label for="spl-form-phone" class="col-sm-4 control-label">Phone Number</label>
+  <div class="col-sm-8">
+    <input type="text" class="form-control required" id="spl-form-phone" name="spl-form[phone]" placeholder="">
+  </div>
+</div>
+
+
+<div class="form-group">
   
   <label class="col-sm-4 control-label">Contact information</label>
   <div class="col-sm-8">
