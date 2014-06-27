@@ -28,13 +28,13 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Team Members <span class="normal">(Optional)</span></label>
+              <label class="col-sm-4 control-label">Team Members</span></label>
               <div class="col-sm-8">
-                <!-- <label for="spl-form-team-a" class="control-label normal"></label>-->
+                <label for="spl-form-team-a" class="control-label normal">Team Member Name</label>
                 <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
-                <!-- <label for="spl-form-team-b" class="control-label normal"></label>-->
+                <label for="spl-form-team-b" class="control-label normal">Team Member Name</label>
                 <input type="text" class="form-control" id="spl-form-team-b" name="spl-form[team][b]" placeholder="">
-                <!-- <label for="spl-form-team-c" class="control-label normal"></label>-->
+                <label for="spl-form-team-c" class="control-label normal">Team Member Name</label>
                 <input type="text" class="form-control" id="spl-form-team-c" name="spl-form[team][c]" placeholder="">
               </div>
             </div>
