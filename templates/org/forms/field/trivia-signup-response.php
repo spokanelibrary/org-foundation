@@ -63,7 +63,7 @@
       <dt>Comments or Questions</dt>
       <dd>
         <p>
-          <?php echo $crass->request['question']; ?>
+          <?php echo nl2br($crass->request['question']); ?>
         </p>
       </dd>
       <?php endif; ?>
