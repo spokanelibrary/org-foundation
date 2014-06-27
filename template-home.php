@@ -25,6 +25,9 @@ Template Name: - Home Page
     
     <div class="col-sm-4">
       <!-- <div class="panel panel-success panel-callout"> -->
+        
+        <a href="/trivia-championship"><img src="/assets/img/png/SpokaneTrivia.png"></a>
+
         <p class="lead help-block">
           You can make a difference!
         </p>
