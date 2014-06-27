@@ -1,6 +1,6 @@
 <div class="row">
 
-  <div class="col-md-8">
+  <div class="col-md-12">
     
     <div class="panel panel-primary">
       <div class="panel-body">
@@ -47,39 +47,6 @@
 
           </fieldset>
         </form>
-      </div><!-- /.panel-body -->
-    </div><!-- /.panel -->
-
-  </div><!-- /.row -->
-
-  <div class="col-md-4">
-    <div class="panel panel-primary">
-      <div class="panel-heading">
-        <h4>
-          <i class="glyphicon glyphicon-phone-alt"></i>
-          Phone it in
-        </h4>
-      </div><!-- /.panel-heading -->
-      <div class="panel-body">
-        <p>     
-          You can also reach us on the <em>Telephone Reference Line:</em> <strong>509.444.5336</strong> during Downtown Library hours.
-        </p>    
-      </div><!-- /.panel-body -->
-    </div><!-- /.panel -->
-
-    <div class="panel panel-warning">
-      <div class="panel-heading">
-        <h4>
-          From out of town?
-        </h4>
-      </div><!-- /.panel-heading -->
-      <div class="panel-body">
-        <p>     
-          Spokane Public Library will gladly research <b>Spokane topics</b> for out-of-town customers. 
-        </p>
-        <p>
-          For general research questions, please contact your local library.
-        </p>    
       </div><!-- /.panel-body -->
     </div><!-- /.panel -->
 
