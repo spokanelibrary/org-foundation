@@ -30,7 +30,7 @@ Template Name: Payment Info
 
 	<input type="hidden" name="cmd" value="_donations" id="cmd">
 
-	<input type="hidden" name="business" value="sbain@spokanelibrary.org">
+	<input type="hidden" name="business" value="foundation@spokanelibrary.org">
 	<input type="hidden" name="no_note" value="1">
 	
 	<input type="hidden" name="return" value="http://www.spokanelibraryfoundation.org/thank-you/">
