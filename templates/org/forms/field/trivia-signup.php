@@ -17,11 +17,11 @@
     
     <div class="panel panel-default">
       <div class="panel-body">
-        <form class="form-horizontal spl-form" id="spl-form-ask" method="post" role="form">
+        <form class="form-horizontal spl-form" id="spl-form-trivia-signup" method="post" role="form">
           
           <?php include 'common/crass-response.php'; ?>
       
-          <input type="hidden" id="spl-form-id" name="spl-form[id]" value="ask" />
+          <input type="hidden" id="spl-form-id" name="spl-form[id]" value="trivia-signup" />
           
           <input type="hidden" 
                 id="spl-form-ip" 
@@ -42,8 +42,6 @@
               </div>
             </div>
             
-            <?php include 'common/field-contact-method.php'; ?>
-            <?php include 'common/field-login.php'; ?>
             <?php include 'common/field-contact.php'; ?>
             <?php include 'common/field-submit.php'; ?>
 
