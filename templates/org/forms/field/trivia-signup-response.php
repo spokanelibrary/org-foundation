@@ -4,10 +4,7 @@
   </div><!-- /.panel-heading -->
 
   <div class="panel-body">
-    <h4>We received your registration</h4>
-    <p>
-      You can expect to hear from us soon.
-    </p>
+    <h4>We received your registration and will contact you shortly.</h4>
     <dl class="dl-horizontal">
 
       <dt>Business Name</dt>
@@ -50,7 +47,7 @@
       </dd>
 
       <?php if( !empty($crass->request['team']) ) : ?>
-      <dt>Comments or Questions</dt>
+      <dt>Team Members</dt>
       <dd>
         <p>
           <?php echo $crass->request['team']['a']; ?>
