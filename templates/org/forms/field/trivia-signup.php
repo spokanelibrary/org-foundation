@@ -33,8 +33,10 @@
                 <label class="control-label normal">
                   <b>Optional:</b> 
                   Enter the names of your 3 team members. 
-                  You can change this later.
                 </label>
+                <p>
+                  You can change this later.
+                </p>
                 <label for="spl-form-team-a" class="control-label normal">Team Member Name</label>
                 <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
                 <label for="spl-form-team-b" class="control-label normal">Team Member Name</label>
