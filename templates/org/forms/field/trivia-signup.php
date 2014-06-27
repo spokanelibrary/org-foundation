@@ -31,7 +31,9 @@
               <label class="col-sm-4 control-label">Team Members</span></label>
               <div class="col-sm-8">
                 <label class="control-label normal">
-                  <b>Optional:</b> Fill out the names of your 3 team members.
+                  <b>Optional:</b> 
+                  Enter the names of your 3 team members. 
+                  You can change this later.
                 </label>
                 <label for="spl-form-team-a" class="control-label normal">Team Member Name</label>
                 <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
