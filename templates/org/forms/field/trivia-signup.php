@@ -25,7 +25,6 @@
             </legend>
             
             <?php include 'common/field-contact.php'; ?>
-            <?php include 'common/field-submit.php'; ?>
 
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Comments or questions</label>
@@ -33,6 +32,8 @@
                 <textarea rows="6" class="form-control required" id="spl-form-question" name="spl-form[question]"></textarea>
               </div>
             </div>
+
+            <?php include 'common/field-submit.php'; ?>
 
           </fieldset>
         </form>
