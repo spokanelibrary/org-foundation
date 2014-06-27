@@ -21,10 +21,23 @@
           <fieldset>
             <legend class="text-muted">
               <small class="glyphicon glyphicon-question-pencil"></small>
-              Register your team
+              Register your team &ndash; $750
             </legend>
             
             <?php include 'common/field-contact.php'; ?>
+
+            <div class="form-group">
+
+              <label class="col-sm-4 control-label">Team Members <span class="normal">(Optional)</span></label>
+              <div class="col-sm-8">
+                <!-- <label for="spl-form-team-a" class="control-label normal"></label>-->
+                <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
+                <!-- <label for="spl-form-team-b" class="control-label normal"></label>-->
+                <input type="text" class="form-control" id="spl-form-team-b" name="spl-form[team][b]" placeholder="">
+                <!-- <label for="spl-form-team-c" class="control-label normal"></label>-->
+                <input type="text" class="form-control" id="spl-form-team-c" name="spl-form[team][c]" placeholder="">
+              </div>
+            </div>
 
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Comments or questions</label>

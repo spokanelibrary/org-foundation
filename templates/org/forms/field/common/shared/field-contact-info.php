@@ -23,15 +23,15 @@
   	
   	<div class="row">
   		<div class="col-md-6">
-  			<label for="spl-form-city-st" class="control-label">City</label>
+  			<label for="spl-form-city-st" class="control-label normal">City</label>
   			<input type="text" class="form-control" id="spl-form-city" name="spl-form[city-st]" placeholder="">
 	  	</div>
 	  	<div class="col-md-2">
-  			<label for="spl-form-st" class="control-label">ST</label>
+  			<label for="spl-form-st" class="control-label normal">ST</label>
 	  		<input type="text" class="form-control" id="spl-form-st" name="spl-form[st]" placeholder="">
   		</div>
 	  	<div class="col-md-4">
-  			<label for="spl-form-zip" class="control-label">Zip code</label>
+  			<label for="spl-form-zip" class="control-label normal">Zip code</label>
 	  		<input type="text" class="form-control" id="spl-form-zip" name="spl-form[zip]" placeholder="">
   		</div>
 	  </div>
