@@ -26,11 +26,11 @@
   			<label for="spl-form-city-st" class="control-label normal">City</label>
   			<input type="text" class="form-control required" id="spl-form-city" name="spl-form[city]" placeholder="">
 	  	</div>
-	  	<div class="col-md-2">
+	  	<div class="col-md-3">
   			<label for="spl-form-st" class="control-label normal">ST</label>
 	  		<input type="text" class="form-control required" id="spl-form-st" name="spl-form[st]" placeholder="">
   		</div>
-	  	<div class="col-md-4">
+	  	<div class="col-md-3">
   			<label for="spl-form-zip" class="control-label normal">Zip code</label>
 	  		<input type="text" class="form-control required" id="spl-form-zip" name="spl-form[zip]" placeholder="">
   		</div>
