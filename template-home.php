@@ -31,7 +31,7 @@ Template Name: - Home Page
         </div>
         <p class="text-primary">
           Join us Thursday, October 2nd for the first annual Spokane Trivia Championship.
-          Come down to watch or form a team.
+          Come down to watch or signup and form a team.
         </p>
         <p>
           <a href="/trivia-championship" class="btn btn-block btn-primary">Learn More &rarr;</a>
