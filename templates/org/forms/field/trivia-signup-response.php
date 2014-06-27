@@ -38,7 +38,7 @@
       <dt>Mailing Address</dt>
       <dd>
         <p>
-          <?php echo $crass->request['street']; ?>
+          <?php echo nl2br($crass->request['street']); ?>
           <br>
           <?php echo $crass->request['city']; ?>, 
           <?php echo $crass->request['st']; ?>
