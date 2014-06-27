@@ -21,7 +21,7 @@
           <fieldset>
             <legend class="text-muted">
               <small class="glyphicon glyphicon-question-pencil"></small>
-              Register your team &ndash; $750
+              Register your team &ndash; $750 (we will invoice you)
             </legend>
             
             <div class="form-group">
