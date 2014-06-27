@@ -18,7 +18,7 @@
   <label class="col-sm-4 control-label">Mailing address</label>
   <div class="col-sm-8">
 
-  	<label for="spl-form-street" class="control-label">Street (or P.O. Box)</label>
+  	<label for="spl-form-street" class="control-label normal">Street (or P.O. Box, etc.)</label>
   	<textarea rows="3" class="form-control" id="spl-form-street" name="spl-form[street]"></textarea>
   	
   	<div class="row">
