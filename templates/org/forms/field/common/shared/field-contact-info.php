@@ -24,7 +24,7 @@
   	<div class="row">
   		<div class="col-md-6">
   			<label for="spl-form-city-st" class="control-label normal">City</label>
-  			<input type="text" class="form-control required" id="spl-form-city" name="spl-form[city-st]" placeholder="">
+  			<input type="text" class="form-control required" id="spl-form-city" name="spl-form[city]" placeholder="">
 	  	</div>
 	  	<div class="col-md-2">
   			<label for="spl-form-st" class="control-label normal">ST</label>

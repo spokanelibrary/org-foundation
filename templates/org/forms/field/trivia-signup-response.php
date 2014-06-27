@@ -4,38 +4,66 @@
   </div><!-- /.panel-heading -->
 
   <div class="panel-body">
-    <h4>We received your request:</h4>
+    <h4>We received your registration</h4>
+    <p>
+      You can expect to hear from us soon.
+    </p>
     <dl class="dl-horizontal">
 
-      <?php if( !empty($crass->request['name']) ) : ?>
-      <dt>Your Name</dt>
+      <dt>Business Name</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['business']; ?>
+        </p>
+      </dd>
+
+      <dt>Contact Person</dt>
       <dd>
         <p>
           <?php echo $crass->request['name']; ?>
         </p>
       </dd>
-      <?php endif; ?>
-
-      <?php if( !empty($crass->request['barcode']) ) : ?>
-      <dt>Your Library Card</dt>
-      <dd>
-        <p>
-          <?php echo $crass->request['barcode']; ?>
-        </p>
-      </dd>
-      <?php endif; ?>
-
-      <?php if( !empty($crass->request['email']) ) : ?>
-      <dt>Your Email</dt>
+      
+      <dt>Email Address</dt>
       <dd>
         <p>
           <?php echo $crass->request['email']; ?>
         </p>
       </dd>
+
+      <dt>Phone Number</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['phone']; ?>
+        </p>
+      </dd>
+
+      <dt>Mailing Address</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['street']; ?>
+          <br>
+          <?php echo $crass->request['city']; ?>, 
+          <?php echo $crass->request['st']; ?>
+          <?php echo $crass->request['zip']; ?>
+        </p>
+      </dd>
+
+      <?php if( !empty($crass->request['team']) ) : ?>
+      <dt>Comments or Questions</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['team']['a']; ?>
+          <br>
+          <?php echo $crass->request['team']['b']; ?>
+          <br>
+          <?php echo $crass->request['team']['c']; ?>
+        </p>
+      </dd>
       <?php endif; ?>
 
       <?php if( !empty($crass->request['question']) ) : ?>
-      <dt>Your Question</dt>
+      <dt>Comments or Questions</dt>
       <dd>
         <p>
           <?php echo $crass->request['question']; ?>
