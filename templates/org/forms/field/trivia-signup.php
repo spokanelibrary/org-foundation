@@ -56,7 +56,7 @@
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Comments or Questions</label>
               <div class="col-sm-8">
-                <textarea rows="6" class="form-control required" id="spl-form-question" name="spl-form[question]"></textarea>
+                <textarea rows="6" class="form-control" id="spl-form-question" name="spl-form[question]"></textarea>
               </div>
             </div>
 
