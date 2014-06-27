@@ -26,7 +26,7 @@ Template Name: - Home Page
     <div class="col-sm-4">
       <!-- <div class="panel panel-success panel-callout"> -->
         
-        <div style="text-align:center;">
+        <div style="text-align:center; width 108px; height:108px;">
           <a href="/trivia-championship"><img src="/assets/img/png/SpokaneTrivia.png"></a>
         </div>
         <p class="text-primary">
