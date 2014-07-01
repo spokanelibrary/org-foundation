@@ -7,7 +7,7 @@ Template Name: - Home Page
 <?php //get_template_part('templates/page', 'header'); ?>
 
 <p>
-  <img class="img-responsive img-rounded" src="/assets/img/jpg/promo-foundation.jpg" >
+  <img class="img-responsive img-rounded" src="/assets/img/jpg/SPLF-montage.jpg" >
 <!--<img class="img-responsive" src="http://lorempixel.com/1200/300/people" > -->
 </p>
 
