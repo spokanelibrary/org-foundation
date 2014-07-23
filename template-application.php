@@ -69,13 +69,8 @@ Template Name: Payment Info
 						</span>
 					
 						<label class="radio-inline">
-							<input type="radio" name="amount" value="10">
-							$10.00
-						</label>
-						<br>
-						<label class="radio-inline">
-							<input type="radio" name="amount" value="25">
-							$25.00
+							<input type="radio" name="amount" value="35">
+							$35.00
 						</label>
 						<br>
 						<label class="radio-inline">
@@ -87,9 +82,14 @@ Template Name: Payment Info
 							<input type="radio" name="amount" value="100">
 							$100.00
 						</label>
+						<label class="radio-inline">
+							<input type="radio" name="amount" value="250">
+							$250.00
+						</label>
+						<br>
 						<br>
 						<label class="radio-inline">
-							<input type="radio" name="amount" value="500" data-toggle="collapse" data-target="#donate-amount">
+							<input type="radio" name="amount" value="500">
 							$500.00
 						</label>
 						<br>
@@ -163,30 +163,14 @@ Template Name: Payment Info
 						</span>
 					
 						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Put my gift to good use" checked>
-							Put my gift to good use
+							<input type="radio" name="item_name" value="The greatest needs of the library foundation" checked>
+							The greatest needs of the library foundation
 						</label>
 						<br>
 						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Books and Library resources">
-							Books and Library resources
+							<input type="radio" name="item_name" value="Education and programming">
+							Education and programming
 						</label>
-						<br>
-						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Digital or downloadable material">
-							Digital or downloadable material
-						</label>
-						<br>
-						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Programs for children and teens">
-							Programs for children and teens
-						</label>
-						<br>
-						<label class="radio-inline">
-							<input type="radio" name="item_name" value="Programs for all Library users">
-							Programs for all Library users
-						</label>
-						
 						<br>
 						<label class="radio-inline">
 							<input type="radio" name="item_name" value="A gift in memory of...">
@@ -203,7 +187,7 @@ Template Name: Payment Info
 						</label>
 						<br>
 						<input name="" id="donate-memory" type="text" value="" class="form-control" title="In memory of">
-						
+						<!--
 						<label class="radio-inline">
 							<input type="radio" name="item_name" value="For a specific purpose...">
 							<small class="glyphicon glyphicon-edit"></small>
@@ -215,6 +199,7 @@ Template Name: Payment Info
 							<br>
 							<em>Thank you!</em>
 						</small>
+						-->
 					</fieldset>
 				</div>
 
