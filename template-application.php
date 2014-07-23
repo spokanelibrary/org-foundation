@@ -82,11 +82,11 @@ Template Name: Payment Info
 							<input type="radio" name="amount" value="100">
 							$100.00
 						</label>
+						<br>
 						<label class="radio-inline">
 							<input type="radio" name="amount" value="250">
 							$250.00
 						</label>
-						<br>
 						<br>
 						<label class="radio-inline">
 							<input type="radio" name="amount" value="500">
