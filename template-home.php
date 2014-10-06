@@ -26,22 +26,6 @@ Template Name: - Home Page
     <div class="col-sm-4">
       <!-- <div class="panel panel-success panel-callout"> -->
         
-        <div style="text-align:center;">
-          <a href="/trivia-championship"><img src="/assets/img/png/SpokaneTrivia.png"></a>
-        </div>
-        <p class="text-primary">
-          Join us Thursday, October 2nd for the first annual Spokane Trivia Championship.
-          Come down to watch or signup and form a team.
-        </p>
-        <p>
-          <a href="http://ticketswest.com/events/spokane-trivia-championship/35739/" class="btn btn-block btn-primary">Buy Tickets &rarr;</a>
-        </p>
-        <p>
-          <a href="/trivia-championship" class="btn btn-block btn-primary">Learn More &rarr;</a>
-        </p>
-        
-        <hr>
-
         <p class="lead help-block">
           You can make a difference!
         </p>
