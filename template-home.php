@@ -44,7 +44,7 @@ Template Name: - Home Page
         </p>
 
         <p class="">
-          <a class="btn btn-block btn-success" href="http://eepurl.com/-BEZP">
+          <a class="btn btn-block btn-primary" href="http://eepurl.com/-BEZP">
             <i class="glyphicon glyphicon-envelope"></i> Get our newsletter &rarr;
           </a>
         </p>
