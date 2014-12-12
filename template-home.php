@@ -37,9 +37,15 @@ Template Name: - Home Page
           </b>
         </p>
         
-        <p class="text-right">
+        <p class="">
           <a class="btn btn-block btn-success" href="/donate">
             <i class="glyphicon glyphicon-gift"></i> Please donate today &rarr;
+          </a>
+        </p>
+
+        <p class="">
+          <a class="btn btn-block btn-success" href="http://eepurl.com/-BEZP">
+            <i class="glyphicon glyphicon-envelope"></i> Get our newsletter &rarr;
           </a>
         </p>
 
