@@ -180,7 +180,9 @@
               </div>
             </div>
 
-            <div class="col-md-8 col-md-offset-4">
+            <hr>
+
+            <div class="form-group">
               <p>
                 <b>Reminder:</b> Nominations must be receieved by Febrary 16, 2015.
               </p>
