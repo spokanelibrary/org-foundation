@@ -159,7 +159,11 @@
                 <h4>
                   Please let us know how to reach you:
                 </h4>
-              </div>                
+              </div>  
+              <legend class="text-muted">
+              <small class="glyphicon glyphicon-pencil"></small>
+              Nomination form
+            </legend>              
 
               <label for="spl-form-name" class="col-sm-4 control-label">Your Name</label>
               <div class="col-sm-8">
