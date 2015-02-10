@@ -42,17 +42,22 @@
                 <label class="checkbox-inline">
                   <input type="checkbox" 
                           id="spl-form-category-a" 
-                          name="spl-form[category][a]"> Arts &amp; Letters
+                          name="spl-form[category][a]"
+                          value="Arts and Letters"> Arts &amp; Letters
                 </label>
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-a" 
-                          name="spl-form[category][a]"> Arts &amp; Letters
-                </label>
+
                 <label class="checkbox-inline">
                   <input type="checkbox" 
                           id="spl-form-category-b" 
-                          name="spl-form[category][b]"> Economic Development and Business
+                          name="spl-form[category][b]"
+                          value="Economic Development and Business"> Economic Development &amp; Business
+                </label>
+
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
+                          id="spl-form-category-c" 
+                          name="spl-form[category][c]"
+                          value="Education"> Education
                 </label>
                 
               </div>
