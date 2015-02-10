@@ -38,7 +38,7 @@
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
                 </p>
-
+                &nbsp;
                 <label class="checkbox-inline">
                   <input type="checkbox" 
                           id="spl-form-category-a" 
@@ -58,6 +58,13 @@
                           id="spl-form-category-c" 
                           name="spl-form[category][c]"
                           value="Education"> Education
+                </label>
+
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
+                          id="spl-form-category-d" 
+                          name="spl-form[category][d]"
+                          value="Innovation and Leadership"> Innovation &amp; Leadership
                 </label>
                 
               </div>
