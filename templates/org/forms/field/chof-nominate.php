@@ -33,10 +33,12 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Achievements in</label>
+              <label class="col-sm-4 control-label">For Achievements In</label>
               <div class="col-sm-8">
                 <p>
+                  <b>
                   Which categories best fit the candidate you are nominating (select all that apply):
+                  </b>
                 </p>
                 &nbsp;
                 <label class="checkbox-inline">
@@ -86,7 +88,7 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Nominee is</label>
+              <label class="col-sm-4 control-label">Nominee Is</label>
               <div class="col-sm-8">
 
                 <label class="radio-inline">
@@ -110,7 +112,9 @@
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
                 <p>
+                  <b>
                   In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
+                  </b>
                 </p>
                 <ul>
                   <li>
