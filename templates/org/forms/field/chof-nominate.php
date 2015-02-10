@@ -38,12 +38,8 @@
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
                 </p>
-                <!-- <label for="spl-form-team-a" class="control-label normal">Team Member Name</label> -->
-                <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
-                <!-- <label for="spl-form-team-b" class="control-label normal">Team Member Name</label> -->
-                <input type="text" class="form-control" id="spl-form-team-b" name="spl-form[team][b]" placeholder="">
-                <!-- <label for="spl-form-team-c" class="control-label normal">Team Member Name</label> -->
-                <input type="text" class="form-control" id="spl-form-team-c" name="spl-form[team][c]" placeholder="">
+                <label for="spl-form-category-a" class="control-label normal">Arts &amp; Letters</label>
+                <input type="checkbox" class="form-control" id="spl-form-category-a" name="spl-form[category][a]" placeholder="">
               </div>
             </div>
 
