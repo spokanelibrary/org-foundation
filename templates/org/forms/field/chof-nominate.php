@@ -38,18 +38,18 @@
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
                 </p>
-                <div class="checkbox">
-                  <label>
-                    <input type="checkbox" 
+
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
                           id="spl-form-category-a" 
                           name="spl-form[category][a]"> Arts &amp; Letters
-                  </label>
-                  <label>
-                    <input type="checkbox" 
+                </label>
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
                           id="spl-form-category-b" 
                           name="spl-form[category][b]"> Economic Development and Business
-                  </label>
-                </div>
+                </label>
+                
               </div>
             </div>
 
