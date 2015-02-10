@@ -126,6 +126,9 @@
               </div>
             </div>
 
+            <hr>
+            
+
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
