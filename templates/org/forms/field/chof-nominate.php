@@ -133,6 +133,28 @@
             <hr>
 
             <div class="form-group">
+              <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
+              <div class="col-sm-8">
+                <span class="help-block">
+                  <b>
+                  In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
+                  </b>
+                </span>
+                <ul>
+                  <li>
+                    Why does this individual deserve recognition?
+                  </li>
+                  <li>
+                    How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life?
+                  </li>
+                </ul>
+                <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
+              </div>
+            </div>
+
+            <hr>
+
+            <div class="form-group">
               
               <label for="spl-form-name" class="col-sm-4 control-label">Your Name</label>
               <div class="col-sm-8">
@@ -158,28 +180,6 @@
                     <input type="text" class="form-control required" id="spl-form-phone" name="spl-form[phone]" placeholder="">
                   </div>
                 </div>
-              </div>
-            </div>
-
-            <hr>
-
-            <div class="form-group">
-              <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
-              <div class="col-sm-8">
-                <span class="help-block">
-                  <b>
-                  In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
-                  </b>
-                </span>
-                <ul>
-                  <li>
-                    Why does this individual deserve recognition?
-                  </li>
-                  <li>
-                    How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life?
-                  </li>
-                </ul>
-                <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
               </div>
             </div>
 
