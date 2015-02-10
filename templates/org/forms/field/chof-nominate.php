@@ -100,7 +100,7 @@
                 <label class="radio-inline">
                   <input type="radio" 
                           id="spl-form-epoch-deceased" 
-                          name="spl-form[deceased]" 
+                          name="spl-form[epoch]" 
                           value="Deceased"> Deceased
                 </label>
 
@@ -146,7 +146,7 @@
                     How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life?
                   </li>
                 </ul>
-                <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
+                <textarea rows="10" class="form-control required" id="spl-form-story" name="spl-form[story]"></textarea>
               </div>
             </div>
 
@@ -169,12 +169,12 @@
                   <div class="col-md-6">
                     <b>Your email address</b>
                     <br>
-                    <input type="text" class="form-control required" id="spl-form-email" name="spl-form[email]" placeholder="">
+                    <input type="text" class="form-control" id="spl-form-email" name="spl-form[email]" placeholder="">
                   </div>
                   <div class="col-md-6">
                     <b>Your phone number</b>
                     <br>
-                    <input type="text" class="form-control required" id="spl-form-phone" name="spl-form[phone]" placeholder="">
+                    <input type="text" class="form-control" id="spl-form-phone" name="spl-form[phone]" placeholder="">
                   </div>
                 </div>
               </div>
@@ -187,7 +187,7 @@
 
             <div class="col-md-8 col-md-offset-4">
               <p>
-                <b>Reminder:</b> Nominations must be receieved by Febrary 16, 2015.
+                <b>Reminder:</b> Nominations must be receieved by 5:00 p.m. Febrary 16, 2015.
               </p>
               <p>
               Thank you for your interest in the Spokane Citizen Hall of Fame!
