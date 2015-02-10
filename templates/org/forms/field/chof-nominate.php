@@ -108,11 +108,11 @@
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
-                <p>
+                <span class="help-block">
                   <b>
                   In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
                   </b>
-                </p>
+                </span>
                 <ul>
                   <li>
                     Why does this individual deserve recognition?
