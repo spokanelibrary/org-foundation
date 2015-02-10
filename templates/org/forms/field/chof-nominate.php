@@ -21,7 +21,7 @@
           <fieldset>
             <legend class="text-muted">
               <small class="glyphicon glyphicon-pencil"></small>
-              Tell us about your nominee
+              Nomination form
             </legend>
             
             <div class="form-group">
