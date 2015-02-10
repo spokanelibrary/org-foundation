@@ -33,7 +33,7 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Category</span></label>
+              <label class="col-sm-4 control-label">Achievements</label>
               <div class="col-sm-8">
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
@@ -81,6 +81,28 @@
                           value="Science and Medicine"> Science and Medicine
                 </label>
                 
+              </div>
+            </div>
+
+            <div class="form-group">
+
+              <label class="col-sm-4 control-label">Nominee is</label>
+              <div class="col-sm-8">
+
+                <label class="radio-inline">
+                  <input type="radio" 
+                          id="spl-form-epoch-living" 
+                          name="spl-form[epoch]" 
+                          value="Living"> Living
+                </label>
+
+                <label class="radio-inline">
+                  <input type="radio" 
+                          id="spl-form-epoch-deceased" 
+                          name="spl-form[deceased]" 
+                          value="Deceased"> Deceased
+                </label>
+
               </div>
             </div>
 
