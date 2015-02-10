@@ -37,8 +37,10 @@
               <div class="col-sm-8">
                 <span class="help-block">
                   <b>
-                  Which categories best fit the candidate you are nominating (select all that apply):
+                    Which categories best fit the candidate you are nominating?
                   </b>
+                  <br> 
+                  (select all that apply)
                 </span>
                 <div class="well well-sm">
                   &nbsp;
