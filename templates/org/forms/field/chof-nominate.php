@@ -66,6 +66,20 @@
                           name="spl-form[category][d]"
                           value="Innovation and Leadership"> Innovation &amp; Leadership
                 </label>
+
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
+                          id="spl-form-category-e" 
+                          name="spl-form[category][e]"
+                          value="Public Service and Philanthropy"> Public Service &amp; Philanthropy
+                </label>
+
+                <label class="checkbox-inline">
+                  <input type="checkbox" 
+                          id="spl-form-category-f" 
+                          name="spl-form[category][f]"
+                          value="Science and Medicine"> Science and Medicine
+                </label>
                 
               </div>
             </div>
