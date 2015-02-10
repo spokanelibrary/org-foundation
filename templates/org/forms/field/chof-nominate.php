@@ -6,7 +6,7 @@
     
     <div class="panel panel-default">
       <div class="panel-body">
-        <form class="form-inline spl-form" id="spl-form-trivia-signup" method="post" role="form">
+        <form class="form-horizontal spl-form" id="spl-form-trivia-signup" method="post" role="form">
           
           <?php include 'common/crass-response.php'; ?>
       
@@ -25,8 +25,8 @@
             </legend>
             
             <div class="form-group">
-              <label for="spl-form-name" class="control-label">Nominee Name</label>
-              <div class="">
+              <label for="spl-form-name" class="col-sm-4 control-label">Nominee Name</label>
+              <div class="col-sm-8">
                 <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
               </div>
             </div>
@@ -41,6 +41,7 @@
                   </b>
                 </p>
                 <blockquote>
+
                   <label class="checkbox-inline">
                     <input type="checkbox" 
                             id="spl-form-category-a" 
