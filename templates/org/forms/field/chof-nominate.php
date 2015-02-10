@@ -130,8 +130,6 @@
               </div>
             </div>
 
-            <hr>
-
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
@@ -152,20 +150,12 @@
               </div>
             </div>
 
-            <hr>
-
             <legend class="text-muted">
-              <small class="glyphicon glyphicon-pencil"></small>
-              Nomination form
+              <small class="glyphicon glyphicon-user"></small>
+              Please let us know how to reach you:
             </legend>
-            
-            <div class="form-group">
-              <div class="col-md-12">
-                <h4>
-                  Please let us know how to reach you:
-                </h4>
-              </div>  
 
+            <div class="form-group">
 
               <label for="spl-form-name" class="col-sm-4 control-label">Your Name</label>
               <div class="col-sm-8">
@@ -189,8 +179,6 @@
                 </div>
               </div>
             </div>
-
-            <hr>
 
             <?php include 'common/field-submit.php'; ?>
 
