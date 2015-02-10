@@ -40,7 +40,7 @@
                   Which categories best fit the candidate you are nominating (select all that apply):
                   </b>
                 </p>
-                &nbsp;
+                <blockquote>
                 <label class="checkbox-inline">
                   <input type="checkbox" 
                           id="spl-form-category-a" 
@@ -82,6 +82,7 @@
                           name="spl-form[category][f]"
                           value="Science and Medicine"> Science and Medicine
                 </label>
+              </blockquote>
                 
               </div>
             </div>
