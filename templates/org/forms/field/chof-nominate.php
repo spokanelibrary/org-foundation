@@ -33,7 +33,7 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Achievements</label>
+              <label class="col-sm-4 control-label">Achievements in</label>
               <div class="col-sm-8">
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
@@ -107,9 +107,20 @@
             </div>
 
             <div class="form-group">
-              <label for="spl-form-question" class="col-sm-4 control-label">Comments or Questions</label>
+              <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
-                <textarea rows="6" class="form-control" id="spl-form-question" name="spl-form[question]"></textarea>
+                <p>
+                  In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
+                </p>
+                <ul>
+                  <li>
+                    Why does this individual deserve recognition?
+                  </li>
+                  <li>
+                    How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life.
+                  </li>
+                </ul>
+                <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
               </div>
             </div>
 
