@@ -107,17 +107,19 @@
 
             <label for="spl-form-name" class="col-sm-4 control-label text-warning">Optional</label>
             <div class="col-sm-8">
-              <p>
-                If available, please provide contact information for this nominee.
-              </p>
+              <span class="help-block">
+                <b>
+                  If available, please provide contact information for this nominee.
+                </b>
+              </span>
               <div class="row">
                 <div class="col-md-6">
-                  Nominee's email address
+                  Nominee's email address:
                   <br>
                   <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-email]" placeholder="">
                 </div>
                 <div class="col-md-6">
-                  Nominee's phone number
+                  Nominee's phone number:
                   <br>
                   <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-phone]" placeholder="">
                 </div>
