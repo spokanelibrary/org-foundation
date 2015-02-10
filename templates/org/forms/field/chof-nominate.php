@@ -180,7 +180,10 @@
               </div>
             </div>
 
-            <hr>
+            <legend class="text-muted">
+              <small class="glyphicon glyphicon-checkbox"></small>
+              Send in your nomination:
+            </legend>
 
             <div class="col-md-12">
               <p>
