@@ -21,7 +21,7 @@
           <fieldset>
             <legend class="text-muted">
               <small class="glyphicon glyphicon-pencil"></small>
-              Nomination form
+              Tell us about your nominee:
             </legend>
             
             <div class="form-group">
@@ -117,14 +117,14 @@
                 </span>
                 <div class="row">
                   <div class="col-md-6">
-                    Nominee's email address:
+                    Nominee's email address
                     <br>
-                    <input type="text" class="form-control required" id="spl-form-nominee-email" name="spl-form[nominee-email]" placeholder="">
+                    <input type="text" class="form-control" id="spl-form-nominee-email" name="spl-form[nominee-email]" placeholder="">
                   </div>
                   <div class="col-md-6">
-                    Nominee's phone number:
+                    Nominee's phone number
                     <br>
-                    <input type="text" class="form-control required" id="spl-form-nominee-phone" name="spl-form[nominee-phone]" placeholder="">
+                    <input type="text" class="form-control" id="spl-form-nominee-phone" name="spl-form[nominee-phone]" placeholder="">
                   </div>
                 </div>
               </div>
