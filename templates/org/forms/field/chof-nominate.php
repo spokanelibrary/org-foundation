@@ -130,6 +130,36 @@
 
             <hr>
 
+            <div class="form-group">
+              
+              <label for="spl-form-name" class="col-sm-4 control-label">Nominee Name</label>
+              <div class="col-sm-8">
+                <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
+              </div>
+
+              <label for="spl-form-name" class="col-sm-4 control-label text-warning">Your Contact Information</label>
+              <div class="col-sm-8">
+                <span class="help-block">
+                  <b>
+                    If available, please provide contact information for this nominee.
+                  </b>
+                </span>
+                <div class="row">
+                  <div class="col-md-6">
+                    Nominee's email address:
+                    <br>
+                    <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-email]" placeholder="">
+                  </div>
+                  <div class="col-md-6">
+                    Nominee's phone number:
+                    <br>
+                    <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-phone]" placeholder="">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <hr>
 
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
@@ -150,6 +180,8 @@
                 <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
               </div>
             </div>
+
+            <hr>
 
             <?php include 'common/field-submit.php'; ?>
 
