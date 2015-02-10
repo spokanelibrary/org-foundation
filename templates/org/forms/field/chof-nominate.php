@@ -40,11 +40,11 @@
                 </p>
                 <div class="checkbox">
                   <label>
-                    <input type="checkbox"> Check me out
+                    <input type="checkbox" 
+                          id="spl-form-category-a" 
+                          name="spl-form[category][a]"> Arts &amp; Letters
                   </label>
                 </div>
-                <label for="spl-form-category-a" class="control-label normal">Arts &amp; Letters</label>
-                <input type="checkbox" class="form-control" id="spl-form-category-a" name="spl-form[category][a]" placeholder="">
               </div>
             </div>
 
