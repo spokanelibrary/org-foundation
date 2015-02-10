@@ -25,7 +25,7 @@
             </legend>
             
             <div class="form-group">
-              <label for="spl-form-name" class="col-sm-4 control-label">Contact Person</label>
+              <label for="spl-form-name" class="col-sm-4 control-label">Nominee Name</label>
               <div class="col-sm-8">
                 <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
               </div>
@@ -35,9 +35,6 @@
 
               <label class="col-sm-4 control-label">Category</span></label>
               <div class="col-sm-8">
-                <label class="control-label normal">
-                  Which categories best fit the candidate you are nominating (select all that apply):
-                </label>
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
                 </p>
