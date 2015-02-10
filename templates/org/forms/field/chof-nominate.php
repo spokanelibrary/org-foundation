@@ -41,48 +41,45 @@
                   </b>
                 </p>
                 <blockquote>
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-a" 
-                          name="spl-form[category][a]"
-                          value="Arts and Letters"> Arts &amp; Letters
-                </label>
-
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-b" 
-                          name="spl-form[category][b]"
-                          value="Economic Development and Business"> Economic Development &amp; Business
-                </label>
-
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-c" 
-                          name="spl-form[category][c]"
-                          value="Education"> Education
-                </label>
-
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-d" 
-                          name="spl-form[category][d]"
-                          value="Innovation and Leadership"> Innovation &amp; Leadership
-                </label>
-
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-e" 
-                          name="spl-form[category][e]"
-                          value="Public Service and Philanthropy"> Public Service &amp; Philanthropy
-                </label>
-
-                <label class="checkbox-inline">
-                  <input type="checkbox" 
-                          id="spl-form-category-f" 
-                          name="spl-form[category][f]"
-                          value="Science and Medicine"> Science and Medicine
-                </label>
-              </blockquote>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-a" 
+                            name="spl-form[category][a]"
+                            value="Arts and Letters"> Arts &amp; Letters
+                  </label>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-b" 
+                            name="spl-form[category][b]"
+                            value="Economic Development and Business"> Economic Development &amp; Business
+                  </label>
+                  <br>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-c" 
+                            name="spl-form[category][c]"
+                            value="Education"> Education
+                  </label>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-d" 
+                            name="spl-form[category][d]"
+                            value="Innovation and Leadership"> Innovation &amp; Leadership
+                  </label>
+                  <br>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-e" 
+                            name="spl-form[category][e]"
+                            value="Public Service and Philanthropy"> Public Service &amp; Philanthropy
+                  </label>
+                  <label class="checkbox-inline">
+                    <input type="checkbox" 
+                            id="spl-form-category-f" 
+                            name="spl-form[category][f]"
+                            value="Science and Medicine"> Science and Medicine
+                  </label>
+                </blockquote>
                 
               </div>
             </div>
