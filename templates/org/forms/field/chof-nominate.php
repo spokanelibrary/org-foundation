@@ -182,7 +182,7 @@
 
             <hr>
 
-            <div class="form-group">
+            <div class="col-md-12">
               <p>
                 <b>Reminder:</b> Nominations must be receieved by Febrary 16, 2015.
               </p>
