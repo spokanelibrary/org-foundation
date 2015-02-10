@@ -4,69 +4,82 @@
   </div><!-- /.panel-heading -->
 
   <div class="panel-body">
-    <h4>We received your registration and will contact you shortly.</h4>
+    <h4>We received your nomination and will contact you shortly.</h4>
     <dl class="dl-horizontal">
 
-      <dt>Business Name</dt>
+      <dt>Nominee</dt>
       <dd>
         <p>
-          <?php echo $crass->request['business']; ?>
+          <?php echo $crass->request['nominee']; ?>
         </p>
       </dd>
 
-      <dt>Contact Person</dt>
+      <dt>Nominee Email</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['nominee-email']; ?>
+        </p>
+      </dd>
+      
+      <dt>Nominee Phone</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['nominee-phone']; ?>
+        </p>
+      </dd>
+
+      <dt>Category</dt>
+      <dd>
+        <?php
+        $category = '';
+        if ( is_array($crass->request['category']) ) {
+          foreach ( $crass->request['category'] as $c => $cat ) {
+            $category .= $cat . ', ';
+          }
+        }
+        $category = rtrim(trim($category),',');
+        ?>
+        <p>
+          <?php echo $category; ?>
+        </p>
+      </dd>
+
+      <dt>&nbsp;</dt>
+      <dd>
+        <p>
+          <?php echo $crass->request['epoch']; ?>
+        </p>
+      </dd>
+
+      <?php if( !empty($crass->request['essay']) ) : ?>
+      <dt>Your Essay</dt>
+      <dd>
+        <p>
+          <?php echo nl2br($crass->request['essay']); ?>
+        </p>
+      </dd>
+      <?php endif; ?>
+
+      <dt>Your Name</dt>
       <dd>
         <p>
           <?php echo $crass->request['name']; ?>
         </p>
       </dd>
-      
-      <dt>Email Address</dt>
+
+      <dt>Your Email Address</dt>
       <dd>
         <p>
           <?php echo $crass->request['email']; ?>
         </p>
       </dd>
 
-      <dt>Phone Number</dt>
+      <dt>Your Phone</dt>
       <dd>
         <p>
           <?php echo $crass->request['phone']; ?>
         </p>
       </dd>
-
-      <dt>Mailing Address</dt>
-      <dd>
-        <p>
-          <?php echo nl2br($crass->request['street']); ?>
-          <br>
-          <?php echo $crass->request['city']; ?>, 
-          <?php echo $crass->request['st']; ?>
-          <?php echo $crass->request['zip']; ?>
-        </p>
-      </dd>
-
-      <?php if( !empty($crass->request['team']) ) : ?>
-      <dt>Team Members</dt>
-      <dd>
-        <p>
-          <?php echo $crass->request['team']['a']; ?>
-          <br>
-          <?php echo $crass->request['team']['b']; ?>
-          <br>
-          <?php echo $crass->request['team']['c']; ?>
-        </p>
-      </dd>
-      <?php endif; ?>
-
-      <?php if( !empty($crass->request['question']) ) : ?>
-      <dt>Comments or Questions</dt>
-      <dd>
-        <p>
-          <?php echo nl2br($crass->request['question']); ?>
-        </p>
-      </dd>
-      <?php endif; ?>
 
     </dl>
   </div><!-- /.panel-body -->
