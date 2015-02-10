@@ -41,6 +41,7 @@
                   </b>
                 </p>
                 <blockquote>
+                  &nbsp;
                   <label class="checkbox-inline">
                     <input type="checkbox" 
                             id="spl-form-category-a" 
@@ -53,7 +54,6 @@
                             name="spl-form[category][b]"
                             value="Economic Development and Business"> Economic Development &amp; Business
                   </label>
-                  <br>
                   <label class="checkbox-inline">
                     <input type="checkbox" 
                             id="spl-form-category-c" 
@@ -66,7 +66,6 @@
                             name="spl-form[category][d]"
                             value="Innovation and Leadership"> Innovation &amp; Leadership
                   </label>
-                  <br>
                   <label class="checkbox-inline">
                     <input type="checkbox" 
                             id="spl-form-category-e" 
