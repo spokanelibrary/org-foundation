@@ -105,6 +105,21 @@
               </div>
             </div>
 
+            <label for="spl-form-name" class="col-sm-4 control-label text-warning">Optional</label>
+            <div class="col-sm-8">
+              <p>
+                If available, please provide contact information for this nominee.
+              </p>
+              <div class="row">
+                <div class="col-md-6">
+                  <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-email]" placeholder="">
+                </div>
+                <div class="col-md-6">
+                  <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-phone]" placeholder="">
+                </div>
+              </div>
+            </div>
+
             <div class="form-group">
               <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
@@ -118,7 +133,7 @@
                     Why does this individual deserve recognition?
                   </li>
                   <li>
-                    How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life.
+                    How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life?
                   </li>
                 </ul>
                 <textarea rows="10" class="form-control" id="spl-form-story" name="spl-form[story]"></textarea>
