@@ -112,9 +112,13 @@
               </p>
               <div class="row">
                 <div class="col-md-6">
+                  Nominee's email address
+                  <br>
                   <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-email]" placeholder="">
                 </div>
                 <div class="col-md-6">
+                  Nominee's phone number
+                  <br>
                   <input type="text" class="form-control required" id="spl-form-name" name="spl-form[nominee-phone]" placeholder="">
                 </div>
               </div>
