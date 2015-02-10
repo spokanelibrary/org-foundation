@@ -180,6 +180,10 @@
               </div>
             </div>
 
+            <hr>
+
+            Thank you.
+
             <?php include 'common/field-submit.php'; ?>
 
           </fieldset>
