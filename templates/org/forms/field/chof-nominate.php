@@ -180,9 +180,16 @@
               </div>
             </div>
 
-            <hr>
+            <div class="col-md-8 col-md-offset-4">
+              <p>
+                <b>Reminder:</b> Nominations must be receieved by Febrary 16, 2015.
+              </p>
+              <p>
+              Thank you for your interest in the Spokane Citizen Hall of Fame!
+              </p>
+            </div>
 
-            Thank you.
+            
 
             <?php include 'common/field-submit.php'; ?>
 
