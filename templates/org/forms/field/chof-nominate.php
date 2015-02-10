@@ -35,11 +35,11 @@
 
               <label class="col-sm-4 control-label">For Achievements In</label>
               <div class="col-sm-8">
-                <p>
+                <span class="help-block">
                   <b>
                   Which categories best fit the candidate you are nominating (select all that apply):
                   </b>
-                </p>
+                </span>
                 <blockquote>
 
                   <label class="checkbox-inline">
