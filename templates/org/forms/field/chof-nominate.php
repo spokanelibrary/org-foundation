@@ -117,12 +117,12 @@
                 </span>
                 <div class="row">
                   <div class="col-md-6">
-                    Nominee's email address
+                    <b>Nominee's email address</b>
                     <br>
                     <input type="text" class="form-control" id="spl-form-nominee-email" name="spl-form[nominee-email]" placeholder="">
                   </div>
                   <div class="col-md-6">
-                    Nominee's phone number
+                    <b>Nominee's phone number</b>
                     <br>
                     <input type="text" class="form-control" id="spl-form-nominee-phone" name="spl-form[nominee-phone]" placeholder="">
                   </div>
