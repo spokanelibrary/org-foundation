@@ -25,24 +25,21 @@
             </legend>
             
             <div class="form-group">
-              <label for="spl-form-business" class="col-sm-4 control-label">Business Name</label>
+              <label for="spl-form-name" class="col-sm-4 control-label">Contact Person</label>
               <div class="col-sm-8">
-                <input type="text" class="form-control required" id="spl-form-business" name="spl-form[business]" placeholder="">
+                <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
               </div>
             </div>
-
-            <?php include 'common/field-contact.php'; ?>
 
             <div class="form-group">
 
               <label class="col-sm-4 control-label">Team Members</span></label>
               <div class="col-sm-8">
                 <label class="control-label normal">
-                  <b>Optional:</b> 
-                  Enter the names of your 3 team members. 
+                  Category
                 </label>
                 <p>
-                  You can change your team members prior to the event.
+                  Which categories best fit the candidate you are nominating (select all that apply):
                 </p>
                 <!-- <label for="spl-form-team-a" class="control-label normal">Team Member Name</label> -->
                 <input type="text" class="form-control" id="spl-form-team-a" name="spl-form[team][a]" placeholder="">
