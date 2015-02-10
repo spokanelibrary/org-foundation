@@ -1,7 +1,7 @@
 // Global configuration
 var config = { 
       path: {
-              absolute: 'http://beta.spokanelibraryfoundation.org'
+              absolute: 'http://www.spokanelibraryfoundation.org'
     }
 }
 

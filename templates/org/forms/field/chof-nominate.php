@@ -20,8 +20,8 @@
 
           <fieldset>
             <legend class="text-muted">
-              <small class="glyphicon glyphicon-question-pencil"></small>
-              Register your team &ndash; $750
+              <small class="glyphicon glyphicon-pencil"></small>
+              Tell us about your nominee
             </legend>
             
             <div class="form-group">
