@@ -181,11 +181,11 @@
             </div>
 
             <legend class="text-muted">
-              <small class="glyphicon glyphicon-checkbox"></small>
+              <small class="glyphicon glyphicon-check"></small>
               Send in your nomination:
             </legend>
 
-            <div class="col-md-12">
+            <div class="col-md-8 col-md-offset-4">
               <p>
                 <b>Reminder:</b> Nominations must be receieved by Febrary 16, 2015.
               </p>
