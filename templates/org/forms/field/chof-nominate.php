@@ -131,7 +131,7 @@
             </div>
 
             <div class="form-group">
-              <label for="spl-form-question" class="col-sm-4 control-label">Nominee's Story</label>
+              <label for="spl-form-essay" class="col-sm-4 control-label">Nominee's Story</label>
               <div class="col-sm-8">
                 <span class="help-block">
                   <b>
@@ -146,7 +146,7 @@
                     How has this individual's achievements brought recognition to Spokane and/or contributed to Spokane's development and quality of life?
                   </li>
                 </ul>
-                <textarea rows="10" class="form-control required" id="spl-form-story" name="spl-form[story]"></textarea>
+                <textarea rows="10" class="form-control required" id="spl-form-essay" name="spl-form[essay]"></textarea>
               </div>
             </div>
 
