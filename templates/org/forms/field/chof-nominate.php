@@ -155,7 +155,11 @@
             <hr>
 
             <div class="form-group">
-              
+
+              <h4>
+                Please let us know how to reach you:
+              </h4>
+
               <label for="spl-form-name" class="col-sm-4 control-label">Your Name</label>
               <div class="col-sm-8">
                 <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
