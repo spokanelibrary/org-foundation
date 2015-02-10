@@ -33,10 +33,10 @@
 
             <div class="form-group">
 
-              <label class="col-sm-4 control-label">Team Members</span></label>
+              <label class="col-sm-4 control-label">Category</span></label>
               <div class="col-sm-8">
                 <label class="control-label normal">
-                  Category
+                  Which categories best fit the candidate you are nominating (select all that apply):
                 </label>
                 <p>
                   Which categories best fit the candidate you are nominating (select all that apply):
