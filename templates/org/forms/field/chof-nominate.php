@@ -166,21 +166,17 @@
                 <input type="text" class="form-control required" id="spl-form-name" name="spl-form[name]" placeholder="">
               </div>
 
-              <label for="spl-form-name" class="col-sm-4 control-label">Your Contact Information</label>
+              <label for="spl-form-name" class="col-sm-4 control-label">&nbsp;</label>
               <div class="col-sm-8">
-                <span class="help-block">
-                  <b>
-                    Please let us know how to reach you.
-                  </b>
-                </span>
+    
                 <div class="row">
                   <div class="col-md-6">
-                    Your email address:
+                    <b>Your email address</b>
                     <br>
                     <input type="text" class="form-control required" id="spl-form-email" name="spl-form[email]" placeholder="">
                   </div>
                   <div class="col-md-6">
-                    Your phone number:
+                    <b>Your phone number</b>
                     <br>
                     <input type="text" class="form-control required" id="spl-form-phone" name="spl-form[phone]" placeholder="">
                   </div>
