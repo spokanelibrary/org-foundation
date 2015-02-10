@@ -44,7 +44,7 @@
         </p>
       </dd>
 
-      <dt>&nbsp;</dt>
+      <dt>Nominee Is</dt>
       <dd>
         <p>
           <?php echo $crass->request['epoch']; ?>

@@ -1,3 +1,9 @@
+<p class="lead">
+  Nominations are being accepted between Monday, January 26 and February 16 at 5:00 p.m. 
+  More information about the nomination criteria and selection process <a href="/citizen-hall-of-fame-about/">is available here</a>. 
+  You can also <a href="#form-dl">download a nomination form</a> to print or email.
+</p>
+
 <div class="row">
 
   <div class="col-md-12">
@@ -206,3 +212,34 @@
   </div><!-- /.col -->
 
 </div><!-- /.row -->
+
+
+
+<div id="form-dl">
+  <h3>Download a nomination form:</h3>
+  Return the completed form to us following the instructions below.
+  <a href="/citizen-hall-of-fame-about/">More information about the nomination criteria and selection process is available here</a>.
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <a class="btn btn-block btn-danger" href="/wordpress/wp-content/uploads/SCHoF-Nomination-Form.pdf"><i class="glyphicon glyphicon-download"></i> Download a PDF form</a>
+  </div>
+  <div class="col-md-6">
+  <a class="btn btn-block btn-primary" href="http://www.spokanelibraryfoundation.org/wordpress/wp-content/uploads/SCHoF-Nomination-Form-WORD.docx"><i class="glyphicon glyphicon-download"></i> Download MS Word document</a>
+  </div>
+</div>
+
+<h3>Three ways to send in your form:</h3>
+<ol>
+  <li>Email your form to us.</li>
+  <li>Mail your form to us:
+    <b>Spokane Public Library Foundation</b>
+    <b>Attn: Sarah Bain</b>
+    <b>906 West Main Avenue</b>
+    <b>Spokane, WA 99201-0976</b>
+  </li>
+  <li>Drop off your form at any one of our six <a href="http://beta.spokanelibrary.org/branches/">Spokane Public Library branches</a>.</li>
+</ol>
+<p>
+Forms <b>must</b> reach us no later than 5:00 p.m. on Monday, February 16, 2015.
+</p>
