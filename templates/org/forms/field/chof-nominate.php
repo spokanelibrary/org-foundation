@@ -44,6 +44,11 @@
                           id="spl-form-category-a" 
                           name="spl-form[category][a]"> Arts &amp; Letters
                   </label>
+                  <label>
+                    <input type="checkbox" 
+                          id="spl-form-category-b" 
+                          name="spl-form[category][b]"> Economic Development and Business
+                  </label>
                 </div>
               </div>
             </div>
