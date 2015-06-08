@@ -26,7 +26,7 @@
           <fieldset>
             <legend class="text-muted">
               <small class="glyphicon glyphicon-question-pencil"></small>
-              Register your individual team &ndash; $150
+              Register your individual team &ndash; $300
             </legend>
             
             <!--
