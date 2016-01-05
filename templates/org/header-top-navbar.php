@@ -46,7 +46,7 @@
         <span class="text-hide"><?php bloginfo('name'); ?></span>
       </a>
     </div>
-    <div class="pull-right" style="width: 300px; padding-top:10px;">
+    <div class="pull-right" style="width: 340px; padding-top:10px;">
       <em class="text-primary serif">
       <span style="font-size:1.25em;">&ldquo;</span>I have found that among its other benefits, giving liberates the soul of the giver.<span style="font-size:1.25em;">&rdquo;</em>
       </em>
