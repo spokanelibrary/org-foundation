@@ -1,5 +1,5 @@
 <p class="lead">
-  Nominations are being accepted between Monday, January 26 and February 16 at 5:00 p.m. 
+  Nominations are being accepted between Monday, January 11 and Thursday, February 4 at 5:00 p.m. 
   More information about the nomination criteria and selection process <a href="/citizen-hall-of-fame-about/">is available here</a>. 
   You can also <a href="#form-dl">download a nomination form</a> to print or email.
 </p>
