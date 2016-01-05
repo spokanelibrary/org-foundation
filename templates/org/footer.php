@@ -41,7 +41,7 @@
          </span>
         </p>
         <p class="text-right">
-          <a href="http://www.spokanelibrary.org"><img alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-Blue.png"></a>
+          <a href="http://www.spokanelibrary.org"><img style="width:162px;" alt="Spokane Public Library Logo" src="/assets/img/SPL-Logo-Blue.png"></a>
         </p>
       </div><!-- /.col -->
     </div><!-- /.row -->
