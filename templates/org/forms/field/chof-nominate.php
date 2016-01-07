@@ -1,7 +1,7 @@
 <p class="lead">
-  Nominations are being accepted between Monday, January 11 and Thursday, February 4 at 5:00 p.m. 
+  Nominations are are open for the second Annual Citizen Hall of Fame between Monday, January 11 and Thursday, February 4 at 5:00 p.m. 
   More information about the nomination criteria and selection process <a href="/citizen-hall-of-fame-about/">is available here</a>. 
-  You can also <a href="#form-dl">download a nomination form</a> to print or email.
+  Printed forms are also available at each of our <a href="http://www.spokanelibrary.org/branches/">six branches</a> and at the MySpokane counter at the first floor of City Hall. 
 </p>
 
 <div class="row">
@@ -114,11 +114,11 @@
             </div>
 
             <div class="form-group">
-              <label for="spl-form-name" class="col-sm-4 control-label text-warning">Optional</label>
+              <label for="spl-form-name" class="col-sm-4 control-label text-warning"></label>
               <div class="col-sm-8">
                 <span class="help-block">
                   <b>
-                    If available, please provide contact information for this nominee.
+                    If available, please provide contact information for this nominee or the contact information for the closest living relative or friend, if known.
                   </b>
                 </span>
                 <div class="row">
@@ -193,7 +193,7 @@
 
             <div class="col-md-8 col-md-offset-4">
               <p>
-                <b>Reminder:</b> Nominations must be receieved by 5:00 p.m. Febrary 16, 2015.
+                <b>Reminder:</b> Nominations must be receieved by 5:00 p.m. Febrary 4, 2016.
               </p>
               <p>
               Thank you for your interest in the Spokane Citizen Hall of Fame!
@@ -214,7 +214,7 @@
 </div><!-- /.row -->
 
 
-
+<!--
 <div id="form-dl">
   <h3>Download a nomination form:</h3>
   Return the completed form to us following the instructions below.
@@ -243,3 +243,4 @@
 <p>
 Forms <b>must</b> reach us no later than 5:00 p.m. on Monday, February 16, 2015.
 </p>
+-->
