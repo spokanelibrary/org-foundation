@@ -141,7 +141,7 @@
               <div class="col-sm-8">
                 <span class="help-block">
                   <b>
-                  In about 500 words, please tell us your nominee's inspiring story by answering one or both of these questions:
+                  In about 500 words or less, please tell us your nominee's inspiring story by answering one or both of these questions:
                   </b>
                 </span>
                 <ul>
