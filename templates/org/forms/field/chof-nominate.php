@@ -193,7 +193,7 @@
 
             <div class="col-md-8 col-md-offset-4">
               <p>
-                <b>Reminder:</b> Nominations must be receieved by 5:00 p.m. Febrary 4, 2016.
+                <b>Reminder:</b> Nominations must be receieved by 5:00 p.m. February 4, 2016.
               </p>
               <p>
               Thank you for your interest in the Spokane Citizen Hall of Fame!
