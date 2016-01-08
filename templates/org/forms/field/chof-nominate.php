@@ -1,5 +1,8 @@
 <p class="lead">
-  Nominations are are open for the second Annual Citizen Hall of Fame between Monday, January 11 and Thursday, February 4 at 5:00 p.m. 
+  The Spokane Citizen’s Hall of Fame recognizes individuals in Spokane for their achievement in one of six categories, while providing an opportunity to raise funds for the Spokane Public Library. 
+</p>
+<p>
+  <b>Nominations are are open</b> for the second Annual Citizen Hall of Fame between Monday, January 11 and Thursday, February 4 at 5:00 p.m. 
   More information about the nomination criteria and selection process <a href="/citizen-hall-of-fame-about/">is available here</a>. 
   Printed forms are also available at each of our <a href="http://www.spokanelibrary.org/branches/">six branches</a> and at the MySpokane counter at the first floor of City Hall. 
 </p>
