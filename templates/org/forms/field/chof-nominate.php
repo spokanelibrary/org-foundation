@@ -6,6 +6,9 @@
   More information about the nomination criteria and selection process <a href="/citizen-hall-of-fame-about/">is available here</a>. 
   Printed forms are also available at each of our <a href="http://www.spokanelibrary.org/branches/">six branches</a> and at the MySpokane counter at the first floor of City Hall. 
 </p>
+<p>
+  <a href="btn btn-primary">Learn more about the nomination process &rarr;</a>
+</p>
 
 <div class="row">
 
