@@ -30,7 +30,7 @@
           <a href="mailto:foundation@spokanelibrary.org">foundation@spokanelibrary.org</a>
         </p>
         <p class="text-center">
-          <a class="help-block" href="/financial-information"><small>FEIN: 91-1917727</small></a>
+          <a class="help-block" href="http://www.guidestar.org/profile/91-1917727"><small>FEIN: 91-1917727</small></a>
         </p>
       </div><!-- /.col -->
 
