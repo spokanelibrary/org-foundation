@@ -90,7 +90,7 @@
                     <input type="checkbox" 
                             id="spl-form-category-f" 
                             name="spl-form[category][f]"
-                            value="Science and Medicine"> Science and Medicine
+                            value="Science and Medicine"> Science, Health and Medicine
                   </label>
                 </div>
                 
