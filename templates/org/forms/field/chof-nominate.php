@@ -7,7 +7,7 @@
   Printed forms are also available at each of our <a href="http://www.spokanelibrary.org/branches/">six branches</a> and at the MySpokane counter at the first floor of City Hall. 
 </p>
 <p>
-  <a class="btn btn-primary" href="/citizen-hall-of-fame/">Learn more about the Hall of Fame and the nomination process &rarr;</a>
+  <a class="btn btn-primary" href="/citizen-hall-of-fame-about/">Learn more about the Hall of Fame and the nomination process &rarr;</a>
 </p>
 
 <div class="row">
